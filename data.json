@@ -1218,7 +1218,7 @@
       "price": 7.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "gluten",
@@ -1246,7 +1246,7 @@
       "price": 5.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1273,7 +1273,7 @@
       "price": 6.2,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1300,7 +1300,7 @@
       "price": 5.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy"
@@ -1326,7 +1326,7 @@
       "price": 6.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy"
@@ -1352,7 +1352,7 @@
       "price": 7.0,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1380,7 +1380,7 @@
       "price": 7.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1408,7 +1408,7 @@
       "price": 6.5,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy"
@@ -1434,7 +1434,7 @@
       "price": 6.0,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [],
       "description": {
@@ -1458,7 +1458,7 @@
       "price": 7.0,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1486,7 +1486,7 @@
       "price": 6.8,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [
         "dairy",
@@ -1513,7 +1513,7 @@
       "price": 5.0,
       "cover": "",
       "category": {
-        "common": "desserts"
+        "common": "toppings"
       },
       "allergens": [],
       "description": {
