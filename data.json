@@ -871,7 +871,7 @@
       "price": 16.0,
       "cover": "",
       "category": {
-        "common": "eggs"
+        "common": "milkshakes"
       },
       "allergens": [
         "eggs",
@@ -898,7 +898,7 @@
       "price": 14.0,
       "cover": "",
       "category": {
-        "common": "eggs"
+        "common": "milkshakes"
       },
       "allergens": [
         "eggs",
@@ -925,7 +925,7 @@
       "price": 14.5,
       "cover": "",
       "category": {
-        "common": "eggs"
+        "common": "milkshakes"
       },
       "allergens": [
         "eggs",
