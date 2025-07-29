@@ -132,12 +132,7 @@
       "price": 10.5,
       "cover": "https://images.unsplash.com/photo-1722032617357-7b09276b1a8d?q=80&w=2346&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "eggs",
@@ -165,12 +160,7 @@
       "price": 28.0,
       "cover": "https://images.unsplash.com/photo-1709790028365-d49ae1e20f53?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [],
       "description": {
@@ -194,12 +184,7 @@
       "price": 14.0,
       "cover": "https://images.unsplash.com/photo-1524835208047-0ed22b4dbc82?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "dairy"
@@ -225,12 +210,7 @@
       "price": 12.0,
       "cover": "https://images.unsplash.com/photo-1625414501850-f01e1cda5121?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "eggs",
@@ -257,12 +237,7 @@
       "price": 14.0,
       "cover": "https://images.unsplash.com/photo-1665332962395-055bc5e562bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "eggs",
@@ -289,12 +264,7 @@
       "price": 25.0,
       "cover": "https://images.unsplash.com/photo-1673432512498-9e1aed6cbd29?q=80&w=522&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "fish"
@@ -320,12 +290,7 @@
       "price": 14.0,
       "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeliciasburgos.es%2Fblog%2Fwp-content%2Fuploads%2F2014%2F11%2Fmorcilla-burgos-delicias-burgos.jpg&f=1&nofb=1&ipt=a562c36a3adcb5a7f23a454598ef3ebf7ac0ba8d1982ba0f4f2cce9b10a2b420",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "gluten"
@@ -351,12 +316,7 @@
       "price": 12.5,
       "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.topgastronomico.es%2Fwp-content%2Fuploads%2F2022%2F07%2FAdobeStock_489503203-scaled.jpeg&f=1&nofb=1&ipt=987b8df14be851958be2e8483edb2e2e9923e47bbcafe943f04046722727194b",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "gluten",
@@ -384,12 +344,7 @@
       "price": 9.5,
       "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvictors.es%2Fwp-content%2Fuploads%2F2023%2F08%2Fupdated_Deliciosas_manitas_de_cerdo_en_olla_express_sabores_irresistibles_en_tiempo_r_cord_.jpg&f=1&nofb=1&ipt=b6d1c621016d1fe326d8446961553647127a2dc61ca43b80ad25bebb8e3ccb58",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "gluten",
@@ -416,12 +371,7 @@
       "price": 24.0,
       "cover": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "fish"
@@ -447,12 +397,7 @@
       "price": 21.0,
       "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F05%2F52%2F42%2F47%2F1000_F_552424761_sZG0MzbdcDr0MZnQeyqi3qenxvHZJqMi.jpg&f=1&nofb=1&ipt=7900444b7d404e61ac90853cdf9c5e6cddd02f01e9b581d6a7da34602c3fa305",
       "category": {
-        "common": "burgers",
-        "es": "Hamburguesas",
-        "en": "Burgers",
-        "pt": "Hambúrgueres",
-        "fr": "Burgers",
-        "de": "Burgers"
+        "common": "burgers"
       },
       "allergens": [
         "gluten"
@@ -478,12 +423,7 @@
       "price": 32.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -507,12 +447,7 @@
       "price": 32.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -536,12 +471,7 @@
       "price": 20.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -565,12 +495,7 @@
       "price": 24.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [
         "eggs",
@@ -597,12 +522,7 @@
       "price": 28.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -626,12 +546,7 @@
       "price": 23.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -655,12 +570,7 @@
       "price": 24.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [
         "gluten",
@@ -687,12 +597,7 @@
       "price": 31.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -716,12 +621,7 @@
       "price": 31.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -774,12 +674,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables",
-        "es": "verduras",
-        "en": "vegetables",
-        "pt": "vegetais",
-        "fr": "légumes",
-        "de": "gemüse"
+        "common": "vegetables"
       },
       "allergens": [
         "eggs"
@@ -805,12 +700,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables",
-        "es": "verduras",
-        "en": "vegetables",
-        "pt": "vegetais",
-        "fr": "légumes",
-        "de": "gemüse"
+        "common": "vegetables"
       },
       "allergens": [],
       "description": {
@@ -834,12 +724,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables",
-        "es": "verduras",
-        "en": "vegetables",
-        "pt": "vegetais",
-        "fr": "légumes",
-        "de": "gemüse"
+        "common": "vegetables"
       },
       "allergens": [],
       "description": {
@@ -863,12 +748,7 @@
       "price": 14.0,
       "cover": "",
       "category": {
-        "common": "vegetables",
-        "es": "verduras",
-        "en": "vegetables",
-        "pt": "vegetais",
-        "fr": "légumes",
-        "de": "gemüse"
+        "common": "vegetables"
       },
       "allergens": [],
       "description": {
@@ -892,12 +772,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables",
-        "es": "verduras",
-        "en": "vegetables",
-        "pt": "vegetais",
-        "fr": "légumes",
-        "de": "gemüse"
+        "common": "vegetables"
       },
       "allergens": [],
       "description": {
@@ -921,12 +796,7 @@
       "price": 12.0,
       "cover": "",
       "category": {
-        "common": "soups",
-        "es": "sopas",
-        "en": "soups",
-        "pt": "sopas",
-        "fr": "soupes",
-        "de": "Suppen"
+        "common": "soups"
       },
       "allergens": [
         "eggs",
@@ -954,12 +824,7 @@
       "price": 8.5,
       "cover": "",
       "category": {
-        "common": "soups",
-        "es": "sopas",
-        "en": "soups",
-        "pt": "sopas",
-        "fr": "soupes",
-        "de": "Suppen"
+        "common": "soups"
       },
       "allergens": [
         "none"
@@ -985,12 +850,7 @@
       "price": 12.0,
       "cover": "",
       "category": {
-        "common": "soups",
-        "es": "sopas",
-        "en": "soups",
-        "pt": "sopas",
-        "fr": "soupes",
-        "de": "Suppen"
+        "common": "soups"
       },
       "allergens": [
         "gluten"
@@ -1016,12 +876,7 @@
       "price": 16.0,
       "cover": "",
       "category": {
-        "common": "eggs",
-        "es": "huevos",
-        "en": "eggs",
-        "pt": "ovos",
-        "fr": "oeufs",
-        "de": "Eier"
+        "common": "eggs"
       },
       "allergens": [
         "eggs",
@@ -1048,12 +903,7 @@
       "price": 14.0,
       "cover": "",
       "category": {
-        "common": "eggs",
-        "es": "huevos",
-        "en": "eggs",
-        "pt": "ovos",
-        "fr": "oeufs",
-        "de": "Eier"
+        "common": "eggs"
       },
       "allergens": [
         "eggs",
@@ -1080,12 +930,7 @@
       "price": 14.5,
       "cover": "",
       "category": {
-        "common": "eggs",
-        "es": "huevos",
-        "en": "eggs",
-        "pt": "ovos",
-        "fr": "oeufs",
-        "de": "Eier"
+        "common": "eggs"
       },
       "allergens": [
         "eggs",
@@ -1113,12 +958,7 @@
       "price": 180,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "eggs",
@@ -1146,12 +986,7 @@
       "price": 28,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1177,12 +1012,7 @@
       "price": 35,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish",
@@ -1209,12 +1039,7 @@
       "price": 22,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish",
@@ -1241,12 +1066,7 @@
       "price": 26.5,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish",
@@ -1273,12 +1093,7 @@
       "price": 30,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1304,12 +1119,7 @@
       "price": 29,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1335,12 +1145,7 @@
       "price": 35,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1366,12 +1171,7 @@
       "price": 25.5,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1397,12 +1197,7 @@
       "price": 28,
       "cover": "",
       "category": {
-        "common": "fish",
-        "es": "pescados",
-        "en": "fish",
-        "pt": "peixes",
-        "fr": "poissons",
-        "de": "Fische"
+        "common": "fish"
       },
       "allergens": [
         "fish"
@@ -1428,12 +1223,7 @@
       "price": 7.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "gluten",
@@ -1461,12 +1251,7 @@
       "price": 5.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1493,12 +1278,7 @@
       "price": 6.2,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1525,12 +1305,7 @@
       "price": 5.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy"
@@ -1556,12 +1331,7 @@
       "price": 6.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy"
@@ -1587,12 +1357,7 @@
       "price": 7.0,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1620,12 +1385,7 @@
       "price": 7.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1653,12 +1413,7 @@
       "price": 6.5,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy"
@@ -1684,12 +1439,7 @@
       "price": 6.0,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [],
       "description": {
@@ -1713,12 +1463,7 @@
       "price": 7.0,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1746,12 +1491,7 @@
       "price": 6.8,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [
         "dairy",
@@ -1778,12 +1518,7 @@
       "price": 5.0,
       "cover": "",
       "category": {
-        "common": "desserts",
-        "es": "postres",
-        "en": "desserts",
-        "pt": "sobremesas",
-        "fr": "desserts",
-        "de": "Desserts"
+        "common": "desserts"
       },
       "allergens": [],
       "description": {
