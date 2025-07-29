@@ -669,7 +669,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables"
+        "common": "drinks"
       },
       "allergens": [
         "eggs"
@@ -695,7 +695,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables"
+        "common": "drinks"
       },
       "allergens": [],
       "description": {
@@ -719,7 +719,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables"
+        "common": "drinks"
       },
       "allergens": [],
       "description": {
@@ -743,7 +743,7 @@
       "price": 14.0,
       "cover": "",
       "category": {
-        "common": "vegetables"
+        "common": "drinks"
       },
       "allergens": [],
       "description": {
@@ -767,7 +767,7 @@
       "price": 15.0,
       "cover": "",
       "category": {
-        "common": "vegetables"
+        "common": "drinks"
       },
       "allergens": [],
       "description": {
