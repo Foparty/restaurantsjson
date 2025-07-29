@@ -23,6 +23,16 @@
 	"categories": [
 		{
 			"order": 1,
+			"slug": "salads",
+			"es": "ensaladas",
+			"en": "Salads",
+			"pt": "Saladas",
+			"fr": "Salades",
+			"de": "Salate",
+			"cover": ""
+		},
+		{
+			"order": 2,
 			"slug": "appetizers",
 			"es": "Entrantes",
 			"en": "Appetizers",
@@ -32,7 +42,17 @@
 			"cover": ""
 		},
 		{
-			"order": 2,
+			"order": 3,
+			"slug": "rawbar",
+			"es": "Barra Cruda",
+			"en": "Raw Bar",
+			"pt": "Barra Crua",
+			"fr": "Bar à Huîtres",
+			"de": "Rohbar",
+			"cover": ""
+		},
+		{
+			"order": 4,
 			"slug": "pasta",
 			"es": "Pasta",
 			"en": "Pasta",
@@ -42,7 +62,7 @@
 			"cover": ""
 		},
 		{
-			"order": 3,
+			"order": 5,
 			"slug": "chicken",
 			"es": "Pollo",
 			"en": "Chicken",
@@ -52,7 +72,17 @@
 			"cover": ""
 		},
 		{
-			"order": 4,
+			"order": 6,
+			"slug": "veal",
+			"es": "Ternera",
+			"en": "Veal",
+			"pt": "Vitela",
+			"fr": "Veau",
+			"de": "Kalbfleisch",
+			"cover": ""
+		},
+		{
+			"order": 7,
 			"slug": "steak",
 			"es": "Bistec",
 			"en": "Steak",
@@ -62,7 +92,7 @@
 			"cover": ""
 		},
 		{
-			"order": 5,
+			"order": 8,
 			"slug": "seafood",
 			"es": "Mariscos",
 			"en": "Seafood",
@@ -72,7 +102,17 @@
 			"cover": ""
 		},
 		{
-			"order": 6,
+			"order": 9,
+			"slug": "vegssides",
+			"es": "Verduras y Guarniciones",
+			"en": "Vegetables & Sides",
+			"pt": "Vegetais e Acompanhamentos",
+			"fr": "Légumes et Accompagnements",
+			"de": "Gemüse und Beilagen",
+			"cover": ""
+		},
+		{
+			"order": 10,
 			"slug": "desserts",
 			"es": "Postres",
 			"en": "Desserts",
@@ -80,21 +120,107 @@
 			"fr": "Desserts",
 			"de": "Nachspeisen",
 			"cover": ""
-		},
-		{
-			"order": 7,
-			"slug": "toppings",
-			"es": "Toppings",
-			"en": "Toppings",
-			"pt": "Coberturas",
-			"fr": "Garnitures",
-			"de": "Beläge",
-			"cover": ""
 		}
 	],
 	"items": [
 		{
 			"id": 100,
+			"name_i18n": {
+				"common": "cesarsalad",
+				"es": "Ensalada César",
+				"en": "Caesar Salad",
+				"pt": "Salada César",
+				"fr": "Salade César",
+				"de": "Caesar-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Lechuga Romana, Queso Parmesano, Picatostes, Aderezo César",
+				"en": "Romaine Lettuce, Parmesan Cheese, Croutons, Caesar Dressing",
+				"pt": "Alface Romana, Queijo Parmesão, Croutons, Molho Caesar",
+				"fr": "Laitue Romaine, Fromage Parmesan, Croûtons, Sauce César",
+				"de": "Römersalat, Parmesan, Croutons, Caesar-Dressing"
+			}
+		},
+		{
+			"id": 101,
+			"name_i18n": {
+				"common": "capresesalad",
+				"es": "Ensalada Caprese",
+				"en": "Caprese Salad",
+				"pt": "Salada Caprese",
+				"fr": "Salade Caprese",
+				"de": "Caprese-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Tomates Maduras con Bocconcini, Cebollas Rojas, Aceitunas Cerignola y Kalamata, Pimientos Asados, Albahaca Fresca, Aceite de Oliva y Vinagre de Vino Tinto Añejo Sal, Pimienta y Orégano",
+				"en": "Ripened Tomatoes with Bocconcini, Red Onions, Cerignola & Kalamata Olives, Roasted Red Peppers, Fresh Basil, Olive Oil & Aged Red Wine Vinegar Salt, Pepper and Oregano",
+				"pt": "Tomates Madurados com Bocconcini, Cebolas Roxas, Azeitonas Cerignola e Kalamata, Pimentos Assados, Manjericão Fresco, Azeite de Oliva e Vinagre de Vinho Tinto Envelhecido Sal, Pimenta e Orégano",
+				"fr": "Tomates Mûres avec Bocconcini, Oignons Rouges, Olives Cerignola & Kalamata, Poivrons Rouges Rôtis, Basilic Frais, Huile d'Olive & Vinaigre de Vin Rouge Vieilli Sel, Poivre et Origan",
+				"de": "Reife Tomaten mit Bocconcini, roten Zwiebeln, Cerignola- und Kalamata-Oliven, gerösteten roten Paprika, frischem Basilikum, Olivenöl und gereiftem Rotweinessig Salz, Pfeffer und Oregano"
+			}
+		},
+		{
+			"id": 102,
+			"name_i18n": {
+				"common": "mixedgreensalad",
+				"es": "Ensalada Mixta",
+				"en": "Mixed Green Salad",
+				"pt": "Salada Verde Mista",
+				"fr": "Salade Verte Mélangée",
+				"de": "Gemischter Blattsalat"
+			},
+			"price": 31.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Lechugas Mixtas, Tomate, Cebolla, Pimiento, Apio, Rábano, Aderezo de Vinagreta Casera",
+				"en": "Mixed Greens, Tomato, Onions, Pepperoncini, Celery, Radish, Housemade Vinaigrette Dressing",
+				"pt": "Verduras Mistas, Tomate, Cebolas, Pimentões, Aipo, Rabanete, Molho Vinagrete Caseiro",
+				"fr": "Salade Verte Mélangée, Tomate, Oignons, Poivrons, Céleri, Radis, Vinaigrette Maison",
+				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Pepperoncini, Sellerie, Radieschen, Hausgemachtes Vinaigrette-Dressing"
+			}
+		},
+		{
+			"id": 103,
+			"name_i18n": {
+				"common": "carminessalad",
+				"es": "Ensalada Carmine",
+				"en": "Carmine's Salad",
+				"pt": "Salada Carmine",
+				"fr": "Salade Carmine",
+				"de": "Carmine-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Verduras Mixtas, Tomate, Cebolla, Rábano, Pimiento, Apio, Aceitunas, Salami Picado, Mortadela, Provolone Extra Fuerte, Aderezo de Vinagreta Casera",
+				"en": "Mixed Greens, Tomato, Onions, Radish, Pepperoncini, Celery, Olives, Diced Salami, Mortadella, Extra Sharp Provolone, Housemade Vinaigrette Dressing",
+				"pt": "Verduras Mistas, Tomate, Cebolas, Rabanete, Pimentões, Aipo, Azeitonas, Salame Picado, Mortadela, Provolone Extra Forte, Molho Vinagrete Caseiro",
+				"fr": "Salade Verte Mélangée, Tomate, Oignons, Radis, Poivrons, Céleri, Olives, Salami Haché, Mortadelle, Provolone Extra Fort, Vinaigrette Maison",
+				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Radieschen, Pepperoncini, Sellerie, Oliven, gewürfelte Salami, Mortadella, extra scharfer Provolone, hausgemachtes Vinaigrette-Dressing"
+			}
+		},
+		{
+			"id": 200,
 			"name_i18n": {
 				"common": "garlicbread",
 				"es": "Garlic Bread",
