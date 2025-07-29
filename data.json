@@ -423,7 +423,7 @@
       "price": 32.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -447,7 +447,7 @@
       "price": 32.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -471,7 +471,7 @@
       "price": 20.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -495,7 +495,7 @@
       "price": 24.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [
         "eggs",
@@ -522,7 +522,7 @@
       "price": 28.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -546,7 +546,7 @@
       "price": 23.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -570,7 +570,7 @@
       "price": 24.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [
         "gluten",
@@ -597,7 +597,7 @@
       "price": 31.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -621,7 +621,7 @@
       "price": 31.0,
       "cover": "",
       "category": {
-        "common": "meat"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
@@ -645,12 +645,7 @@
       "price": 30.0,
       "cover": "",
       "category": {
-        "common": "meat",
-        "es": "carnes y asados",
-        "en": "meat and roasts",
-        "pt": "carnes e assados",
-        "fr": "viandes et rôtis",
-        "de": "fleisch und braten"
+        "common": "dogs"
       },
       "allergens": [],
       "description": {
