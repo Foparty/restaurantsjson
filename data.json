@@ -791,7 +791,7 @@
       "price": 12.0,
       "cover": "",
       "category": {
-        "common": "soups"
+        "common": "fries"
       },
       "allergens": [
         "eggs",
@@ -819,7 +819,7 @@
       "price": 8.5,
       "cover": "",
       "category": {
-        "common": "soups"
+        "common": "fries"
       },
       "allergens": [
         "none"
@@ -845,7 +845,7 @@
       "price": 12.0,
       "cover": "",
       "category": {
-        "common": "soups"
+        "common": "fries"
       },
       "allergens": [
         "gluten"
