@@ -23,22 +23,22 @@
 	"categories": [
 		{
 			"order": 1,
-			"slug": "salads",
-			"es": "ensaladas",
-			"en": "Salads",
-			"pt": "Saladas",
-			"fr": "Salades",
-			"de": "Salate",
-			"cover": ""
-		},
-		{
-			"order": 2,
 			"slug": "appetizers",
 			"es": "Entrantes",
 			"en": "Appetizers",
 			"pt": "Aperitivos",
 			"fr": "Entrées",
 			"de": "Vorspeisen",
+			"cover": ""
+		},
+		{
+			"order": 2,
+			"slug": "salads",
+			"es": "ensaladas",
+			"en": "Salads",
+			"pt": "Saladas",
+			"fr": "Salades",
+			"de": "Salate",
 			"cover": ""
 		},
 		{
@@ -126,121 +126,25 @@
 		{
 			"id": 100,
 			"name_i18n": {
-				"common": "cesarsalad",
-				"es": "Ensalada César",
-				"en": "Caesar Salad",
-				"pt": "Salada César",
-				"fr": "Salade César",
-				"de": "Caesar-Salat"
-			},
-			"price": 34.95,
-			"cover": "",
-			"category": {
-				"common": "salads"
-			},
-			"allergens": [],
-			"description": {
-				"es": "Lechuga Romana, Queso Parmesano, Picatostes, Aderezo César",
-				"en": "Romaine Lettuce, Parmesan Cheese, Croutons, Caesar Dressing",
-				"pt": "Alface Romana, Queijo Parmesão, Croutons, Molho Caesar",
-				"fr": "Laitue Romaine, Fromage Parmesan, Croûtons, Sauce César",
-				"de": "Römersalat, Parmesan, Croutons, Caesar-Dressing"
-			}
-		},
-		{
-			"id": 101,
-			"name_i18n": {
-				"common": "capresesalad",
-				"es": "Ensalada Caprese",
-				"en": "Caprese Salad",
-				"pt": "Salada Caprese",
-				"fr": "Salade Caprese",
-				"de": "Caprese-Salat"
-			},
-			"price": 34.95,
-			"cover": "",
-			"category": {
-				"common": "salads"
-			},
-			"allergens": [],
-			"description": {
-				"es": "Tomates Maduras con Bocconcini, Cebollas Rojas, Aceitunas Cerignola y Kalamata, Pimientos Asados, Albahaca Fresca, Aceite de Oliva y Vinagre de Vino Tinto Añejo Sal, Pimienta y Orégano",
-				"en": "Ripened Tomatoes with Bocconcini, Red Onions, Cerignola & Kalamata Olives, Roasted Red Peppers, Fresh Basil, Olive Oil & Aged Red Wine Vinegar Salt, Pepper and Oregano",
-				"pt": "Tomates Madurados com Bocconcini, Cebolas Roxas, Azeitonas Cerignola e Kalamata, Pimentos Assados, Manjericão Fresco, Azeite de Oliva e Vinagre de Vinho Tinto Envelhecido Sal, Pimenta e Orégano",
-				"fr": "Tomates Mûres avec Bocconcini, Oignons Rouges, Olives Cerignola & Kalamata, Poivrons Rouges Rôtis, Basilic Frais, Huile d'Olive & Vinaigre de Vin Rouge Vieilli Sel, Poivre et Origan",
-				"de": "Reife Tomaten mit Bocconcini, roten Zwiebeln, Cerignola- und Kalamata-Oliven, gerösteten roten Paprika, frischem Basilikum, Olivenöl und gereiftem Rotweinessig Salz, Pfeffer und Oregano"
-			}
-		},
-		{
-			"id": 102,
-			"name_i18n": {
-				"common": "mixedgreensalad",
-				"es": "Ensalada Mixta",
-				"en": "Mixed Green Salad",
-				"pt": "Salada Verde Mista",
-				"fr": "Salade Verte Mélangée",
-				"de": "Gemischter Blattsalat"
-			},
-			"price": 31.95,
-			"cover": "",
-			"category": {
-				"common": "salads"
-			},
-			"allergens": [],
-			"description": {
-				"es": "Lechugas Mixtas, Tomate, Cebolla, Pimiento, Apio, Rábano, Aderezo de Vinagreta Casera",
-				"en": "Mixed Greens, Tomato, Onions, Pepperoncini, Celery, Radish, Housemade Vinaigrette Dressing",
-				"pt": "Verduras Mistas, Tomate, Cebolas, Pimentões, Aipo, Rabanete, Molho Vinagrete Caseiro",
-				"fr": "Salade Verte Mélangée, Tomate, Oignons, Poivrons, Céleri, Radis, Vinaigrette Maison",
-				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Pepperoncini, Sellerie, Radieschen, Hausgemachtes Vinaigrette-Dressing"
-			}
-		},
-		{
-			"id": 103,
-			"name_i18n": {
-				"common": "carminessalad",
-				"es": "Ensalada Carmine",
-				"en": "Carmine's Salad",
-				"pt": "Salada Carmine",
-				"fr": "Salade Carmine",
-				"de": "Carmine-Salat"
-			},
-			"price": 34.95,
-			"cover": "",
-			"category": {
-				"common": "salads"
-			},
-			"allergens": [],
-			"description": {
-				"es": "Verduras Mixtas, Tomate, Cebolla, Rábano, Pimiento, Apio, Aceitunas, Salami Picado, Mortadela, Provolone Extra Fuerte, Aderezo de Vinagreta Casera",
-				"en": "Mixed Greens, Tomato, Onions, Radish, Pepperoncini, Celery, Olives, Diced Salami, Mortadella, Extra Sharp Provolone, Housemade Vinaigrette Dressing",
-				"pt": "Verduras Mistas, Tomate, Cebolas, Rabanete, Pimentões, Aipo, Azeitonas, Salame Picado, Mortadela, Provolone Extra Forte, Molho Vinagrete Caseiro",
-				"fr": "Salade Verte Mélangée, Tomate, Oignons, Radis, Poivrons, Céleri, Olives, Salami Haché, Mortadelle, Provolone Extra Fort, Vinaigrette Maison",
-				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Radieschen, Pepperoncini, Sellerie, Oliven, gewürfelte Salami, Mortadella, extra scharfer Provolone, hausgemachtes Vinaigrette-Dressing"
-			}
-		},
-		{
-			"id": 200,
-			"name_i18n": {
 				"common": "garlicbread",
-				"es": "Garlic Bread",
+				"es": "Pan de Ajo",
 				"en": "Garlic Bread",
-				"pt": "Garlic Bread",
-				"fr": "Garlic Bread",
-				"de": "Garlic Bread"
+				"pt": "Pão de Alho",
+				"fr": "Pain à l'Ail",
+				"de": "Knoblauchbrot"
 			},
 			"price": 19.95,
-			"cover": "https://images.unsplash.com/photo-1633354579413-4f5b42b0f5b3?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+			"cover": "https://carminesnyc.com/assets/uploads/general/Garlic_Bread_20211110.JPG",
 			"category": {
 				"common": "appetizers"
 			},
-			"allergens": ["gluten", "dairy"],
+			"allergens": [],
 			"description": {
-				"es": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-				"en": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-				"pt": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-				"fr": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-				"de": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce"
+				"es": "Pan de Miga con Ajo y Mantequilla de Hierbas",
+				"en": "Topped w/ Garlic & Herb Butter",
+				"pt": "Pão de Alho com Manteiga de Ervas",
+				"fr": "Pain à l'Ail avec Beurre aux Herbes",
+				"de": "Knoblauchbrot mit Kräuterbutter"
 			}
 		},
 		{
@@ -481,6 +385,102 @@
 				"pt": "",
 				"fr": "",
 				"de": ""
+			}
+		},
+		{
+			"id": 100,
+			"name_i18n": {
+				"common": "cesarsalad",
+				"es": "Ensalada César",
+				"en": "Caesar Salad",
+				"pt": "Salada César",
+				"fr": "Salade César",
+				"de": "Caesar-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Lechuga Romana, Queso Parmesano, Picatostes, Aderezo César",
+				"en": "Romaine Lettuce, Parmesan Cheese, Croutons, Caesar Dressing",
+				"pt": "Alface Romana, Queijo Parmesão, Croutons, Molho Caesar",
+				"fr": "Laitue Romaine, Fromage Parmesan, Croûtons, Sauce César",
+				"de": "Römersalat, Parmesan, Croutons, Caesar-Dressing"
+			}
+		},
+		{
+			"id": 101,
+			"name_i18n": {
+				"common": "capresesalad",
+				"es": "Ensalada Caprese",
+				"en": "Caprese Salad",
+				"pt": "Salada Caprese",
+				"fr": "Salade Caprese",
+				"de": "Caprese-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Tomates Maduras con Bocconcini, Cebollas Rojas, Aceitunas Cerignola y Kalamata, Pimientos Asados, Albahaca Fresca, Aceite de Oliva y Vinagre de Vino Tinto Añejo Sal, Pimienta y Orégano",
+				"en": "Ripened Tomatoes with Bocconcini, Red Onions, Cerignola & Kalamata Olives, Roasted Red Peppers, Fresh Basil, Olive Oil & Aged Red Wine Vinegar Salt, Pepper and Oregano",
+				"pt": "Tomates Madurados com Bocconcini, Cebolas Roxas, Azeitonas Cerignola e Kalamata, Pimentos Assados, Manjericão Fresco, Azeite de Oliva e Vinagre de Vinho Tinto Envelhecido Sal, Pimenta e Orégano",
+				"fr": "Tomates Mûres avec Bocconcini, Oignons Rouges, Olives Cerignola & Kalamata, Poivrons Rouges Rôtis, Basilic Frais, Huile d'Olive & Vinaigre de Vin Rouge Vieilli Sel, Poivre et Origan",
+				"de": "Reife Tomaten mit Bocconcini, roten Zwiebeln, Cerignola- und Kalamata-Oliven, gerösteten roten Paprika, frischem Basilikum, Olivenöl und gereiftem Rotweinessig Salz, Pfeffer und Oregano"
+			}
+		},
+		{
+			"id": 102,
+			"name_i18n": {
+				"common": "mixedgreensalad",
+				"es": "Ensalada Mixta",
+				"en": "Mixed Green Salad",
+				"pt": "Salada Verde Mista",
+				"fr": "Salade Verte Mélangée",
+				"de": "Gemischter Blattsalat"
+			},
+			"price": 31.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Lechugas Mixtas, Tomate, Cebolla, Pimiento, Apio, Rábano, Aderezo de Vinagreta Casera",
+				"en": "Mixed Greens, Tomato, Onions, Pepperoncini, Celery, Radish, Housemade Vinaigrette Dressing",
+				"pt": "Verduras Mistas, Tomate, Cebolas, Pimentões, Aipo, Rabanete, Molho Vinagrete Caseiro",
+				"fr": "Salade Verte Mélangée, Tomate, Oignons, Poivrons, Céleri, Radis, Vinaigrette Maison",
+				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Pepperoncini, Sellerie, Radieschen, Hausgemachtes Vinaigrette-Dressing"
+			}
+		},
+		{
+			"id": 103,
+			"name_i18n": {
+				"common": "carminessalad",
+				"es": "Ensalada Carmine",
+				"en": "Carmine's Salad",
+				"pt": "Salada Carmine",
+				"fr": "Salade Carmine",
+				"de": "Carmine-Salat"
+			},
+			"price": 34.95,
+			"cover": "",
+			"category": {
+				"common": "salads"
+			},
+			"allergens": [],
+			"description": {
+				"es": "Verduras Mixtas, Tomate, Cebolla, Rábano, Pimiento, Apio, Aceitunas, Salami Picado, Mortadela, Provolone Extra Fuerte, Aderezo de Vinagreta Casera",
+				"en": "Mixed Greens, Tomato, Onions, Radish, Pepperoncini, Celery, Olives, Diced Salami, Mortadella, Extra Sharp Provolone, Housemade Vinaigrette Dressing",
+				"pt": "Verduras Mistas, Tomate, Cebolas, Rabanete, Pimentões, Aipo, Azeitonas, Salame Picado, Mortadela, Provolone Extra Forte, Molho Vinagrete Caseiro",
+				"fr": "Salade Verte Mélangée, Tomate, Oignons, Radis, Poivrons, Céleri, Olives, Salami Haché, Mortadelle, Provolone Extra Fort, Vinaigrette Maison",
+				"de": "Gemischter Blattsalat, Tomate, Zwiebeln, Radieschen, Pepperoncini, Sellerie, Oliven, gewürfelte Salami, Mortadella, extra scharfer Provolone, hausgemachtes Vinaigrette-Dressing"
 			}
 		},
 		{
