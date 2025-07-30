@@ -638,7 +638,7 @@
         "de": "Penne Alla Vodka"
       },
       "price": 38.95,
-      "cover": "https://images.unsplash.com/photo-1608897013039-887f21d8d797?q=80&w=2338&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -662,7 +662,7 @@
         "de": "Pomodoro Pasta"
       },
       "price": 33.95,
-      "cover": "https://images.unsplash.com/photo-1551183053-bf91ed97417c?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -686,7 +686,7 @@
         "de": "Giardiniera Pasta"
       },
       "price": 34.95,
-      "cover": "https://images.unsplash.com/photo-1563379091339-03c4cb4bd601?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -710,7 +710,7 @@
         "de": "Rigatoni & Broccoli"
       },
       "price": 33.95,
-      "cover": "https://images.unsplash.com/photo-1596797038530-176d6d2513b8?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -734,7 +734,7 @@
         "de": "Rigatoni w/ Sausage & Broccoli"
       },
       "price": 35.95,
-      "cover": "https://images.unsplash.com/photo-1552611052-33e04de081de?q=80&w=2364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -758,7 +758,7 @@
         "de": "Rigatoni Country Style"
       },
       "price": 36.95,
-      "cover": "https://images.unsplash.com/photo-1611273426858-450d3e3e86d6?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -782,7 +782,7 @@
         "de": "Meatballs Pasta"
       },
       "price": 38.95,
-      "cover": "https://images.unsplash.com/photo-1529042410759-befb1204b468?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -806,7 +806,7 @@
         "de": "Sausage Pasta"
       },
       "price": 36.95,
-      "cover": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?q=80&w=2352&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -830,7 +830,7 @@
         "de": "Bolognese Meat Sauce Pasta"
       },
       "price": 38.95,
-      "cover": "https://images.unsplash.com/photo-1593504049359-74330189a5b3?q=80&w=2328&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -854,7 +854,7 @@
         "de": "Ragu Pasta"
       },
       "price": 39.95,
-      "cover": "https://images.unsplash.com/photo-1606890658317-7d14490b76fd?q=80&w=2364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -878,7 +878,7 @@
         "de": "Ravioli w/ Cheese"
       },
       "price": 34.95,
-      "cover": "https://images.unsplash.com/photo-1618164436241-5e00a988e825?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -902,7 +902,7 @@
         "de": "Lasagna"
       },
       "price": 39.95,
-      "cover": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -926,7 +926,7 @@
         "de": "Manicotti"
       },
       "price": 34.95,
-      "cover": "https://images.unsplash.com/photo-1516100882582-96c85a0d7f30?q=80&w=2366&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -950,7 +950,7 @@
         "de": "Calamari Red or White"
       },
       "price": 39.95,
-      "cover": "https://images.unsplash.com/photo-1625944529087-5e340d29c55d?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -974,7 +974,7 @@
         "de": "Shrimp Red or White"
       },
       "price": 43.95,
-      "cover": "https://images.unsplash.com/photo-1565557623262-b42902a5aad6?q=80&w=2338&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -998,7 +998,7 @@
         "de": "Clam Sauce Red or White"
       },
       "price": 38.95,
-      "cover": "https://images.unsplash.com/photo-1633999727974-08a9402603c3?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -1022,7 +1022,7 @@
         "de": "Mixed Seafood Red or White"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1511548588207-3d3f2f5d7c52?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "pasta"
       },
@@ -1046,7 +1046,7 @@
         "de": "Chicken Scarpariello"
       },
       "price": 43.95,
-      "cover": "https://images.unsplash.com/photo-1598103379175-5d52c9a596f9?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1070,7 +1070,7 @@
         "de": "Chicken Cutlet"
       },
       "price": 34.95,
-      "cover": "https://images.unsplash.com/photo-1634154948494-2022e9f4d28f?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1094,7 +1094,7 @@
         "de": "Chicken Parmigiana"
       },
       "price": 39.95,
-      "cover": "https://images.unsplash.com/photo-1632774236413-7cd7ee62d4e1?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1118,7 +1118,7 @@
         "de": "Chicken Marsala"
       },
       "price": 36.95,
-      "cover": "https://images.unsplash.com/photo-1634154948494-2022e9f4d28f?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1142,7 +1142,7 @@
         "de": "Chicken Scaloppine w/ Lemon & Butter"
       },
       "price": 36.95,
-      "cover": "https://images.unsplash.com/photo-1627308595324-2a55dfdd16e9?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1166,7 +1166,7 @@
         "de": "Chicken Saltimbocca"
       },
       "price": 38.95,
-      "cover": "https://images.unsplash.com/photo-1634154948494-2022e9f4d28f?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1190,7 +1190,7 @@
         "de": "Chicken Contadina"
       },
       "price": 55.95,
-      "cover": "https://images.unsplash.com/photo-1567620905732-2d1ec7b16502?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "chicken"
       },
@@ -1214,7 +1214,7 @@
         "de": "Porterhouse"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1600895100835-07b0c16e7755?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "steak"
       },
@@ -1238,7 +1238,7 @@
         "de": "Porterhouse Pizzaiola"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1604908177346-17728b9d42a8?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "steak"
       },
@@ -1262,7 +1262,7 @@
         "de": "Porterhouse w/ Peppers & Onions"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1604908177346-17728b9d42a8?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "steak"
       },
@@ -1286,7 +1286,7 @@
         "de": "Porterhouse Contadina Style"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1604908177346-17728b9d42a8?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "steak"
       },
@@ -1310,7 +1310,7 @@
         "de": "Salmon Oreganata"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1611171749760-28825a123906?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1334,7 +1334,7 @@
         "de": "Shrimp Marinara"
       },
       "price": 43.95,
-      "cover": "https://images.unsplash.com/photo-1560717789-38601ed5ca3d?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1358,7 +1358,7 @@
         "de": "Shrimp Scampi"
       },
       "price": 44.95,
-      "cover": "https://images.unsplash.com/photo-1553391260-86b00a81e96e?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1382,7 +1382,7 @@
         "de": "Shrimp Parmigiana"
       },
       "price": 45.95,
-      "cover": "https://images.unsplash.com/photo-1617196034821-4aefb9a05c5c?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1406,7 +1406,7 @@
         "de": "Shrimp Fra Diavolo"
       },
       "price": 43.95,
-      "cover": "https://images.unsplash.com/photo-1551328669-56f58d760384?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1430,7 +1430,7 @@
         "de": "Broiled Lobster Oreganata"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1562558780-6e3e1b3f3a1f?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1454,7 +1454,7 @@
         "de": "Lobster Fra Diavolo"
       },
       "price": 0,
-      "cover": "https://images.unsplash.com/photo-1633247836903-8c7a0a4dc669?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "seafood"
       },
@@ -1478,7 +1478,7 @@
         "de": "Flourless Chocolate Torte"
       },
       "price": 19.95,
-      "cover": "https://images.unsplash.com/photo-1562440499-64c1e185f492?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1502,7 +1502,7 @@
         "de": "Strawberry Shortcake"
       },
       "price": 22.95,
-      "cover": "https://images.unsplash.com/photo-1464349095432-4594a15b4e64?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1526,7 +1526,7 @@
         "de": "Chocolate Bread Pudding"
       },
       "price": 26.95,
-      "cover": "https://images.unsplash.com/photo-1606890658317-7d14490b76fd?q=80&w=2364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1550,7 +1550,7 @@
         "de": "Chocolate Cannoli"
       },
       "price": 19.95,
-      "cover": "https://images.unsplash.com/photo-1626095174281-02d9a4f8c775?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1574,7 +1574,7 @@
         "de": "Tiramisu"
       },
       "price": 29.95,
-      "cover": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1598,7 +1598,7 @@
         "de": "Tartufi"
       },
       "price": 19.95,
-      "cover": "https://images.unsplash.com/photo-1558326567-98ae24071eec?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1622,7 +1622,7 @@
         "de": "Italian Cheesecake"
       },
       "price": 29.95,
-      "cover": "https://images.unsplash.com/photo-1533139502658-0198f920d8b8?q=80&w=2342&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1646,7 +1646,7 @@
         "de": "Titanic"
       },
       "price": 39.95,
-      "cover": "https://images.unsplash.com/photo-1488477181946-1497a4e89725?q=80&w=2335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
@@ -1670,7 +1670,7 @@
         "de": "Seasonal Fresh Fruit Platter"
       },
       "price": 29.5,
-      "cover": "https://images.unsplash.com/photo-1490474418585-ba9bad8fae70?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cover": "",
       "category": {
         "common": "desserts"
       },
