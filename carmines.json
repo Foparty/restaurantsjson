@@ -134,7 +134,7 @@
 				"de": "Knoblauchbrot"
 			},
 			"price": 19.95,
-			"cover": "https://carminesnyc.com/assets/uploads/general/Garlic_Bread_20211110.JPG",
+			"cover": "/garlicbread.webp",
 			"category": {
 				"common": "appetizers"
 			},
