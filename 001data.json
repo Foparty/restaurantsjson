@@ -19,87 +19,67 @@
       "pt": "Saladas",
       "fr": "Salades",
       "de": "Salate",
-      "cover": ""
+      "cover": "https://i.ibb.co/ynmjQ7mF/salads.webp"
     },
     {
       "order": 3,
-      "slug": "rawbar",
-      "es": "Barra Cruda",
-      "en": "Raw Bar",
-      "pt": "Barra Crua",
-      "fr": "Bar à Huîtres",
-      "de": "Rohbar",
-      "cover": ""
-    },
-    {
-      "order": 4,
       "slug": "pasta",
       "es": "Pasta",
       "en": "Pasta",
       "pt": "Massa",
       "fr": "Pâtes",
       "de": "Pasta",
-      "cover": ""
+      "cover": "https://i.ibb.co/5WLyCvcQ/pasta.webp"
+    },
+    {
+      "order": 4,
+      "slug": "meat",
+      "es": "Carne",
+      "en": "Meat",
+      "pt": "Carne",
+      "fr": "Viande",
+      "de": "Fleisch",
+      "cover": "https://i.ibb.co/nqxQ03CZ/meat.webp"
     },
     {
       "order": 5,
-      "slug": "chicken",
-      "es": "Pollo",
-      "en": "Chicken",
-      "pt": "Frango",
-      "fr": "Poulet",
-      "de": "Hähnchen",
-      "cover": ""
-    },
-    {
-      "order": 6,
-      "slug": "veal",
-      "es": "Ternera",
-      "en": "Veal",
-      "pt": "Vitela",
-      "fr": "Veau",
-      "de": "Kalbfleisch",
-      "cover": ""
-    },
-    {
-      "order": 7,
-      "slug": "steak",
-      "es": "Bistec",
-      "en": "Steak",
-      "pt": "Bife",
-      "fr": "Steak",
-      "de": "Steak",
-      "cover": ""
-    },
-    {
-      "order": 8,
       "slug": "seafood",
       "es": "Mariscos",
       "en": "Seafood",
       "pt": "Frutos do mar",
       "fr": "Fruits de mer",
       "de": "Meeresfrüchte",
-      "cover": ""
+      "cover": "https://i.ibb.co/ccL5kcPF/seafood.webp"
     },
     {
-      "order": 9,
-      "slug": "vegssides",
+      "order": 6,
+      "slug": "vegs",
       "es": "Verduras y Guarniciones",
       "en": "Vegetables & Sides",
       "pt": "Vegetais e Acompanhamentos",
       "fr": "Légumes et Accompagnements",
       "de": "Gemüse und Beilagen",
-      "cover": ""
+      "cover": "https://i.ibb.co/YTh8Vr0d/vegs.webp"
     },
     {
-      "order": 10,
+      "order": 7,
       "slug": "desserts",
       "es": "Postres",
       "en": "Desserts",
       "pt": "Sobremesas",
       "fr": "Desserts",
       "de": "Nachspeisen",
-      "cover": ""
+      "cover": "https://i.ibb.co/60BP0kX7/dessert.webp"
+    },
+    {
+      "order": 8,
+      "slug": "wines",
+      "es": "Vinos",
+      "en": "Wines",
+      "pt": "Vinhos",
+      "fr": "Vins",
+      "de": "Weine",
+      "cover": "https://i.ibb.co/GQ90TS2T/wines.webp"
     }
   ],
   "items": [
