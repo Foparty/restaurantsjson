@@ -1,26 +1,5 @@
 {
-  "siteWelcome": {
-    "es": "Bienvenido a",
-    "en": "Welcome to",
-    "pt": "Bem-vindo a",
-    "fr": "Bienvenue à",
-    "de": "Willkommen bei"
-  },
   "cover": "/logo.webp",
-  "siteName": {
-    "es": "Súper pizza loca",
-    "en": "Crazy Pizza",
-    "pt": "Pizza Maluca",
-    "fr": "Pizza Folle",
-    "de": "Verrückte Pizza"
-  },
-  "siteDescription": {
-    "es": "Descubre la verdadera cocina madrileña, con más de 300 años de tradición y excelencia.",
-    "en": "Alfonso's Bar is a family restaurant that offers homemade food and a cozy atmosphere.",
-    "pt": "O Bar do Alfonso é um restaurante familiar que oferece comida caseira e um ambiente acolhedor.",
-    "fr": "Le Bar d'Alfonso est un restaurant familial qui propose une cuisine maison et une ambiance chaleureuse.",
-    "de": "Alfonso's Bar ist ein Familienrestaurant, das hausgemachtes Essen und eine gemütliche Atmosphäre bietet."
-  },
   "categories": [
     {
       "order": 1,
