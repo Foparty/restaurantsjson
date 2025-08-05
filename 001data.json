@@ -1081,7 +1081,7 @@
       "price": 43.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -1105,7 +1105,7 @@
       "price": 34.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [
         "gluten"
@@ -1131,7 +1131,7 @@
       "price": 39.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [
         "gluten",
@@ -1158,7 +1158,7 @@
       "price": 36.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -1182,7 +1182,7 @@
       "price": 36.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [
         "dairy"
@@ -1208,7 +1208,7 @@
       "price": 38.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
@@ -1232,7 +1232,7 @@
       "price": 55.95,
       "cover": "",
       "category": {
-        "common": "chicken"
+        "common": "meat"
       },
       "allergens": [],
       "description": {
