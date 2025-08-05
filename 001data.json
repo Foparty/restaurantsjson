@@ -1,0 +1,1810 @@
+{
+  "siteWelcome": {
+    "es": "Bienvenido a",
+    "en": "Welcome to",
+    "pt": "Bem-vindo a",
+    "fr": "Bienvenue à",
+    "de": "Willkommen bei"
+  },
+  "cover": "/logo.webp",
+  "siteName": {
+    "es": "Súper pizza loca",
+    "en": "Crazy Pizza",
+    "pt": "Pizza Maluca",
+    "fr": "Pizza Folle",
+    "de": "Verrückte Pizza"
+  },
+  "siteDescription": {
+    "es": "Descubre la verdadera cocina madrileña, con más de 300 años de tradición y excelencia.",
+    "en": "Alfonso's Bar is a family restaurant that offers homemade food and a cozy atmosphere.",
+    "pt": "O Bar do Alfonso é um restaurante familiar que oferece comida caseira e um ambiente acolhedor.",
+    "fr": "Le Bar d'Alfonso est un restaurant familial qui propose une cuisine maison et une ambiance chaleureuse.",
+    "de": "Alfonso's Bar ist ein Familienrestaurant, das hausgemachtes Essen und eine gemütliche Atmosphäre bietet."
+  },
+  "categories": [
+    {
+      "order": 1,
+      "slug": "appetizers",
+      "es": "Entrantes",
+      "en": "Appetizers",
+      "pt": "Aperitivos",
+      "fr": "Entrées",
+      "de": "Vorspeisen",
+      "cover": ""
+    },
+    {
+      "order": 2,
+      "slug": "salads",
+      "es": "ensaladas",
+      "en": "Salads",
+      "pt": "Saladas",
+      "fr": "Salades",
+      "de": "Salate",
+      "cover": ""
+    },
+    {
+      "order": 3,
+      "slug": "rawbar",
+      "es": "Barra Cruda",
+      "en": "Raw Bar",
+      "pt": "Barra Crua",
+      "fr": "Bar à Huîtres",
+      "de": "Rohbar",
+      "cover": ""
+    },
+    {
+      "order": 4,
+      "slug": "pasta",
+      "es": "Pasta",
+      "en": "Pasta",
+      "pt": "Massa",
+      "fr": "Pâtes",
+      "de": "Pasta",
+      "cover": ""
+    },
+    {
+      "order": 5,
+      "slug": "chicken",
+      "es": "Pollo",
+      "en": "Chicken",
+      "pt": "Frango",
+      "fr": "Poulet",
+      "de": "Hähnchen",
+      "cover": ""
+    },
+    {
+      "order": 6,
+      "slug": "veal",
+      "es": "Ternera",
+      "en": "Veal",
+      "pt": "Vitela",
+      "fr": "Veau",
+      "de": "Kalbfleisch",
+      "cover": ""
+    },
+    {
+      "order": 7,
+      "slug": "steak",
+      "es": "Bistec",
+      "en": "Steak",
+      "pt": "Bife",
+      "fr": "Steak",
+      "de": "Steak",
+      "cover": ""
+    },
+    {
+      "order": 8,
+      "slug": "seafood",
+      "es": "Mariscos",
+      "en": "Seafood",
+      "pt": "Frutos do mar",
+      "fr": "Fruits de mer",
+      "de": "Meeresfrüchte",
+      "cover": ""
+    },
+    {
+      "order": 9,
+      "slug": "vegssides",
+      "es": "Verduras y Guarniciones",
+      "en": "Vegetables & Sides",
+      "pt": "Vegetais e Acompanhamentos",
+      "fr": "Légumes et Accompagnements",
+      "de": "Gemüse und Beilagen",
+      "cover": ""
+    },
+    {
+      "order": 10,
+      "slug": "desserts",
+      "es": "Postres",
+      "en": "Desserts",
+      "pt": "Sobremesas",
+      "fr": "Desserts",
+      "de": "Nachspeisen",
+      "cover": ""
+    }
+  ],
+  "items": [
+    {
+      "id": 100,
+      "name_i18n": {
+        "common": "garlicbread",
+        "es": "Pan de Ajo",
+        "en": "Garlic Bread",
+        "pt": "Pão de Alho",
+        "fr": "Pain à l'Ail",
+        "de": "Knoblauchbrot"
+      },
+      "price": 19.95,
+      "cover": "/garlicbread.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Pan de Miga con Ajo y Mantequilla de Hierbas",
+        "en": "Topped w/ Garlic & Herb Butter",
+        "pt": "Pão de Alho com Manteiga de Ervas",
+        "fr": "Pain à l'Ail avec Beurre aux Herbes",
+        "de": "Knoblauchbrot mit Kräuterbutter"
+      }
+    },
+    {
+      "id": 101,
+      "name_i18n": {
+        "common": "bakedclams",
+        "es": "Almejas al Horno",
+        "en": "Baked Clams",
+        "pt": "Bkedclaaked Clams",
+        "fr": "Baked Clams",
+        "de": "Baked Clams"
+      },
+      "price": 28.95,
+      "cover": "/bakedclams.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas",
+        "en": "Fresh Littleneck Clams Baked w/ our Seasoned Breadcrumbs & Clam Broth",
+        "pt": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas",
+        "fr": "Fresh Littleneck Clams Baked w/ our Seasoned Breadcrumbs & Clam Broth",
+        "de": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas"
+      }
+    },
+    {
+      "id": 102,
+      "name_i18n": {
+        "common": "friedzucchini",
+        "es": "Fried Zucchini",
+        "en": "Fried Zucchini",
+        "pt": "Fried Zucchini",
+        "fr": "Fried Zucchini",
+        "de": "Fried Zucchini"
+      },
+      "price": 27.95,
+      "cover": "/friedzucchini.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
+        "en": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
+        "pt": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
+        "fr": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
+        "de": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese"
+      }
+    },
+    {
+      "id": 103,
+      "name_i18n": {
+        "common": "stuffedmushrooms",
+        "es": "Champiñones Rellenos",
+        "en": "Stuffed Mushrooms",
+        "pt": "Stuffed Mushrooms",
+        "fr": "Stuffed Mushrooms",
+        "de": "Stuffed Mushrooms"
+      },
+      "price": 23.95,
+      "cover": "/stuffedmushrooms.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Champiñones Rellenos con Salchicha Italiana Dulce, Pimiento Dulce y Pimiento Picante",
+        "en": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
+        "pt": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
+        "fr": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
+        "de": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling"
+      }
+    },
+    {
+      "id": 104,
+      "name_i18n": {
+        "common": "friedcalamari",
+        "es": "Fried Calamari",
+        "en": "Fried Calamari",
+        "pt": "Fried Calamari",
+        "fr": "Fried Calamari",
+        "de": "Fried Calamari"
+      },
+      "price": 44.95,
+      "cover": "/friedcalamari.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "gluten",
+        "shellfish"
+      ],
+      "description": {
+        "es": "Ligeramente Empanado en Nuestra Harina Sazonada con Salsa Marinara Picante al Lado",
+        "en": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
+        "pt": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
+        "fr": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
+        "de": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side"
+      }
+    },
+    {
+      "id": 105,
+      "name_i18n": {
+        "common": "zuppadiclams",
+        "es": "Zuppa Di Clams Red or White",
+        "en": "Zuppa Di Clams Red or White",
+        "pt": "Zuppa Di Clams Red or White",
+        "fr": "Zuppa Di Clams Red or White",
+        "de": "Zuppa Di Clams Red or White"
+      },
+      "price": 28.95,
+      "cover": "/zuppadiclams.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "Almejas Littleneck Frescas Cocidas en un Caldo Rojo o Blanco con Ajo, Vino Blanco y Hierbas",
+        "en": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "pt": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "fr": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "de": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs"
+      }
+    },
+    {
+      "id": 106,
+      "name_i18n": {
+        "common": "zuppadimussels",
+        "es": "Zuppa Di Mussels Red or White",
+        "en": "Zuppa Di Mussels Red or White",
+        "pt": "Zuppa Di Mussels Red or White",
+        "fr": "Zuppa Di Mussels Red or White",
+        "de": "Zuppa Di Mussels Red or White"
+      },
+      "price": 28.95,
+      "cover": "/zuppadimussels.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "Mejillones Frescos Cocidos en un Caldo Rojo o Blanco con Ajo, Vino Blanco y Hierbas",
+        "en": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "pt": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "fr": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
+        "de": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs"
+      }
+    },
+    {
+      "id": 107,
+      "name_i18n": {
+        "common": "spiediniallaromana",
+        "es": "Spiedini Alla Romana",
+        "en": "Spiedini Alla Romana",
+        "pt": "Spiedini Alla Romana",
+        "fr": "Spiedini Alla Romana",
+        "de": "Spiedini Alla Romana"
+      },
+      "price": 27.95,
+      "cover": "/spiediniallaromana.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "description": {
+        "es": "Rebanadas de Pan Tostado con Ajo, Capas de Queso Mozzarella Fresca y Apiladas - Tostadas y Derretidas Cubiertas con Salsa de Limón, Mantequilla, Vino Blanco, Alcaparras y Anchoas",
+        "en": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
+        "pt": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
+        "fr": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
+        "de": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce"
+      }
+    },
+    {
+      "id": 108,
+      "name_i18n": {
+        "common": "coldantipasto",
+        "es": "Cold Antipasto",
+        "en": "Cold Antipasto",
+        "pt": "Cold Antipasto",
+        "fr": "Cold Antipasto",
+        "de": "Cold Antipasto"
+      },
+      "price": 59.95,
+      "cover": "/coldantipasto.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "dairy",
+        "fish",
+        "shellfish"
+      ],
+      "description": {
+        "es": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
+        "en": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
+        "pt": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
+        "fr": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
+        "de": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick"
+      }
+    },
+    {
+      "id": 109,
+      "name_i18n": {
+        "common": "hotantipasto",
+        "es": "Hot Antipasto",
+        "en": "Hot Antipasto",
+        "pt": "Hot Antipasto",
+        "fr": "Hot Antipasto",
+        "de": "Hot Antipasto"
+      },
+      "price": 59.95,
+      "cover": "/hotantipasto.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "Mejillones Fra Diavolo, Almejas Casino, Rollatini de Berenjena con Espinaca y Queso, Coles de Bruselas y Coliflor Asadas con Pancetta, Stromboli con Salchicha de Pollo, Espinaca y Queso, Mozzarella en Carrozza con Pesto, Raviolinis Fritos con Marinara y Dip de Espinaca y Alcachofa en Crostini",
+        "en": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
+        "pt": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
+        "fr": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
+        "de": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini"
+      }
+    },
+    {
+      "id": 110,
+      "name_i18n": {
+        "common": "spicyscarpariellowings",
+        "es": "Spicy Scarpariello Wings",
+        "en": "Spicy Scarpariello Wings",
+        "pt": "Spicy Scarpariello Wings",
+        "fr": "Spicy Scarpariello Wings",
+        "de": "Spicy Scarpariello Wings"
+      },
+      "price": 44.95,
+      "cover": "/spicyscarpariellowings.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Marinado con Ajo y Romero, Frito en Sartén y Mezclado en una Salsa de Mantequilla de Limón Picante con Hierbas con Salsa de Queso Gorgonzola",
+        "en": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
+        "pt": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
+        "fr": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
+        "de": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce"
+      }
+    },
+    {
+      "id": 111,
+      "name_i18n": {
+        "common": "stuffedartichokes",
+        "es": "Alcachofas Rellenas",
+        "en": "Stuffed Artichokes",
+        "pt": "Alcachofras Recheadas",
+        "fr": "Artichauts Farcis",
+        "de": "Gefüllte Artischocken"
+      },
+      "price": 25.95,
+      "cover": "/stuffedartichokes.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
+        "en": "Stuffed & Baked w/ Our Seasoned Breadcrumbs in Chicken Stock",
+        "pt": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
+        "fr": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
+        "de": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo"
+      }
+    },
+    {
+      "id": 112,
+      "name_i18n": {
+        "common": "portobelloparmigiana",
+        "es": "Portobello a la Parmesana",
+        "en": "Portobello Parmesan",
+        "pt": "Portobello à Parmegiana",
+        "fr": "Portobello Parmesan",
+        "de": "Portobello Parmesan"
+      },
+      "price": 22.95,
+      "cover": "/portobelloparmigiana.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Champiñones Portobello Grandes Empanizados y Fritos - Servidos al Estilo Parmigiana con Salsa Marinara y Queso Derretido",
+        "en": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
+        "pt": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
+        "fr": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
+        "de": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese"
+      }
+    },
+    {
+      "id": 113,
+      "name_i18n": {
+        "common": "roastedpeppersanchovies",
+        "es": "Pimientos Asados con Anchoas",
+        "en": "Roasted Peppers & Anchovies",
+        "pt": "Pimentos Assados com Anchovas",
+        "fr": "Poivrons Rôtis & Anchois",
+        "de": "Geröstete Paprika & Anchovis"
+      },
+      "price": 19.95,
+      "cover": "/roastedpeppersanchovies.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Pimientos Rojos Asados Frescos Cubiertos con Anchoas y Aceite de Hierbas de Albahaca",
+        "en": "Freshly Roasted Red Peppers Topped w/ Anchovies & Basil Herb Oil ",
+        "pt": "Pimentos Rojos Assados Frescos Cobertos com Anchovas e Óleo de Ervas de Manjericão",
+        "fr": "Poivrons Rôtis Frais Garnis d'Anchois et d'Huile d'Herbes de Basilic",
+        "de": "Frisch Geröstete Rote Paprika Mit Anchovis Und Basilikum Kräuteröl"
+      }
+    },
+    {
+      "id": 114,
+      "name_i18n": {
+        "common": "roastedpeppersmozzarellaandanchovies",
+        "es": "Pimientos Asados con Mozzarella y Anchoas",
+        "en": "Roasted Peppers with Mozzarella & Anchovies",
+        "pt": "Pimentos Assados com Mozzarella e Anchovas",
+        "fr": "Poivrons Rôtis avec Mozzarella & Anchois",
+        "de": "Geröstete Paprika mit Mozzarella & Anchovis"
+      },
+      "price": 24.95,
+      "cover": "/roastedpeppersmozzarella.webp",
+      "category": {
+        "common": "appetizers"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Pimientos Rojos Asados Frescos Cubiertos con Mozzarella y Anchoas y Aceite de Hierbas de Albahaca",
+        "en": "Freshly Roasted Red Peppers Topped w/ Mozzerella & Anchovies & Basil Herb Oil",
+        "pt": "Pimentos Rojos Assados Frescos Cobertos com Mozzarella e Anchovas e Óleo de Ervas de Manjericão",
+        "fr": "Poivrons Rôtis Frais Garnis de Mozzarella et d'Anchois et d'Huile d'Herbes de Basilic",
+        "de": "Frisch Geröstete Rote Paprika Mit Mozzarella Und Anchovis Und Basilikum Kräuteröl"
+      }
+    },
+    {
+      "id": 200,
+      "name_i18n": {
+        "common": "cesarsalad",
+        "es": "Ensalada César",
+        "en": "Caesar Salad",
+        "pt": "Salada César",
+        "fr": "Salade César",
+        "de": "Caesar-Salat"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "salads"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Lechuga Romana, Queso Parmesano, Picatostes, Aderezo César",
+        "en": "Romaine Lettuce, Parmesan Cheese, Croutons, Caesar Dressing",
+        "pt": "Alface Romana, Queijo Parmesão, Croutons, Molho Caesar",
+        "fr": "Laitue Romaine, Fromage Parmesan, Croûtons, Sauce César",
+        "de": "Römersalat, Parmesan, Croutons, Caesar-Dressing"
+      }
+    },
+    {
+      "id": 201,
+      "name_i18n": {
+        "common": "capresesalad",
+        "es": "Ensalada Caprese",
+        "en": "Caprese Salad",
+        "pt": "Salada Caprese",
+        "fr": "Salade Caprese",
+        "de": "Caprese-Salat"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "salads"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Tomates Maduras con Bocconcini, Cebollas Rojas, Aceitunas Cerignola y Kalamata, Pimientos Asados, Albahaca Fresca, Aceite de Oliva y Vinagre de Vino Tinto Añejo Sal, Pimienta y Orégano",
+        "en": "Ripened Tomatoes with Bocconcini, Red Onions, Cerignola & Kalamata Olives, Roasted Red Peppers, Fresh Basil, Olive Oil & Aged Red Wine Vinegar Salt, Pepper and Oregano",
+        "pt": "Tomates Madurados com Bocconcini, Cebolas Roxas, Azeitonas Cerignola e Kalamata, Pimentos Assados, Manjericão Fresco, Azeite de Oliva e Vinagre de Vinho Tinto Envelhecido Sal, Pimenta e Orégano",
+        "fr": "Tomates Mûres avec Bocconcini, Oignons Rouges, Olives Cerignola & Kalamata, Poivrons Rouges Rôtis, Basilic Frais, Huile d'Olive & Vinaigre de Vin Rouge Vieilli Sel, Poivre et Origan",
+        "de": "Reife Tomaten mit Bocconcini, roten Zwiebeln, Cerignola- und Kalamata-Oliven, gerösteten roten Paprika, frischem Basilikum, Olivenöl und gereiftem Rotweinessig Salz, Pfeffer und Oregano"
+      }
+    },
+    {
+      "id": 202,
+      "name_i18n": {
+        "common": "mixedgreensalad",
+        "es": "Ensalada Mixta",
+        "en": "Mixed Green Salad",
+        "pt": "Salada Verde Mista",
+        "fr": "Salade Verte Mélangée",
+        "de": "Gemischter Blattsalat"
+      },
+      "price": 31.95,
+      "cover": "",
+      "category": {
+        "common": "salads"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Lechugas Mixtas, Tomate, Cebolla, Pimiento, Apio, Rábano, Aderezo de Vinagreta Casera",
+        "en": "Mixed Greens, Tomato, Onions, Pepperoncini, Celery, Radish, Housemade Vinaigrette Dressing",
+        "pt": "Verduras Mistas, Tomate, Cebolas, Pimentões, Aipo, Rabanete, Molho Vinagrete Caseiro",
+        "fr": "Salade Verte Mélangée, Tomate, Oignons, Poivrons, Céleri, Radis, Vinaigrette Maison",
+        "de": "Gemischter Blattsalat, Tomate, Zwiebeln, Pepperoncini, Sellerie, Radieschen, Hausgemachtes Vinaigrette-Dressing"
+      }
+    },
+    {
+      "id": 203,
+      "name_i18n": {
+        "common": "carminessalad",
+        "es": "Ensalada Carmine",
+        "en": "Carmine's Salad",
+        "pt": "Salada Carmine",
+        "fr": "Salade Carmine",
+        "de": "Carmine-Salat"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "salads"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Verduras Mixtas, Tomate, Cebolla, Rábano, Pimiento, Apio, Aceitunas, Salami Picado, Mortadela, Provolone Extra Fuerte, Aderezo de Vinagreta Casera",
+        "en": "Mixed Greens, Tomato, Onions, Radish, Pepperoncini, Celery, Olives, Diced Salami, Mortadella, Extra Sharp Provolone, Housemade Vinaigrette Dressing",
+        "pt": "Verduras Mistas, Tomate, Cebolas, Rabanete, Pimentões, Aipo, Azeitonas, Salame Picado, Mortadela, Provolone Extra Forte, Molho Vinagrete Caseiro",
+        "fr": "Salade Verte Mélangée, Tomate, Oignons, Radis, Poivrons, Céleri, Olives, Salami Haché, Mortadelle, Provolone Extra Fort, Vinaigrette Maison",
+        "de": "Gemischter Blattsalat, Tomate, Zwiebeln, Radieschen, Pepperoncini, Sellerie, Oliven, gewürfelte Salami, Mortadella, extra scharfer Provolone, hausgemachtes Vinaigrette-Dressing"
+      }
+    },
+    {
+      "id": 301,
+      "name_i18n": {
+        "common": "garlicandoilpasta",
+        "es": "Garlic & Oil Pasta",
+        "en": "Garlic & Oil Pasta",
+        "pt": "Garlic & Oil Pasta",
+        "fr": "Garlic & Oil Pasta",
+        "de": "Garlic & Oil Pasta"
+      },
+      "price": 29.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 302,
+      "name_i18n": {
+        "common": "marinarapasta",
+        "es": "Marinara Pasta",
+        "en": "Marinara Pasta",
+        "pt": "Marinara Pasta",
+        "fr": "Marinara Pasta",
+        "de": "Marinara Pasta"
+      },
+      "price": 32.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+      }
+    },
+    {
+      "id": 113,
+      "name_i18n": {
+        "common": "penneallavodka",
+        "es": "Penne Alla Vodka",
+        "en": "Penne Alla Vodka",
+        "pt": "Penne Alla Vodka",
+        "fr": "Penne Alla Vodka",
+        "de": "Penne Alla Vodka"
+      },
+      "price": 38.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+      }
+    },
+    {
+      "id": 114,
+      "name_i18n": {
+        "common": "pomodoropasta",
+        "es": "Pomodoro Pasta",
+        "en": "Pomodoro Pasta",
+        "pt": "Pomodoro Pasta",
+        "fr": "Pomodoro Pasta",
+        "de": "Pomodoro Pasta"
+      },
+      "price": 33.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+      }
+    },
+    {
+      "id": 115,
+      "name_i18n": {
+        "common": "giardinierapasta",
+        "es": "Giardiniera Pasta",
+        "en": "Giardiniera Pasta",
+        "pt": "Giardiniera Pasta",
+        "fr": "Giardiniera Pasta",
+        "de": "Giardiniera Pasta"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+      }
+    },
+    {
+      "id": 116,
+      "name_i18n": {
+        "common": "rigatonibroccoli",
+        "es": "Rigatoni & Broccoli",
+        "en": "Rigatoni & Broccoli",
+        "pt": "Rigatoni & Broccoli",
+        "fr": "Rigatoni & Broccoli",
+        "de": "Rigatoni & Broccoli"
+      },
+      "price": 33.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+      }
+    },
+    {
+      "id": 117,
+      "name_i18n": {
+        "common": "rigatonisausagebroccoli",
+        "es": "Rigatoni w/ Sausage & Broccoli",
+        "en": "Rigatoni w/ Sausage & Broccoli",
+        "pt": "Rigatoni w/ Sausage & Broccoli",
+        "fr": "Rigatoni w/ Sausage & Broccoli",
+        "de": "Rigatoni w/ Sausage & Broccoli"
+      },
+      "price": 35.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 118,
+      "name_i18n": {
+        "common": "rigatonicountrystyle",
+        "es": "Rigatoni Country Style",
+        "en": "Rigatoni Country Style",
+        "pt": "Rigatoni Country Style",
+        "fr": "Rigatoni Country Style",
+        "de": "Rigatoni Country Style"
+      },
+      "price": 36.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 119,
+      "name_i18n": {
+        "common": "meatballspasta",
+        "es": "Meatballs Pasta",
+        "en": "Meatballs Pasta",
+        "pt": "Meatballs Pasta",
+        "fr": "Meatballs Pasta",
+        "de": "Meatballs Pasta"
+      },
+      "price": 38.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 120,
+      "name_i18n": {
+        "common": "sausagepasta",
+        "es": "Sausage Pasta",
+        "en": "Sausage Pasta",
+        "pt": "Sausage Pasta",
+        "fr": "Sausage Pasta",
+        "de": "Sausage Pasta"
+      },
+      "price": 36.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 121,
+      "name_i18n": {
+        "common": "bolognesemeatsaucepasta",
+        "es": "Bolognese Meat Sauce Pasta",
+        "en": "Bolognese Meat Sauce Pasta",
+        "pt": "Bolognese Meat Sauce Pasta",
+        "fr": "Bolognese Meat Sauce Pasta",
+        "de": "Bolognese Meat Sauce Pasta"
+      },
+      "price": 38.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 122,
+      "name_i18n": {
+        "common": "ragupasta",
+        "es": "Ragu Pasta",
+        "en": "Ragu Pasta",
+        "pt": "Ragu Pasta",
+        "fr": "Ragu Pasta",
+        "de": "Ragu Pasta"
+      },
+      "price": 39.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
+        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+      }
+    },
+    {
+      "id": 123,
+      "name_i18n": {
+        "common": "raviolivithcheese",
+        "es": "Ravioli w/ Cheese",
+        "en": "Ravioli w/ Cheese",
+        "pt": "Ravioli w/ Cheese",
+        "fr": "Ravioli w/ Cheese",
+        "de": "Ravioli w/ Cheese"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 124,
+      "name_i18n": {
+        "common": "lasagna",
+        "es": "Lasagna",
+        "en": "Lasagna",
+        "pt": "Lasagna",
+        "fr": "Lasagna",
+        "de": "Lasagna"
+      },
+      "price": 39.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "Layers of Ground Beef & Veal Layered with Three Cheeses - Baked & Topped with Our Marinara Sauce",
+        "en": "Layers of Ground Beef & Veal Layered with Three Cheeses - Baked & Topped with Our Marinara Sauce",
+        "pt": "Layers of Ground Beef & Veal Layered with Three Cheeses - Baked & Topped with Our Marinara Sauce",
+        "fr": "Layers of Ground Beef & Veal Layered with Three Cheeses - Baked & Topped with Our Marinara Sauce",
+        "de": "Layers of Ground Beef & Veal Layered with Three Cheeses - Baked & Topped with Our Marinara Sauce"
+      }
+    },
+    {
+      "id": 125,
+      "name_i18n": {
+        "common": "manicotti",
+        "es": "Manicotti",
+        "en": "Manicotti",
+        "pt": "Manicotti",
+        "fr": "Manicotti",
+        "de": "Manicotti"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 126,
+      "name_i18n": {
+        "common": "calamariredorwhite",
+        "es": "Calamari Red or White",
+        "en": "Calamari Red or White",
+        "pt": "Calamari Red or White",
+        "fr": "Calamari Red or White",
+        "de": "Calamari Red or White"
+      },
+      "price": 39.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "shellfish"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 127,
+      "name_i18n": {
+        "common": "shrimpredorwhite",
+        "es": "Shrimp Red or White",
+        "en": "Shrimp Red or White",
+        "pt": "Shrimp Red or White",
+        "fr": "Shrimp Red or White",
+        "de": "Shrimp Red or White"
+      },
+      "price": 43.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "shellfish"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 128,
+      "name_i18n": {
+        "common": "clamsauceredorwhite",
+        "es": "Clam Sauce Red or White",
+        "en": "Clam Sauce Red or White",
+        "pt": "Clam Sauce Red or White",
+        "fr": "Clam Sauce Red or White",
+        "de": "Clam Sauce Red or White"
+      },
+      "price": 38.95,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "shellfish"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 129,
+      "name_i18n": {
+        "common": "mixedseafoodredorwhite",
+        "es": "Mixed Seafood Red or White",
+        "en": "Mixed Seafood Red or White",
+        "pt": "Mixed Seafood Red or White",
+        "fr": "Mixed Seafood Red or White",
+        "de": "Mixed Seafood Red or White"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "pasta"
+      },
+      "allergens": [
+        "gluten",
+        "shellfish",
+        "fish"
+      ],
+      "description": {
+        "es": "P.A. (Market Price)",
+        "en": "P.A. (Market Price)",
+        "pt": "P.A. (Market Price)",
+        "fr": "P.A. (Market Price)",
+        "de": "P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 130,
+      "name_i18n": {
+        "common": "chickenscarpariello",
+        "es": "Chicken Scarpariello",
+        "en": "Chicken Scarpariello",
+        "pt": "Chicken Scarpariello",
+        "fr": "Chicken Scarpariello",
+        "de": "Chicken Scarpariello"
+      },
+      "price": 43.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [],
+      "description": {
+        "es": "(GF)",
+        "en": "(GF)",
+        "pt": "(GF)",
+        "fr": "(GF)",
+        "de": "(GF)"
+      }
+    },
+    {
+      "id": 131,
+      "name_i18n": {
+        "common": "chickencutlet",
+        "es": "Chicken Cutlet",
+        "en": "Chicken Cutlet",
+        "pt": "Chicken Cutlet",
+        "fr": "Chicken Cutlet",
+        "de": "Chicken Cutlet"
+      },
+      "price": 34.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 132,
+      "name_i18n": {
+        "common": "chickenparmigiana",
+        "es": "Chicken Parmigiana",
+        "en": "Chicken Parmigiana",
+        "pt": "Chicken Parmigiana",
+        "fr": "Chicken Parmigiana",
+        "de": "Chicken Parmigiana"
+      },
+      "price": 39.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "Breaded and fried chicken cutlet topped with marinara sauce and melted mozzarella cheese",
+        "en": "Breaded and fried chicken cutlet topped with marinara sauce and melted mozzarella cheese",
+        "pt": "Breaded and fried chicken cutlet topped with marinara sauce and melted mozzarella cheese",
+        "fr": "Breaded and fried chicken cutlet topped with marinara sauce and melted mozzarella cheese",
+        "de": "Breaded and fried chicken cutlet topped with marinara sauce and melted mozzarella cheese"
+      }
+    },
+    {
+      "id": 133,
+      "name_i18n": {
+        "common": "chickenmarsala",
+        "es": "Chicken Marsala",
+        "en": "Chicken Marsala",
+        "pt": "Chicken Marsala",
+        "fr": "Chicken Marsala",
+        "de": "Chicken Marsala"
+      },
+      "price": 36.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 134,
+      "name_i18n": {
+        "common": "chickenscaloppinelemonbutter",
+        "es": "Chicken Scaloppine w/ Lemon & Butter",
+        "en": "Chicken Scaloppine w/ Lemon & Butter",
+        "pt": "Chicken Scaloppine w/ Lemon & Butter",
+        "fr": "Chicken Scaloppine w/ Lemon & Butter",
+        "de": "Chicken Scaloppine w/ Lemon & Butter"
+      },
+      "price": 36.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "description": {
+        "es": "The pairing of these three together with the slight bit of spinach is out of this world! This is also simple, but so flavorful!",
+        "en": "The pairing of these three together with the slight bit of spinach is out of this world! This is also simple, but so flavorful!",
+        "pt": "The pairing of these three together with the slight bit of spinach is out of this world! This is also simple, but so flavorful!",
+        "fr": "The pairing of these three together with the slight bit of spinach is out of this world! This is also simple, but so flavorful!",
+        "de": "The pairing of these three together with the slight bit of spinach is out of this world! This is also simple, but so flavorful!"
+      }
+    },
+    {
+      "id": 135,
+      "name_i18n": {
+        "common": "chickensaltimbocca",
+        "es": "Chicken Saltimbocca",
+        "en": "Chicken Saltimbocca",
+        "pt": "Chicken Saltimbocca",
+        "fr": "Chicken Saltimbocca",
+        "de": "Chicken Saltimbocca"
+      },
+      "price": 38.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 136,
+      "name_i18n": {
+        "common": "chickencontadina",
+        "es": "Chicken Contadina",
+        "en": "Chicken Contadina",
+        "pt": "Chicken Contadina",
+        "fr": "Chicken Contadina",
+        "de": "Chicken Contadina"
+      },
+      "price": 55.95,
+      "cover": "",
+      "category": {
+        "common": "chicken"
+      },
+      "allergens": [],
+      "description": {
+        "es": "(GF)",
+        "en": "(GF)",
+        "pt": "(GF)",
+        "fr": "(GF)",
+        "de": "(GF)"
+      }
+    },
+    {
+      "id": 137,
+      "name_i18n": {
+        "common": "porterhouse",
+        "es": "Porterhouse",
+        "en": "Porterhouse",
+        "pt": "Porterhouse",
+        "fr": "Porterhouse",
+        "de": "Porterhouse"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "steak"
+      },
+      "allergens": [],
+      "description": {
+        "es": "45oz Broiled Porterhouse Steak* (GF) P.A. (Market Price)",
+        "en": "45oz Broiled Porterhouse Steak* (GF) P.A. (Market Price)",
+        "pt": "45oz Broiled Porterhouse Steak* (GF) P.A. (Market Price)",
+        "fr": "45oz Broiled Porterhouse Steak* (GF) P.A. (Market Price)",
+        "de": "45oz Broiled Porterhouse Steak* (GF) P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 138,
+      "name_i18n": {
+        "common": "porterhousepizzaiola",
+        "es": "Porterhouse Pizzaiola",
+        "en": "Porterhouse Pizzaiola",
+        "pt": "Porterhouse Pizzaiola",
+        "fr": "Porterhouse Pizzaiola",
+        "de": "Porterhouse Pizzaiola"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "steak"
+      },
+      "allergens": [],
+      "description": {
+        "es": "* P.A. (Market Price)",
+        "en": "* P.A. (Market Price)",
+        "pt": "* P.A. (Market Price)",
+        "fr": "* P.A. (Market Price)",
+        "de": "* P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 139,
+      "name_i18n": {
+        "common": "porterhousepeppersonions",
+        "es": "Porterhouse w/ Peppers & Onions",
+        "en": "Porterhouse w/ Peppers & Onions",
+        "pt": "Porterhouse w/ Peppers & Onions",
+        "fr": "Porterhouse w/ Peppers & Onions",
+        "de": "Porterhouse w/ Peppers & Onions"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "steak"
+      },
+      "allergens": [],
+      "description": {
+        "es": "* P.A. (Market Price)",
+        "en": "* P.A. (Market Price)",
+        "pt": "* P.A. (Market Price)",
+        "fr": "* P.A. (Market Price)",
+        "de": "* P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 140,
+      "name_i18n": {
+        "common": "porterhousecontadinastyle",
+        "es": "Porterhouse Contadina Style",
+        "en": "Porterhouse Contadina Style",
+        "pt": "Porterhouse Contadina Style",
+        "fr": "Porterhouse Contadina Style",
+        "de": "Porterhouse Contadina Style"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "steak"
+      },
+      "allergens": [],
+      "description": {
+        "es": "* P.A. (Market Price)",
+        "en": "* P.A. (Market Price)",
+        "pt": "* P.A. (Market Price)",
+        "fr": "* P.A. (Market Price)",
+        "de": "* P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 141,
+      "name_i18n": {
+        "common": "salmonoreganata",
+        "es": "Salmon Oreganata",
+        "en": "Salmon Oreganata",
+        "pt": "Salmon Oreganata",
+        "fr": "Salmon Oreganata",
+        "de": "Salmon Oreganata"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "fish"
+      ],
+      "description": {
+        "es": "* P.A. (Market Price). The crust on the salmon is crazy!! It also sits on a bed of a delicious sauce. And again, don’t forget to squeeze the lemon over top.",
+        "en": "* P.A. (Market Price). The crust on the salmon is crazy!! It also sits on a bed of a delicious sauce. And again, don’t forget to squeeze the lemon over top.",
+        "pt": "* P.A. (Market Price). The crust on the salmon is crazy!! It also sits on a bed of a delicious sauce. And again, don’t forget to squeeze the lemon over top.",
+        "fr": "* P.A. (Market Price). The crust on the salmon is crazy!! It also sits on a bed of a delicious sauce. And again, don’t forget to squeeze the lemon over top.",
+        "de": "* P.A. (Market Price). The crust on the salmon is crazy!! It also sits on a bed of a delicious sauce. And again, don’t forget to squeeze the lemon over top."
+      }
+    },
+    {
+      "id": 142,
+      "name_i18n": {
+        "common": "shrimp Marinara",
+        "es": "Shrimp Marinara",
+        "en": "Shrimp Marinara",
+        "pt": "Shrimp Marinara",
+        "fr": "Shrimp Marinara",
+        "de": "Shrimp Marinara"
+      },
+      "price": 43.95,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "(GF)",
+        "en": "(GF)",
+        "pt": "(GF)",
+        "fr": "(GF)",
+        "de": "(GF)"
+      }
+    },
+    {
+      "id": 143,
+      "name_i18n": {
+        "common": "shrimpscampi",
+        "es": "Shrimp Scampi",
+        "en": "Shrimp Scampi",
+        "pt": "Shrimp Scampi",
+        "fr": "Shrimp Scampi",
+        "de": "Shrimp Scampi"
+      },
+      "price": 44.95,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 144,
+      "name_i18n": {
+        "common": "shrimpparmigiana",
+        "es": "Shrimp Parmigiana",
+        "en": "Shrimp Parmigiana",
+        "pt": "Shrimp Parmigiana",
+        "fr": "Shrimp Parmigiana",
+        "de": "Shrimp Parmigiana"
+      },
+      "price": 45.95,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish",
+        "dairy",
+        "gluten"
+      ],
+      "description": {
+        "es": "",
+        "en": "",
+        "pt": "",
+        "fr": "",
+        "de": ""
+      }
+    },
+    {
+      "id": 145,
+      "name_i18n": {
+        "common": "shrimpfra diavolo",
+        "es": "Shrimp Fra Diavolo",
+        "en": "Shrimp Fra Diavolo",
+        "pt": "Shrimp Fra Diavolo",
+        "fr": "Shrimp Fra Diavolo",
+        "de": "Shrimp Fra Diavolo"
+      },
+      "price": 43.95,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "(GF)",
+        "en": "(GF)",
+        "pt": "(GF)",
+        "fr": "(GF)",
+        "de": "(GF)"
+      }
+    },
+    {
+      "id": 146,
+      "name_i18n": {
+        "common": "broiledlobsteroreganata",
+        "es": "Broiled Lobster Oreganata",
+        "en": "Broiled Lobster Oreganata",
+        "pt": "Broiled Lobster Oreganata",
+        "fr": "Broiled Lobster Oreganata",
+        "de": "Broiled Lobster Oreganata"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "P.A. (Market Price)",
+        "en": "P.A. (Market Price)",
+        "pt": "P.A. (Market Price)",
+        "fr": "P.A. (Market Price)",
+        "de": "P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 147,
+      "name_i18n": {
+        "common": "lobsterfradiavolo",
+        "es": "Lobster Fra Diavolo",
+        "en": "Lobster Fra Diavolo",
+        "pt": "Lobster Fra Diavolo",
+        "fr": "Lobster Fra Diavolo",
+        "de": "Lobster Fra Diavolo"
+      },
+      "price": 0,
+      "cover": "",
+      "category": {
+        "common": "seafood"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "P.A. (Market Price)",
+        "en": "P.A. (Market Price)",
+        "pt": "P.A. (Market Price)",
+        "fr": "P.A. (Market Price)",
+        "de": "P.A. (Market Price)"
+      }
+    },
+    {
+      "id": 148,
+      "name_i18n": {
+        "common": "flourlesschocolatetorte",
+        "es": "Flourless Chocolate Torte",
+        "en": "Flourless Chocolate Torte",
+        "pt": "Flourless Chocolate Torte",
+        "fr": "Flourless Chocolate Torte",
+        "de": "Flourless Chocolate Torte"
+      },
+      "price": 19.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "(GF) (V)",
+        "en": "(GF) (V)",
+        "pt": "(GF) (V)",
+        "fr": "(GF) (V)",
+        "de": "(GF) (V)"
+      }
+    },
+    {
+      "id": 149,
+      "name_i18n": {
+        "common": "strawberryshortcake",
+        "es": "Strawberry Shortcake",
+        "en": "Strawberry Shortcake",
+        "pt": "Strawberry Shortcake",
+        "fr": "Strawberry Shortcake",
+        "de": "Strawberry Shortcake"
+      },
+      "price": 22.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 150,
+      "name_i18n": {
+        "common": "chocolatebreadpudding",
+        "es": "Chocolate Bread Pudding",
+        "en": "Chocolate Bread Pudding",
+        "pt": "Chocolate Bread Pudding",
+        "fr": "Chocolate Bread Pudding",
+        "de": "Chocolate Bread Pudding"
+      },
+      "price": 26.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 151,
+      "name_i18n": {
+        "common": "chocolatecannoli",
+        "es": "Chocolate Cannoli",
+        "en": "Chocolate Cannoli",
+        "pt": "Chocolate Cannoli",
+        "fr": "Chocolate Cannoli",
+        "de": "Chocolate Cannoli"
+      },
+      "price": 19.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "gluten",
+        "dairy"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 152,
+      "name_i18n": {
+        "common": "tiramisu",
+        "es": "Tiramisu",
+        "en": "Tiramisu",
+        "pt": "Tiramisu",
+        "fr": "Tiramisu",
+        "de": "Tiramisu"
+      },
+      "price": 29.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "gluten",
+        "dairy",
+        "eggs"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 153,
+      "name_i18n": {
+        "common": "tartufi",
+        "es": "Tartufi",
+        "en": "Tartufi",
+        "pt": "Tartufi",
+        "fr": "Tartufi",
+        "de": "Tartufi"
+      },
+      "price": 19.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "description": {
+        "es": "(GF) (V)",
+        "en": "(GF) (V)",
+        "pt": "(GF) (V)",
+        "fr": "(GF) (V)",
+        "de": "(GF) (V)"
+      }
+    },
+    {
+      "id": 154,
+      "name_i18n": {
+        "common": "italiancheesecake",
+        "es": "Italian Cheesecake",
+        "en": "Italian Cheesecake",
+        "pt": "Italian Cheesecake",
+        "fr": "Italian Cheesecake",
+        "de": "Italian Cheesecake"
+      },
+      "price": 29.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "dairy",
+        "eggs",
+        "gluten"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 155,
+      "name_i18n": {
+        "common": "titanic",
+        "es": "Titanic",
+        "en": "Titanic",
+        "pt": "Titanic",
+        "fr": "Titanic",
+        "de": "Titanic"
+      },
+      "price": 39.95,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [
+        "dairy",
+        "gluten"
+      ],
+      "description": {
+        "es": "(V)",
+        "en": "(V)",
+        "pt": "(V)",
+        "fr": "(V)",
+        "de": "(V)"
+      }
+    },
+    {
+      "id": 156,
+      "name_i18n": {
+        "common": "seasonalfreshfruitplatter",
+        "es": "Seasonal Fresh Fruit Platter",
+        "en": "Seasonal Fresh Fruit Platter",
+        "pt": "Seasonal Fresh Fruit Platter",
+        "fr": "Seasonal Fresh Fruit Platter",
+        "de": "Seasonal Fresh Fruit Platter"
+      },
+      "price": 29.5,
+      "cover": "",
+      "category": {
+        "common": "desserts"
+      },
+      "allergens": [],
+      "description": {
+        "es": "(GF)(V)",
+        "en": "(GF)(V)",
+        "pt": "(GF)(V)",
+        "fr": "(GF)(V)",
+        "de": "(GF)(V)"
+      }
+    }
+  ]
+}
