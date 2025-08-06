@@ -1,6 +1,8 @@
 {
 	"logo": "https://i.ibb.co/pjpMkNt2/logo.webp",
 	"categoryImg": true,
+	"itemCardImage": false,
+	"itemCardAllergens": false,
 	"categories": [
 		{
 			"order": 1,
