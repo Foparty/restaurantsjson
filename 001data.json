@@ -5,6 +5,13 @@
 	"itemCardAllergens": false,
 	"mapsURL": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
 	"mapsAddress": "Calle de la Princesa, 1, 28008 Madrid, Spain",
+	"aboutDescription": {
+		"es": "Restaurante italiano con una amplia variedad de platos tradicionales y modernos, desde entrantes hasta postres, todo preparado con ingredientes frescos y de alta calidad.",
+		"en": "Italian restaurant with a wide variety of traditional and modern dishes, from appetizers to desserts, all prepared with fresh, high-quality ingredients.",
+		"pt": "Restaurante italiano com uma ampla variedade de pratos tradicionais e modernos, desde entradas até sobremesas, todos preparados com ingredientes frescos e de alta qualidade.",
+		"fr": "Restaurant italien avec une large variété de plats traditionnels et modernes, des entrées aux desserts, tous préparés avec des ingrédients frais et de haute qualité.",
+		"de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden."
+	},
 	"categories": [
 		{
 			"order": 1,
