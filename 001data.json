@@ -2,7 +2,7 @@
 	"logo": "https://i.ibb.co/pjpMkNt2/logo.webp",
 	"categoryImg": true,
 	"itemCardImage": false,
-	"itemCardAllergens": false,
+	"itemCardAllergens": true,
 	"categories": [
 		{
 			"order": 1,
