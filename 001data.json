@@ -4,6 +4,7 @@
 	"itemCardImage": false,
 	"itemCardAllergens": false,
 	"mapsURL": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+	"mapsAddress": "Calle de la Princesa, 1, 28008 Madrid, Spain",
 	"categories": [
 		{
 			"order": 1,
