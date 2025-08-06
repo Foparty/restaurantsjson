@@ -9,7 +9,7 @@
       "pt": "Aperitivos",
       "fr": "Entrées",
       "de": "Vorspeisen",
-      "cover": "https://i.ibb.co/Nn1464DK/appetizers.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/appetizers.webp"
     },
     {
       "order": 2,
@@ -19,7 +19,7 @@
       "pt": "Saladas",
       "fr": "Salades",
       "de": "Salate",
-      "cover": "https://i.ibb.co/ynmjQ7mF/salads.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/salads.webp"
     },
     {
       "order": 3,
@@ -29,7 +29,7 @@
       "pt": "Massa",
       "fr": "Pâtes",
       "de": "Pasta",
-      "cover": "https://i.ibb.co/5WLyCvcQ/pasta.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/pasta.webp"
     },
     {
       "order": 4,
@@ -39,7 +39,7 @@
       "pt": "Carne",
       "fr": "Viande",
       "de": "Fleisch",
-      "cover": "https://i.ibb.co/nqxQ03CZ/meat.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/meat.webp"
     },
     {
       "order": 5,
@@ -49,7 +49,7 @@
       "pt": "Frutos do mar",
       "fr": "Fruits de mer",
       "de": "Meeresfrüchte",
-      "cover": "https://i.ibb.co/ccL5kcPF/seafood.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/seafood.webp"
     },
     {
       "order": 6,
@@ -59,7 +59,7 @@
       "pt": "Vegetais e Acompanhamentos",
       "fr": "Légumes et Accompagnements",
       "de": "Gemüse und Beilagen",
-      "cover": "https://i.ibb.co/YTh8Vr0d/vegs.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/vegs.webp"
     },
     {
       "order": 7,
@@ -69,7 +69,7 @@
       "pt": "Sobremesas",
       "fr": "Desserts",
       "de": "Nachspeisen",
-      "cover": "https://i.ibb.co/60BP0kX7/dessert.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/dessert.webp"
     },
     {
       "order": 8,
@@ -79,7 +79,7 @@
       "pt": "Vinhos",
       "fr": "Vins",
       "de": "Weine",
-      "cover": "https://i.ibb.co/GQ90TS2T/wines.webp"
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/wines.webp"
     }
   ],
   "items": [
