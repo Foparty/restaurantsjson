@@ -13,7 +13,7 @@
 		"de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden."
 	},
 	"aboutContactNums": ["+34 123 456 789", "+1(234) 567-8901"],
-	"aboutContactmails": ["info@restaurant.com", "contact@restaurant.com"],
+	"aboutContactMails": ["info@restaurant.com", "contact@restaurant.com"],
 	"categories": [
 		{
 			"order": 1,
