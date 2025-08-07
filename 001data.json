@@ -12,6 +12,7 @@
 		"fr": "Restaurant italien avec une large variété de plats traditionnels et modernes, des entrées aux desserts, tous préparés avec des ingrédients frais et de haute qualité.",
 		"de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden."
 	},
+	"aboutContactNums": ["+34 123 456 789", "+1(234) 567-8901"],
 	"categories": [
 		{
 			"order": 1,
