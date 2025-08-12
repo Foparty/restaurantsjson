@@ -23,13 +23,13 @@
   "categories": [
     {
       "order": 1,
-      "slug": "appetizers",
-      "es": "Entrantes",
-      "en": "Appetizers",
-      "pt": "Aperitivos",
-      "fr": "Entrées",
-      "de": "Vorspeisen",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/appetizers.webp"
+      "slug": "quick",
+      "es": "Algo Rápido",
+      "en": "Something Quick",
+      "pt": "Algo Rápido",
+      "fr": "Quelque Chose de Rapide",
+      "de": "Etwas Schnelles",
+      "cover": ""
     },
     {
       "order": 2,
