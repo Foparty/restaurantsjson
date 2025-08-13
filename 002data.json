@@ -79,389 +79,106 @@
       "pt": "Vinhos",
       "fr": "Vins",
       "de": "Weine",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/wines.webp"
+      "cover": ""
     }
   ],
   "items": [
     {
       "id": 100,
       "name_i18n": {
-        "common": "garlicbread",
-        "es": "Pan de Ajo",
-        "en": "Garlic Bread",
-        "pt": "Pão de Alho",
-        "fr": "Pain à l'Ail",
-        "de": "Knoblauchbrot"
+        "common": "cecina_queso_grissini",
+        "es": "Cecina, queso, grissini, alioli de pimentón",
+        "en": "Cecina, cheese, grissini, smoked paprika aioli",
+        "pt": "Cecina, queijo, grissini, aioli de pimentão",
+        "fr": "Cecina, fromage, grissini, aioli au piment fumé",
+        "de": "Cecina, Käse, Grissini, geräucherter Paprika-Aioli"
       },
-      "price": 19.95,
-      "cover": "/garlicbread.webp",
+      "price": 11.00,
+      "cover": "/cecina_queso_grissini.webp",
       "category": {
-        "common": "appetizers"
+        "common": "quick"
       },
       "allergens": [],
       "description": {
-        "es": "Pan de Miga con Ajo y Mantequilla de Hierbas",
-        "en": "Topped w/ Garlic & Herb Butter",
-        "pt": "Pão de Alho com Manteiga de Ervas",
-        "fr": "Pain à l'Ail avec Beurre aux Herbes",
-        "de": "Knoblauchbrot mit Kräuterbutter"
+        "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
+        "en": "Cured cecina, soft cheese, crispy grissini, and smoked paprika aioli",
+        "pt": "Cecina curada, queijo macio, grissini crocantes e aioli de pimentão",
+        "fr": "Cecina affinée, fromage doux, grissini croustillants et aioli au piment fumé",
+        "de": "Gereifter Cecina-Schinken, milder Käse, knusprige Grissini und geräucherter Paprika-Aioli"
       }
     },
     {
       "id": 101,
       "name_i18n": {
-        "common": "bakedclams",
-        "es": "Almejas al Horno",
-        "en": "Baked Clams",
-        "pt": "Bkedclaaked Clams",
-        "fr": "Baked Clams",
-        "de": "Baked Clams"
+        "common": "sardina_ahumada",
+        "es": "Sardina ahumada, tomate, pan brioche",
+        "en": "Smoked sardine, tomato, brioche bread",
+        "pt": "Sardinha defumada, tomate, pão brioche",
+        "fr": "Sardine fumée, tomate, pain brioche",
+        "de": "Geräucherte Sardine, Tomate, Briochebrot"
       },
-      "price": 28.95,
-      "cover": "/bakedclams.webp",
+      "price": 5.00,
+      "cover": "/sardina_ahumada.webp",
       "category": {
-        "common": "appetizers"
+        "common": "quick"
       },
       "allergens": [
-        "shellfish"
+        "fish"
       ],
       "description": {
-        "es": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas",
-        "en": "Fresh Littleneck Clams Baked w/ our Seasoned Breadcrumbs & Clam Broth",
-        "pt": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas",
-        "fr": "Fresh Littleneck Clams Baked w/ our Seasoned Breadcrumbs & Clam Broth",
-        "de": "Almejas Littleneck Frescas al Horno con Pan Rallado Sazonado y Caldo de Almejas"
+        "es": "Sardina ahumada con tomate fresco y pan brioche tostado",
+        "en": "Smoked sardine with fresh tomato and toasted brioche bread",
+        "pt": "Sardinha defumada com tomate fresco e pão brioche torrado",
+        "fr": "Sardine fumée avec tomate fraîche et pain brioche grillé",
+        "de": "Geräucherte Sardine mit frischer Tomate und geröstetem Briochebrot"
       }
     },
     {
       "id": 102,
       "name_i18n": {
-        "common": "friedzucchini",
-        "es": "Fried Zucchini",
-        "en": "Fried Zucchini",
-        "pt": "Fried Zucchini",
-        "fr": "Fried Zucchini",
-        "de": "Fried Zucchini"
+        "common": "croquetas_patata_cebolla",
+        "es": "Croquetas de patata y cebolla, salsa de pimentón asado (5ud)",
+        "en": "Potato and onion croquettes, roasted paprika sauce (5 pcs)",
+        "pt": "Croquetes de batata e cebola, molho de pimentão assado (5 unid)",
+        "fr": "Croquettes de pomme de terre et oignon, sauce au paprika rôti (5 pièces)",
+        "de": "Kartoffel- und Zwiebel-Croquettes, geröstete Paprika-Sauce (5 Stück)"
       },
-      "price": 27.95,
-      "cover": "/friedzucchini.webp",
+      "price": 10.00,
+      "cover": "/croquetas_patata_cebolla.webp",
       "category": {
-        "common": "appetizers"
+        "common": "quick"
       },
-      "allergens": [
-        "gluten"
-      ],
+      "allergens": [],
       "description": {
-        "es": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
-        "en": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
-        "pt": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
-        "fr": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese",
-        "de": "Shoestring Strands of Zucchini Dredged in Milk & Lightly Breaded in Seasoned Flour - Fried Golden Brown & Topped w/ Grated Romano Cheese"
+        "es": "Croquetas cremosas de patata y cebolla con salsa de pimentón asado",
+        "en": "Creamy potato and onion croquettes with roasted paprika sauce",
+        "pt": "Croquetes cremosos de batata e cebola com molho de pimentão assado",
+        "fr": "Croquettes crémeuses de pomme de terre et oignon avec sauce au paprika rôti",
+        "de": "Cremige Kartoffel- und Zwiebel-Croquettes mit gerösteter Paprika-Sauce"
       }
     },
     {
       "id": 103,
       "name_i18n": {
-        "common": "stuffedmushrooms",
-        "es": "Champiñones Rellenos",
-        "en": "Stuffed Mushrooms",
-        "pt": "Stuffed Mushrooms",
-        "fr": "Stuffed Mushrooms",
-        "de": "Stuffed Mushrooms"
+        "common": "piparras_brasas",
+        "es": "Piparras a la brasa, limón, sal negra",
+        "en": "Grilled piparras, lemon, black salt",
+        "pt": "Piparras grelhadas, limão, sal negro",
+        "fr": "Piparras grillées, citron, sel noir",
+        "de": "Gegrillte Piparras, Zitrone, schwarzes Salz"
       },
-      "price": 23.95,
-      "cover": "/stuffedmushrooms.webp",
+      "price": 8.50,
+      "cover": "/piparras_brasas.webp",
       "category": {
-        "common": "appetizers"
+        "common": "quick"
       },
       "allergens": [],
       "description": {
-        "es": "Champiñones Rellenos con Salchicha Italiana Dulce, Pimiento Dulce y Pimiento Picante",
-        "en": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
-        "pt": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
-        "fr": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling",
-        "de": "Stuffed Mushroom Caps with Sweet Italian Sausage, Sweet Pepper & Hot Pepper Filling"
-      }
-    },
-    {
-      "id": 104,
-      "name_i18n": {
-        "common": "friedcalamari",
-        "es": "Fried Calamari",
-        "en": "Fried Calamari",
-        "pt": "Fried Calamari",
-        "fr": "Fried Calamari",
-        "de": "Fried Calamari"
-      },
-      "price": 44.95,
-      "cover": "/friedcalamari.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "gluten",
-        "shellfish"
-      ],
-      "description": {
-        "es": "Ligeramente Empanado en Nuestra Harina Sazonada con Salsa Marinara Picante al Lado",
-        "en": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
-        "pt": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
-        "fr": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side",
-        "de": "Lightly Dusted in our Seasoned Flour w/ Spicy Marinara Sauce on the Side"
-      }
-    },
-    {
-      "id": 105,
-      "name_i18n": {
-        "common": "zuppadiclams",
-        "es": "Zuppa Di Clams Red or White",
-        "en": "Zuppa Di Clams Red or White",
-        "pt": "Zuppa Di Clams Red or White",
-        "fr": "Zuppa Di Clams Red or White",
-        "de": "Zuppa Di Clams Red or White"
-      },
-      "price": 28.95,
-      "cover": "/zuppadiclams.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "shellfish"
-      ],
-      "description": {
-        "es": "Almejas Littleneck Frescas Cocidas en un Caldo Rojo o Blanco con Ajo, Vino Blanco y Hierbas",
-        "en": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "pt": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "fr": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "de": "Fresh Little Neck Clams Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs"
-      }
-    },
-    {
-      "id": 106,
-      "name_i18n": {
-        "common": "zuppadimussels",
-        "es": "Zuppa Di Mussels Red or White",
-        "en": "Zuppa Di Mussels Red or White",
-        "pt": "Zuppa Di Mussels Red or White",
-        "fr": "Zuppa Di Mussels Red or White",
-        "de": "Zuppa Di Mussels Red or White"
-      },
-      "price": 28.95,
-      "cover": "/zuppadimussels.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "shellfish"
-      ],
-      "description": {
-        "es": "Mejillones Frescos Cocidos en un Caldo Rojo o Blanco con Ajo, Vino Blanco y Hierbas",
-        "en": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "pt": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "fr": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs",
-        "de": "Fresh Mussels Cooked in a Red or White Broth w/ Garlic, White Wine & Herbs"
-      }
-    },
-    {
-      "id": 107,
-      "name_i18n": {
-        "common": "spiediniallaromana",
-        "es": "Spiedini Alla Romana",
-        "en": "Spiedini Alla Romana",
-        "pt": "Spiedini Alla Romana",
-        "fr": "Spiedini Alla Romana",
-        "de": "Spiedini Alla Romana"
-      },
-      "price": 27.95,
-      "cover": "/spiediniallaromana.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "dairy",
-        "gluten"
-      ],
-      "description": {
-        "es": "Rebanadas de Pan Tostado con Ajo, Capas de Queso Mozzarella Fresca y Apiladas - Tostadas y Derretidas Cubiertas con Salsa de Limón, Mantequilla, Vino Blanco, Alcaparras y Anchoas",
-        "en": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-        "pt": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-        "fr": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce",
-        "de": "Thick Sliced Bread Rubbed w/ Garlic, Layered w/ Fresh Mozzarella Cheese & Stacked - Toasted & Melted Topped w/ Lemon, Butter, White Wine, Capers & Anchovies Sauce"
-      }
-    },
-    {
-      "id": 108,
-      "name_i18n": {
-        "common": "coldantipasto",
-        "es": "Cold Antipasto",
-        "en": "Cold Antipasto",
-        "pt": "Cold Antipasto",
-        "fr": "Cold Antipasto",
-        "de": "Cold Antipasto"
-      },
-      "price": 59.95,
-      "cover": "/coldantipasto.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "dairy",
-        "fish",
-        "shellfish"
-      ],
-      "description": {
-        "es": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
-        "en": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
-        "pt": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
-        "fr": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick",
-        "de": "Gluten-Free Fusilli Pasta Salad, Caprese Salad w/ Burrata Cheese, Tomatoes & Pesto, Roasted Eggplant & Oven Dried Roma Tomatoes, Tuscan White Bean Salad w/ Broccoli Rabe & Truffle Oil, Roasted Portobello Salad, Cold Seafood Salad w/ Shrimp, Calamari, Scallops & Octopus, Citrus Cured Salmon Crostini w/ Lemon Mascarpone, Sliced Italian Meats & Provolone & Romano Cheese & Black Pepper Bread Stick"
-      }
-    },
-    {
-      "id": 109,
-      "name_i18n": {
-        "common": "hotantipasto",
-        "es": "Hot Antipasto",
-        "en": "Hot Antipasto",
-        "pt": "Hot Antipasto",
-        "fr": "Hot Antipasto",
-        "de": "Hot Antipasto"
-      },
-      "price": 59.95,
-      "cover": "/hotantipasto.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [
-        "gluten",
-        "dairy"
-      ],
-      "description": {
-        "es": "Mejillones Fra Diavolo, Almejas Casino, Rollatini de Berenjena con Espinaca y Queso, Coles de Bruselas y Coliflor Asadas con Pancetta, Stromboli con Salchicha de Pollo, Espinaca y Queso, Mozzarella en Carrozza con Pesto, Raviolinis Fritos con Marinara y Dip de Espinaca y Alcachofa en Crostini",
-        "en": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
-        "pt": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
-        "fr": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini",
-        "de": "Mussels Fra Diavolo, Clams Casino, Eggplant Rollatini w/ Spinach & Cheese, Roasted Brussels Sprouts & Cauliflower w/ Pancetta, Stromboli w/ Chicken Sausage, Spinach & Cheese, Mozzarella en Carrozza w/ Pesto, Fried Raviolinis w/ Marinara & Spinach & Artichoke Dip Crostini"
-      }
-    },
-    {
-      "id": 110,
-      "name_i18n": {
-        "common": "spicyscarpariellowings",
-        "es": "Spicy Scarpariello Wings",
-        "en": "Spicy Scarpariello Wings",
-        "pt": "Spicy Scarpariello Wings",
-        "fr": "Spicy Scarpariello Wings",
-        "de": "Spicy Scarpariello Wings"
-      },
-      "price": 44.95,
-      "cover": "/spicyscarpariellowings.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [],
-      "description": {
-        "es": "Marinado con Ajo y Romero, Frito en Sartén y Mezclado en una Salsa de Mantequilla de Limón Picante con Hierbas con Salsa de Queso Gorgonzola",
-        "en": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
-        "pt": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
-        "fr": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce",
-        "de": "Marinated w/ Garlic & Rosemary, Pan Fried & Tossed in a Spicy Lemon Butter Herb Sauce w/ Gorgonzola Dipping Sauce"
-      }
-    },
-    {
-      "id": 111,
-      "name_i18n": {
-        "common": "stuffedartichokes",
-        "es": "Alcachofas Rellenas",
-        "en": "Stuffed Artichokes",
-        "pt": "Alcachofras Recheadas",
-        "fr": "Artichauts Farcis",
-        "de": "Gefüllte Artischocken"
-      },
-      "price": 25.95,
-      "cover": "/stuffedartichokes.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [],
-      "description": {
-        "es": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
-        "en": "Stuffed & Baked w/ Our Seasoned Breadcrumbs in Chicken Stock",
-        "pt": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
-        "fr": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo",
-        "de": "Rellenas y Horneadas con Nuestro Pan Rallado Sazonado en Caldo de Pollo"
-      }
-    },
-    {
-      "id": 112,
-      "name_i18n": {
-        "common": "portobelloparmigiana",
-        "es": "Portobello a la Parmesana",
-        "en": "Portobello Parmesan",
-        "pt": "Portobello à Parmegiana",
-        "fr": "Portobello Parmesan",
-        "de": "Portobello Parmesan"
-      },
-      "price": 22.95,
-      "cover": "/portobelloparmigiana.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [],
-      "description": {
-        "es": "Champiñones Portobello Grandes Empanizados y Fritos - Servidos al Estilo Parmigiana con Salsa Marinara y Queso Derretido",
-        "en": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
-        "pt": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
-        "fr": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese",
-        "de": "Large Portobello Mushrooms Breaded & Fried - Served Parmigiana Style with Marinara Sauce & Melted Cheese"
-      }
-    },
-    {
-      "id": 113,
-      "name_i18n": {
-        "common": "roastedpeppersanchovies",
-        "es": "Pimientos Asados con Anchoas",
-        "en": "Roasted Peppers & Anchovies",
-        "pt": "Pimentos Assados com Anchovas",
-        "fr": "Poivrons Rôtis & Anchois",
-        "de": "Geröstete Paprika & Anchovis"
-      },
-      "price": 19.95,
-      "cover": "/roastedpeppersanchovies.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [],
-      "description": {
-        "es": "Pimientos Rojos Asados Frescos Cubiertos con Anchoas y Aceite de Hierbas de Albahaca",
-        "en": "Freshly Roasted Red Peppers Topped w/ Anchovies & Basil Herb Oil ",
-        "pt": "Pimentos Rojos Assados Frescos Cobertos com Anchovas e Óleo de Ervas de Manjericão",
-        "fr": "Poivrons Rôtis Frais Garnis d'Anchois et d'Huile d'Herbes de Basilic",
-        "de": "Frisch Geröstete Rote Paprika Mit Anchovis Und Basilikum Kräuteröl"
-      }
-    },
-    {
-      "id": 114,
-      "name_i18n": {
-        "common": "roastedpeppersmozzarellaandanchovies",
-        "es": "Pimientos Asados con Mozzarella y Anchoas",
-        "en": "Roasted Peppers with Mozzarella & Anchovies",
-        "pt": "Pimentos Assados com Mozzarella e Anchovas",
-        "fr": "Poivrons Rôtis avec Mozzarella & Anchois",
-        "de": "Geröstete Paprika mit Mozzarella & Anchovis"
-      },
-      "price": 24.95,
-      "cover": "/roastedpeppersmozzarella.webp",
-      "category": {
-        "common": "appetizers"
-      },
-      "allergens": [],
-      "description": {
-        "es": "Pimientos Rojos Asados Frescos Cubiertos con Mozzarella y Anchoas y Aceite de Hierbas de Albahaca",
-        "en": "Freshly Roasted Red Peppers Topped w/ Mozzerella & Anchovies & Basil Herb Oil",
-        "pt": "Pimentos Rojos Assados Frescos Cobertos com Mozzarella e Anchovas e Óleo de Ervas de Manjericão",
-        "fr": "Poivrons Rôtis Frais Garnis de Mozzarella et d'Anchois et d'Huile d'Herbes de Basilic",
-        "de": "Frisch Geröstete Rote Paprika Mit Mozzarella Und Anchovis Und Basilikum Kräuteröl"
+        "es": "Piparras frescas a la brasa con un toque de limón y sal negra",
+        "en": "Fresh grilled piparras with a hint of lemon and black salt",
+        "pt": "Piparras frescas grelhadas com um toque de limão e sal negro",
+        "fr": "Piparras fraîches grillées avec une touche de citron et sel noir",
+        "de": "Frische gegrillte Piparras mit einem Hauch Zitrone und schwarzem Salz"
       }
     },
     {
