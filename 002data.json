@@ -896,6 +896,9 @@
       "category": {
         "common": "wines"
       },
+      "subcategory": {
+        "common": "white"
+      },
       "allergens": [
         "sulfites"
       ],
