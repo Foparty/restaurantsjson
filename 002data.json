@@ -33,13 +33,13 @@
     },
     {
       "order": 2,
-      "slug": "salads",
-      "es": "ensaladas",
-      "en": "Salads",
-      "pt": "Saladas",
-      "fr": "Salades",
-      "de": "Salate",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/salads.webp"
+      "slug": "coldfresh",
+      "es": "Ensaladas Frescas y Crudas",
+      "en": "Cold Fresh and Raw",
+      "pt": "Saladas Frias e Cruas",
+      "fr": "Salades Froides Fraîches et Crues",
+      "de": "Kaltes Frisches und Rohes",
+      "cover": ""
     },
     {
       "order": 3,
