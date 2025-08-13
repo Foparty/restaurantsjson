@@ -1,10 +1,34 @@
 {
+  "apiVersion": "1.1",
+  "defaultLanguage": "en",
+  "availableLanguages": [
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "de"
+  ],
+  "assetsBaseUrl": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/",
   "logo": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/logo.webp",
   "categoryImg": true,
   "itemCardImage": false,
   "itemCardAllergens": false,
   "mapsURL": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
   "mapsAddress": "Calle de la Princesa, 1, 28008 Madrid, Spain",
+  "location": {
+    "address": "Calle de la Princesa, 1, 28008 Madrid, Spain",
+    "mapUrl": "https://www.google.es/maps/@40.5252821,-3.8160297,959225m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+    "geo": {
+      "lat": 40.5252821,
+      "lng": -3.8160297
+    }
+  },
+  "config": {
+    "currency": "EUR",
+    "categoryImg": true,
+    "itemCardImage": false,
+    "itemCardAllergens": false
+  },
   "aboutDescription": {
     "es": "Restaurante italiano con una amplia variedad de platos tradicionales y modernos, desde entrantes hasta postres, todo preparado con ingredientes frescos y de alta calidad.",
     "en": "Italian restaurant with a wide variety of traditional and modern dishes, from appetizers to desserts, all prepared with fresh, high-quality ingredients.",
@@ -20,96 +44,133 @@
     "info@restaurant.com",
     "contact@restaurant.com"
   ],
+  "contacts": [
+    {
+      "type": "phone",
+      "value": "+34 123 456 789"
+    },
+    {
+      "type": "phone",
+      "value": "+1(234) 567-8901"
+    },
+    {
+      "type": "email",
+      "value": "info@restaurant.com"
+    },
+    {
+      "type": "email",
+      "value": "contact@restaurant.com"
+    }
+  ],
   "categories": [
     {
       "order": 1,
       "slug": "quick",
-      "es": "Algo Rápido",
-      "en": "Something Quick",
-      "pt": "Algo Rápido",
-      "fr": "Quelque Chose de Rapide",
-      "de": "Etwas Schnelles",
+      "name_i18n": {
+        "es": "Algo Rápido",
+        "en": "Something Quick",
+        "pt": "Algo Rápido",
+        "fr": "Quelque Chose de Rapide",
+        "de": "Etwas Schnelles"
+      },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/appetiers.webp"
     },
     {
       "order": 2,
       "slug": "coldfresh",
-      "es": "Ensaladas Frescas y Crudas",
-      "en": "Cold Fresh and Raw",
-      "pt": "Saladas Frias e Cruas",
-      "fr": "Salades Froides Fraîches et Crues",
-      "de": "Kaltes Frisches und Rohes",
+      "name_i18n": {
+        "es": "Ensaladas Frescas y Crudas",
+        "en": "Cold Fresh and Raw",
+        "pt": "Saladas Frias e Cruas",
+        "fr": "Salades Froides Fraîches et Crues",
+        "de": "Kaltes Frisches und Rohes"
+      },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp"
     },
     {
       "order": 3,
       "slug": "hotbig",
-      "es": "Caliente y un poco más grande",
-      "en": "Hot and a bit bigger",
-      "pt": "Quente e um pouco maior",
-      "fr": "Chaud et un peu plus grand",
-      "de": "Heiß und ein bisschen größer",
+      "name_i18n": {
+        "es": "Caliente y un poco más grande",
+        "en": "Hot and a bit bigger",
+        "pt": "Quente e um pouco maior",
+        "fr": "Chaud et un peu plus grand",
+        "de": "Heiß und ein bisschen größer"
+      },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/main.webp"
     },
     {
       "order": 4,
       "slug": "sweet",
-      "es": "Algo Dulce",
-      "en": "Something Sweet",
-      "pt": "Algo Doce",
-      "fr": "Quelque Chose de Sucré",
-      "de": "Etwas Süßes",
+      "name_i18n": {
+        "es": "Algo Dulce",
+        "en": "Something Sweet",
+        "pt": "Algo Doce",
+        "fr": "Quelque Chose de Sucré",
+        "de": "Etwas Süßes"
+      },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/dessert.webp"
     },
     {
       "order": 5,
       "slug": "bread",
-      "es": "Servicio de Pan",
-      "en": "Bread service",
-      "pt": "Serviço de Pão",
-      "fr": "Service de Pain",
-      "de": "Brotservice",
+      "name_i18n": {
+        "es": "Servicio de Pan",
+        "en": "Bread service",
+        "pt": "Serviço de Pão",
+        "fr": "Service de Pain",
+        "de": "Brotservice"
+      },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/bread.webp"
     },
     {
       "order": 6,
       "slug": "wines",
-      "es": "Vinos",
-      "en": "Wines",
-      "pt": "Vinhos",
-      "fr": "Vins",
-      "de": "Weine",
+      "name_i18n": {
+        "es": "Vinos",
+        "en": "Wines",
+        "pt": "Vinhos",
+        "fr": "Vins",
+        "de": "Weine"
+      },
       "cover": "",
       "subcategories": [
         {
           "slug": "white",
-          "es": "Blanco",
-          "en": "White",
-          "pt": "Branco",
-          "fr": "Blanc",
-          "de": "Weiß"
+          "name_i18n": {
+            "es": "Blanco",
+            "en": "White",
+            "pt": "Branco",
+            "fr": "Blanc",
+            "de": "Weiß"
+          }
         },
         {
           "slug": "red",
-          "es": "Tinto",
-          "en": "Red",
-          "pt": "Tinto",
-          "fr": "Rouge",
-          "de": "Rot"
+          "name_i18n": {
+            "es": "Tinto",
+            "en": "Red",
+            "pt": "Tinto",
+            "fr": "Rouge",
+            "de": "Rot"
+          }
         },
         {
           "slug": "sparkling",
-          "es": "Espumoso",
-          "en": "Sparkling",
-          "pt": "Espumante",
-          "fr": "Mousseux",
-          "de": "Sekt"
+          "name_i18n": {
+            "es": "Espumoso",
+            "en": "Sparkling",
+            "pt": "Espumante",
+            "fr": "Mousseux",
+            "de": "Sekt"
+          }
         }
       ]
     }
   ],
   "items": [
     {
+      "slug": "cecina-queso-grissini",
       "id": 100,
       "name_i18n": {
         "common": "cecina_queso_grissini",
@@ -119,11 +180,13 @@
         "fr": "Cecina, fromage, grissini, aioli au piment fumé",
         "de": "Cecina, Käse, Grissini, geräucherter Paprika-Aioli"
       },
-      "price": 11.00,
+      "price": 11.0,
+      "priceCents": 1100,
       "cover": "/cecina_queso_grissini.webp",
       "category": {
         "common": "quick"
       },
+      "categorySlug": "quick",
       "allergens": [],
       "description": {
         "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
@@ -131,9 +194,14 @@
         "pt": "Cecina curada, queijo macio, grissini crocantes e aioli de pimentão",
         "fr": "Cecina affinée, fromage doux, grissini croustillants et aioli au piment fumé",
         "de": "Gereifter Cecina-Schinken, milder Käse, knusprige Grissini und geräucherter Paprika-Aioli"
+      },
+      "description_i18n": {
+        "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
+        "en": "Cured cecina, soft cheese, crispy grissini, and smoked paprika aioli"
       }
     },
     {
+      "slug": "sardina-ahumada",
       "id": 101,
       "name_i18n": {
         "common": "sardina_ahumada",
@@ -143,11 +211,13 @@
         "fr": "Sardine fumée, tomate, pain brioche",
         "de": "Geräucherte Sardine, Tomate, Briochebrot"
       },
-      "price": 5.00,
+      "price": 5.0,
+      "priceCents": 500,
       "cover": "/sardina_ahumada.webp",
       "category": {
         "common": "quick"
       },
+      "categorySlug": "quick",
       "allergens": [
         "fish"
       ],
@@ -160,6 +230,7 @@
       }
     },
     {
+      "slug": "croquetas-patata-cebolla",
       "id": 102,
       "name_i18n": {
         "common": "croquetas_patata_cebolla",
@@ -169,11 +240,13 @@
         "fr": "Croquettes de pomme de terre et oignon, sauce au paprika rôti (5 pièces)",
         "de": "Kartoffel- und Zwiebel-Croquettes, geröstete Paprika-Sauce (5 Stück)"
       },
-      "price": 10.00,
+      "price": 10.0,
+      "priceCents": 1000,
       "cover": "/croquetas_patata_cebolla.webp",
       "category": {
         "common": "quick"
       },
+      "categorySlug": "quick",
       "allergens": [],
       "description": {
         "es": "Croquetas cremosas de patata y cebolla con salsa de pimentón asado",
@@ -184,6 +257,7 @@
       }
     },
     {
+      "slug": "piparras-brasas",
       "id": 103,
       "name_i18n": {
         "common": "piparras_brasas",
@@ -193,11 +267,13 @@
         "fr": "Piparras grillées, citron, sel noir",
         "de": "Gegrillte Piparras, Zitrone, schwarzes Salz"
       },
-      "price": 8.50,
+      "price": 8.5,
+      "priceCents": 850,
       "cover": "/piparras_brasas.webp",
       "category": {
         "common": "quick"
       },
+      "categorySlug": "quick",
       "allergens": [],
       "description": {
         "es": "Piparras frescas a la brasa con un toque de limón y sal negra",
@@ -208,6 +284,7 @@
       }
     },
     {
+      "slug": "lechuga-romana",
       "id": 200,
       "name_i18n": {
         "common": "lechuga_romana",
@@ -217,11 +294,13 @@
         "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
         "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette"
       },
-      "price": 12.00,
+      "price": 12.0,
+      "priceCents": 1200,
       "cover": "/lechuga_romana.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "dairy"
       ],
@@ -234,6 +313,7 @@
       }
     },
     {
+      "slug": "tomate-vinagreta",
       "id": 201,
       "name_i18n": {
         "common": "tomate_vinagreta",
@@ -243,11 +323,13 @@
         "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
         "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel"
       },
-      "price": 12.00,
+      "price": 12.0,
+      "priceCents": 1200,
       "cover": "/tomate_vinagreta.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [],
       "description": {
         "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
@@ -258,6 +340,7 @@
       }
     },
     {
+      "slug": "ensalada-uvas",
       "id": 202,
       "name_i18n": {
         "common": "ensalada_uvas",
@@ -267,11 +350,13 @@
         "fr": "Salade de raisins, concombre, pistache, fromage feta",
         "de": "Traubensalat, Gurke, Pistazie, Feta-Käse"
       },
-      "price": 13.00,
+      "price": 13.0,
+      "priceCents": 1300,
       "cover": "/ensalada_uvas.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "dairy",
         "nuts"
@@ -285,6 +370,7 @@
       }
     },
     {
+      "slug": "ensalada-cordero",
       "id": 203,
       "name_i18n": {
         "common": "ensalada_cordero",
@@ -294,11 +380,13 @@
         "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
         "de": "Lamm-Salat, Tzatziki, aromatische Kräuter"
       },
-      "price": 18.00,
+      "price": 18.0,
+      "priceCents": 1800,
       "cover": "/ensalada_cordero.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "dairy"
       ],
@@ -311,6 +399,7 @@
       }
     },
     {
+      "slug": "carpaccio-gamba",
       "id": 204,
       "name_i18n": {
         "common": "carpaccio_gamba",
@@ -320,11 +409,13 @@
         "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
         "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl"
       },
-      "price": 24.00,
+      "price": 24.0,
+      "priceCents": 2400,
       "cover": "/carpaccio_gamba.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "shellfish"
       ],
@@ -337,6 +428,7 @@
       }
     },
     {
+      "slug": "tartar-pescado",
       "id": 205,
       "name_i18n": {
         "common": "tartar_pescado",
@@ -346,11 +438,13 @@
         "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
         "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt"
       },
-      "price": 19.00,
+      "price": 19.0,
+      "priceCents": 1900,
       "cover": "/tartar_pescado.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "fish",
         "dairy"
@@ -364,6 +458,7 @@
       }
     },
     {
+      "slug": "steak-tartar",
       "id": 206,
       "name_i18n": {
         "common": "steak_tartar",
@@ -373,11 +468,13 @@
         "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
         "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker"
       },
-      "price": 19.50,
+      "price": 19.5,
+      "priceCents": 1950,
       "cover": "/steak_tartar.webp",
       "category": {
         "common": "coldfresh"
       },
+      "categorySlug": "coldfresh",
       "allergens": [
         "dairy"
       ],
@@ -390,6 +487,7 @@
       }
     },
     {
+      "slug": "pasta-pici-casera",
       "id": 301,
       "name_i18n": {
         "common": "pasta_pici_casera",
@@ -399,11 +497,13 @@
         "fr": "Pâtes pici maison, pecorino, poivre noir",
         "de": "Hausgemachte Pici-Pasta, Pecorino, schwarzer Pfeffer"
       },
-      "price": 16.00,
+      "price": 16.0,
+      "priceCents": 1600,
       "cover": "/pasta_pici_casera.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [
         "dairy"
       ],
@@ -416,6 +516,7 @@
       }
     },
     {
+      "slug": "fettuccine-casero",
       "id": 302,
       "name_i18n": {
         "common": "fettuccine_casero",
@@ -425,11 +526,13 @@
         "fr": "Fettuccine maison, calmar, aglio e olio, tomate épicé",
         "de": "Hausgemachte Fettuccine, Tintenfisch, aglio e olio, scharfe Tomate"
       },
-      "price": 17.50,
+      "price": 17.5,
+      "priceCents": 1750,
       "cover": "/fettuccine_casero.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [
         "shellfish"
       ],
@@ -442,6 +545,7 @@
       }
     },
     {
+      "slug": "almejas-alubias",
       "id": 303,
       "name_i18n": {
         "common": "almejas_alubias",
@@ -451,11 +555,13 @@
         "fr": "Palourdes, haricots, vin blanc, pain au levain",
         "de": "Muscheln, Bohnen, Weißwein, Sauerteigbrot"
       },
-      "price": 22.50,
+      "price": 22.5,
+      "priceCents": 2250,
       "cover": "/almejas_alubias.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [
         "shellfish"
       ],
@@ -468,6 +574,7 @@
       }
     },
     {
+      "slug": "lomo-corvina",
       "id": 304,
       "name_i18n": {
         "common": "lomo_corvina",
@@ -477,11 +584,13 @@
         "fr": "Filet de corvina, bisque de crevette, broccolini",
         "de": "Corvina-Lende, Garnelenbisque, Broccolini"
       },
-      "price": 24.00,
+      "price": 24.0,
+      "priceCents": 2400,
       "cover": "/lomo_corvina.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [
         "fish",
         "shellfish"
@@ -495,6 +604,7 @@
       }
     },
     {
+      "slug": "pulpo-brasas",
       "id": 305,
       "name_i18n": {
         "common": "pulpo_brasas",
@@ -504,11 +614,13 @@
         "fr": "Poulpe grillé, pomme de terre croustillante, vinaigrette de tomate",
         "de": "Gegrillter Oktopus, knusprige Kartoffel, Tomatenvinaigrette"
       },
-      "price": 22.00,
+      "price": 22.0,
+      "priceCents": 2200,
       "cover": "/pulpo_brasas.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [],
       "description": {
         "es": "Pulpo a la brasa con patata crujiente y vinagreta de tomate",
@@ -519,6 +631,7 @@
       }
     },
     {
+      "slug": "lomo-alto-brasas",
       "id": 306,
       "name_i18n": {
         "common": "lomo_alto_brasas",
@@ -528,11 +641,13 @@
         "fr": "Haut-longe grillé, purée de céleri-rave",
         "de": "Gegrilltes Hochrippenstück, Selleriepüree"
       },
-      "price": 30.00,
+      "price": 30.0,
+      "priceCents": 3000,
       "cover": "/lomo_alto_brasas.webp",
       "category": {
         "common": "hotbig"
       },
+      "categorySlug": "hotbig",
       "allergens": [],
       "description": {
         "es": "Lomo alto a la brasa servido con puré de apionabo",
@@ -543,6 +658,7 @@
       }
     },
     {
+      "slug": "tarta-limon",
       "id": 401,
       "name_i18n": {
         "common": "tarta_limon",
@@ -552,11 +668,13 @@
         "fr": "Tarte au citron, crème fraîche, zeste de citron",
         "de": "Zitronentarte, crème fraîche, Zitronenschale"
       },
-      "price": 7.00,
+      "price": 7.0,
+      "priceCents": 700,
       "cover": "/tarta_limon.webp",
       "category": {
         "common": "sweet"
       },
+      "categorySlug": "sweet",
       "allergens": [
         "dairy"
       ],
@@ -569,6 +687,7 @@
       }
     },
     {
+      "slug": "flan-naranja",
       "id": 402,
       "name_i18n": {
         "common": "flan_naranja",
@@ -578,11 +697,13 @@
         "fr": "Flan à l'orange, orange confite",
         "de": "Orangenflan, kandierte Orange"
       },
-      "price": 7.00,
+      "price": 7.0,
+      "priceCents": 700,
       "cover": "/flan_naranja.webp",
       "category": {
         "common": "sweet"
       },
+      "categorySlug": "sweet",
       "allergens": [
         "dairy"
       ],
@@ -595,6 +716,7 @@
       }
     },
     {
+      "slug": "torrijas-chocolate",
       "id": 403,
       "name_i18n": {
         "common": "torrijas_chocolate",
@@ -604,11 +726,13 @@
         "fr": "Torrijas, chocolat crémeux",
         "de": "Torrijas, cremige Schokolade"
       },
-      "price": 8.50,
+      "price": 8.5,
+      "priceCents": 850,
       "cover": "/torrijas_chocolate.webp",
       "category": {
         "common": "sweet"
       },
+      "categorySlug": "sweet",
       "allergens": [
         "dairy",
         "gluten"
@@ -622,6 +746,7 @@
       }
     },
     {
+      "slug": "focaccia-grill",
       "id": 501,
       "name_i18n": {
         "common": "focaccia_grill",
@@ -631,11 +756,13 @@
         "fr": "Focaccia grillée, pois chiches et tomate",
         "de": "Gegrillte Focaccia, Kichererbsen und Tomate"
       },
-      "price": 3.00,
+      "price": 3.0,
+      "priceCents": 300,
       "cover": "/focaccia_grill.webp",
       "category": {
         "common": "bread"
       },
+      "categorySlug": "bread",
       "allergens": [
         "gluten"
       ],
@@ -648,6 +775,7 @@
       }
     },
     {
+      "slug": "bernabeleva-navahereos-2023",
       "id": 601,
       "name_i18n": {
         "common": "bernabeleva_navahereos",
@@ -657,11 +785,13 @@
         "fr": "Bernabeleva, Navahereos 2023",
         "de": "Bernabeleva, Navahereos 2023"
       },
-      "price": 5.50,
+      "price": 5.5,
+      "priceCents": 550,
       "cover": "/bernabeleva_navahereos.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -674,6 +804,7 @@
       }
     },
     {
+      "slug": "ponce-blanco-2024",
       "id": 602,
       "name_i18n": {
         "common": "ponce_blanco",
@@ -683,11 +814,13 @@
         "fr": "Ponce, Blanc 2024",
         "de": "Ponce, Weiß 2024"
       },
-      "price": 30.00,
+      "price": 30.0,
+      "priceCents": 3000,
       "cover": "/ponce_blanco.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -700,6 +833,7 @@
       }
     },
     {
+      "slug": "chateau-pegau-cuvee-lone-2022",
       "id": 603,
       "name_i18n": {
         "common": "chateau_pegu",
@@ -709,11 +843,13 @@
         "fr": "Château Pégau, Cuvée Lôné 2022",
         "de": "Château Pégau, Cuvée Lôné 2022"
       },
-      "price": 0.00,
+      "price": 0.0,
+      "priceCents": 0,
       "cover": "/chateau_pegu.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -726,6 +862,7 @@
       }
     },
     {
+      "slug": "castro-ventosa-2023",
       "id": 604,
       "name_i18n": {
         "common": "castro_ventosa",
@@ -735,11 +872,13 @@
         "fr": "Castro Ventosa, El Castro de Valtuille 2023",
         "de": "Castro Ventosa, El Castro de Valtuille 2023"
       },
-      "price": 6.50,
+      "price": 6.5,
+      "priceCents": 650,
       "cover": "/castro_ventosa.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -752,6 +891,7 @@
       }
     },
     {
+      "slug": "fattoria-san-lorenzo-le-oche-2022",
       "id": 605,
       "name_i18n": {
         "common": "fattoria_san_lorenzo",
@@ -761,11 +901,13 @@
         "fr": "Fattoria San Lorenzo, Le Oche, 2022",
         "de": "Fattoria San Lorenzo, Le Oche, 2022"
       },
-      "price": 39.00,
+      "price": 39.0,
+      "priceCents": 3900,
       "cover": "/fattoria_san_lorenzo.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -778,6 +920,7 @@
       }
     },
     {
+      "slug": "primitivo-collantes-socaire-2021",
       "id": 606,
       "name_i18n": {
         "common": "primitivo_collantes",
@@ -787,11 +930,13 @@
         "fr": "Primitivo Collantes, Socaire 2021",
         "de": "Primitivo Collantes, Socaire 2021"
       },
-      "price": 40.00,
+      "price": 40.0,
+      "priceCents": 4000,
       "cover": "/primitivo_collantes.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -804,6 +949,7 @@
       }
     },
     {
+      "slug": "garnier-chablis-2021",
       "id": 607,
       "name_i18n": {
         "common": "garnier_chablis",
@@ -813,11 +959,13 @@
         "fr": "Garnier, Chablis 2021",
         "de": "Garnier, Chablis 2021"
       },
-      "price": 47.00,
+      "price": 47.0,
+      "priceCents": 4700,
       "cover": "/garnier_chablis.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -830,6 +978,7 @@
       }
     },
     {
+      "slug": "bekka-obeideh-2021",
       "id": 608,
       "name_i18n": {
         "common": "bekka_obeideh",
@@ -839,11 +988,13 @@
         "fr": "Bekka, Obeideh 2021",
         "de": "Bekka, Obeideh 2021"
       },
-      "price": 58.00,
+      "price": 58.0,
+      "priceCents": 5800,
       "cover": "/bekka_obeideh.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -856,6 +1007,7 @@
       }
     },
     {
+      "slug": "karamolegos-cuvee-34-2021",
       "id": 609,
       "name_i18n": {
         "common": "karamolegos_cuvee",
@@ -865,14 +1017,13 @@
         "fr": "Karamolegos, Cuvée 34 2021",
         "de": "Karamolegos, Cuvée 34 2021"
       },
-      "price": 63.00,
+      "price": 63.0,
+      "priceCents": 6300,
       "cover": "/karamolegos_cuvee.webp",
       "category": {
         "common": "wines"
       },
-      "subcategory": {
-        "common": "red"
-      },
+      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -885,6 +1036,7 @@
       }
     },
     {
+      "slug": "belondrade-belondrade-2023",
       "id": 610,
       "name_i18n": {
         "common": "belondrade_belondrade",
@@ -894,14 +1046,22 @@
         "fr": "Belondrade, Belondrade y Lurton 2023",
         "de": "Belondrade, Belondrade y Lurton 2023"
       },
-      "price": 80.00,
+      "price": 80.0,
+      "priceCents": 8000,
       "cover": "/belondrade_belondrade.webp",
       "category": {
         "common": "wines"
       },
+      "categorySlug": "wines",
       "subcategory": {
-        "common": "white"
+        "common": "white",
+        "es": "blanco",
+        "en": "white",
+        "pt": "branco",
+        "fr": "blanc",
+        "de": "weiß"
       },
+      "subcategorySlug": "white",
       "allergens": [
         "sulfites"
       ],
@@ -913,5 +1073,6 @@
         "de": "Weißwein aus Verdejo aus Rueda, komplex und elegant"
       }
     }
-  ]
+  ],
+  "lastUpdated": "2025-08-13T12:00:00Z"
 }
