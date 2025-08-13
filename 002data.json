@@ -29,7 +29,7 @@
       "pt": "Algo Rápido",
       "fr": "Quelque Chose de Rapide",
       "de": "Etwas Schnelles",
-      "cover": ""
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/appetiers.webp"
     },
     {
       "order": 2,
@@ -39,37 +39,37 @@
       "pt": "Saladas Frias e Cruas",
       "fr": "Salades Froides Fraîches et Crues",
       "de": "Kaltes Frisches und Rohes",
-      "cover": ""
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp"
     },
     {
       "order": 3,
-      "slug": "pasta",
-      "es": "Pasta",
-      "en": "Pasta",
-      "pt": "Massa",
-      "fr": "Pâtes",
-      "de": "Pasta",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/pasta.webp"
+      "slug": "hotbig",
+      "es": "Caliente y un poco más grande",
+      "en": "Hot and a bit bigger",
+      "pt": "Quente e um pouco maior",
+      "fr": "Chaud et un peu plus grand",
+      "de": "Heiß und ein bisschen größer",
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/main.webp"
     },
     {
       "order": 4,
-      "slug": "meat",
-      "es": "Carne",
-      "en": "Meat",
-      "pt": "Carne",
-      "fr": "Viande",
-      "de": "Fleisch",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/meat.webp"
+      "slug": "sweet",
+      "es": "Algo Dulce",
+      "en": "Something Sweet",
+      "pt": "Algo Doce",
+      "fr": "Quelque Chose de Sucré",
+      "de": "Etwas Süßes",
+      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/dessert.webp"
     },
     {
       "order": 5,
-      "slug": "seafood",
-      "es": "Mariscos",
-      "en": "Seafood",
-      "pt": "Frutos do mar",
-      "fr": "Fruits de mer",
-      "de": "Meeresfrüchte",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/seafood.webp"
+      "slug": "bread",
+      "es": "Servicio de Pan",
+      "en": "Bread service",
+      "pt": "Serviço de Pão",
+      "fr": "Service de Pain",
+      "de": "Brotservice",
+      "cover": ""
     },
     {
       "order": 6,
