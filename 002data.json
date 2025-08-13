@@ -366,57 +366,158 @@
     {
       "id": 301,
       "name_i18n": {
-        "common": "garlicandoilpasta",
-        "es": "Garlic & Oil Pasta",
-        "en": "Garlic & Oil Pasta",
-        "pt": "Garlic & Oil Pasta",
-        "fr": "Garlic & Oil Pasta",
-        "de": "Garlic & Oil Pasta"
+        "common": "pasta_pici_casera",
+        "es": "Pasta pici casera, pecorino, pimienta negra",
+        "en": "Homemade pici pasta, pecorino, black pepper",
+        "pt": "Pasta pici caseira, pecorino, pimenta preta",
+        "fr": "Pâtes pici maison, pecorino, poivre noir",
+        "de": "Hausgemachte Pici-Pasta, Pecorino, schwarzer Pfeffer"
       },
-      "price": 29.95,
-      "cover": "",
+      "price": 16.00,
+      "cover": "/pasta_pici_casera.webp",
       "category": {
-        "common": "pasta"
+        "common": "hotbig"
       },
       "allergens": [
-        "gluten"
+        "dairy"
       ],
       "description": {
-        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
-        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
-        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
-        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni",
-        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni"
+        "es": "Pasta pici casera servida con pecorino y pimienta negra",
+        "en": "Homemade pici pasta served with pecorino and black pepper",
+        "pt": "Pasta pici caseira servida com pecorino e pimenta preta",
+        "fr": "Pâtes pici maison servies avec pecorino et poivre noir",
+        "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer"
       }
     },
     {
       "id": 302,
       "name_i18n": {
-        "common": "marinarapasta",
-        "es": "Marinara Pasta",
-        "en": "Marinara Pasta",
-        "pt": "Marinara Pasta",
-        "fr": "Marinara Pasta",
-        "de": "Marinara Pasta"
+        "common": "fettuccine_casero",
+        "es": "Fettuccine casero, calamar, aglio e olio, tomate picante",
+        "en": "Homemade fettuccine, squid, aglio e olio, spicy tomato",
+        "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
+        "fr": "Fettuccine maison, calmar, aglio e olio, tomate épicé",
+        "de": "Hausgemachte Fettuccine, Tintenfisch, aglio e olio, scharfe Tomate"
       },
-      "price": 32.95,
-      "cover": "",
+      "price": 17.50,
+      "cover": "/fettuccine_casero.webp",
       "category": {
-        "common": "pasta"
+        "common": "hotbig"
       },
       "allergens": [
-        "gluten"
+        "shellfish"
       ],
       "description": {
-        "es": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
-        "en": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
-        "pt": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
-        "fr": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)",
-        "de": "Choice of Angel Hair, Linguini, Penne, Spaghetti, Rigatoni (V)"
+        "es": "Fettuccine casero con calamar, aglio e olio y tomate picante",
+        "en": "Homemade fettuccine with squid, aglio e olio, and spicy tomato",
+        "pt": "Fettuccine caseiro com lula, aglio e olio e tomate picante",
+        "fr": "Fettuccine maison avec calmar, aglio e olio et tomate épicé",
+        "de": "Hausgemachte Fettuccine mit Tintenfisch, aglio e olio und scharfer Tomate"
       }
     },
     {
-      "id": 113,
+      "id": 303,
+      "name_i18n": {
+        "common": "almejas_alubias",
+        "es": "Almejas, alubias, vino blanco, pan de masa madre",
+        "en": "Clams, beans, white wine, sourdough bread",
+        "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
+        "fr": "Palourdes, haricots, vin blanc, pain au levain",
+        "de": "Muscheln, Bohnen, Weißwein, Sauerteigbrot"
+      },
+      "price": 22.50,
+      "cover": "/almejas_alubias.webp",
+      "category": {
+        "common": "hotbig"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "Almejas frescas con alubias, vino blanco y pan de masa madre",
+        "en": "Fresh clams with beans, white wine, and sourdough bread",
+        "pt": "Ameijoas frescas com feijão, vinho branco e pão de massa madre",
+        "fr": "Palourdes fraîches avec haricots, vin blanc et pain au levain",
+        "de": "Frische Muscheln mit Bohnen, Weißwein und Sauerteigbrot"
+      }
+    },
+    {
+      "id": 304,
+      "name_i18n": {
+        "common": "lomo_corvina",
+        "es": "Lomo de corvina, bisque de gamba, broccolini",
+        "en": "Corvina loin, shrimp bisque, broccolini",
+        "pt": "Lombo de corvina, bisque de camarão, broccolini",
+        "fr": "Filet de corvina, bisque de crevette, broccolini",
+        "de": "Corvina-Lende, Garnelenbisque, Broccolini"
+      },
+      "price": 24.00,
+      "cover": "/lomo_corvina.webp",
+      "category": {
+        "common": "hotbig"
+      },
+      "allergens": [
+        "fish",
+        "shellfish"
+      ],
+      "description": {
+        "es": "Lomo de corvina con bisque de gamba y broccolini",
+        "en": "Corvina loin with shrimp bisque and broccolini",
+        "pt": "Lombo de corvina com bisque de camarão e broccolini",
+        "fr": "Filet de corvina avec bisque de crevette et broccolini",
+        "de": "Corvina-Lende mit Garnelenbisque und Broccolini"
+      }
+    },
+    {
+      "id": 305,
+      "name_i18n": {
+        "common": "pulpo_brasas",
+        "es": "Pulpo a la brasa, patata crujiente, vinagreta de tomate",
+        "en": "Grilled octopus, crispy potato, tomato vinaigrette",
+        "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
+        "fr": "Poulpe grillé, pomme de terre croustillante, vinaigrette de tomate",
+        "de": "Gegrillter Oktopus, knusprige Kartoffel, Tomatenvinaigrette"
+      },
+      "price": 22.00,
+      "cover": "/pulpo_brasas.webp",
+      "category": {
+        "common": "hotbig"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Pulpo a la brasa con patata crujiente y vinagreta de tomate",
+        "en": "Grilled octopus with crispy potato and tomato vinaigrette",
+        "pt": "Polvo grelhado com batata crocante e vinagreta de tomate",
+        "fr": "Poulpe grillé avec pomme de terre croustillante et vinaigrette de tomate",
+        "de": "Gegrillter Oktopus mit knuspriger Kartoffel und Tomatenvinaigrette"
+      }
+    },
+    {
+      "id": 306,
+      "name_i18n": {
+        "common": "lomo_alto_brasas",
+        "es": "Lomo alto a la brasa, puré de apionabo",
+        "en": "Grilled high loin, celery root puree",
+        "pt": "Lombo alto grelhado, purê de aipo",
+        "fr": "Haut-longe grillé, purée de céleri-rave",
+        "de": "Gegrilltes Hochrippenstück, Selleriepüree"
+      },
+      "price": 30.00,
+      "cover": "/lomo_alto_brasas.webp",
+      "category": {
+        "common": "hotbig"
+      },
+      "allergens": [],
+      "description": {
+        "es": "Lomo alto a la brasa servido con puré de apionabo",
+        "en": "Grilled high loin served with celery root puree",
+        "pt": "Lombo alto grelhado servido com purê de aipo",
+        "fr": "Haut-longe grillé servi avec purée de céleri-rave",
+        "de": "Gegrilltes Hochrippenstück serviert mit Selleriepüree"
+      }
+    },
+    {
+      "id": 307,
       "name_i18n": {
         "common": "penneallavodka",
         "es": "Penne Alla Vodka",
@@ -443,7 +544,7 @@
       }
     },
     {
-      "id": 114,
+      "id": 308,
       "name_i18n": {
         "common": "pomodoropasta",
         "es": "Pomodoro Pasta",
@@ -469,7 +570,7 @@
       }
     },
     {
-      "id": 115,
+      "id": 309,
       "name_i18n": {
         "common": "giardinierapasta",
         "es": "Giardiniera Pasta",
@@ -495,7 +596,7 @@
       }
     },
     {
-      "id": 116,
+      "id": 310,
       "name_i18n": {
         "common": "rigatonibroccoli",
         "es": "Rigatoni & Broccoli",
@@ -521,7 +622,7 @@
       }
     },
     {
-      "id": 117,
+      "id": 311,
       "name_i18n": {
         "common": "rigatonisausagebroccoli",
         "es": "Rigatoni w/ Sausage & Broccoli",
@@ -547,7 +648,7 @@
       }
     },
     {
-      "id": 118,
+      "id": 312,
       "name_i18n": {
         "common": "rigatonicountrystyle",
         "es": "Rigatoni Country Style",
@@ -573,7 +674,7 @@
       }
     },
     {
-      "id": 119,
+      "id": 313,
       "name_i18n": {
         "common": "meatballspasta",
         "es": "Meatballs Pasta",
@@ -601,7 +702,7 @@
       }
     },
     {
-      "id": 120,
+      "id": 314,
       "name_i18n": {
         "common": "sausagepasta",
         "es": "Sausage Pasta",
@@ -627,7 +728,7 @@
       }
     },
     {
-      "id": 121,
+      "id": 315,
       "name_i18n": {
         "common": "bolognesemeatsaucepasta",
         "es": "Bolognese Meat Sauce Pasta",
