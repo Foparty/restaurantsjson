@@ -79,7 +79,33 @@
       "pt": "Vinhos",
       "fr": "Vins",
       "de": "Weine",
-      "cover": ""
+      "cover": "",
+      "subcategories": [
+        {
+          "slug": "white",
+          "es": "Blanco",
+          "en": "White",
+          "pt": "Branco",
+          "fr": "Blanc",
+          "de": "Weiß"
+        },
+        {
+          "slug": "red",
+          "es": "Tinto",
+          "en": "Red",
+          "pt": "Tinto",
+          "fr": "Rouge",
+          "de": "Rot"
+        },
+        {
+          "slug": "sparkling",
+          "es": "Espumoso",
+          "en": "Sparkling",
+          "pt": "Espumante",
+          "fr": "Mousseux",
+          "de": "Sekt"
+        }
+      ]
     }
   ],
   "items": [
@@ -619,6 +645,266 @@
         "pt": "Focaccia grelhada acompanhada de grão-de-bico e tomate fresco",
         "fr": "Focaccia grillée servie avec pois chiches et tomate frais",
         "de": "Gegrillte Focaccia serviert mit Kichererbsen und frischer Tomate"
+      }
+    },
+    {
+      "id": 601,
+      "name_i18n": {
+        "common": "bernabeleva_navahereos",
+        "es": "Bernabeleva, Navahereos 2023",
+        "en": "Bernabeleva, Navahereos 2023",
+        "pt": "Bernabeleva, Navahereos 2023",
+        "fr": "Bernabeleva, Navahereos 2023",
+        "de": "Bernabeleva, Navahereos 2023"
+      },
+      "price": 5.50,
+      "cover": "/bernabeleva_navahereos.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Albillo Real de Madrid, fresco y equilibrado",
+        "en": "White wine from Albillo Real in Madrid, fresh and balanced",
+        "pt": "Vinho branco de Albillo Real de Madrid, fresco e equilibrado",
+        "fr": "Vin blanc d'Albillo Real de Madrid, frais et équilibré",
+        "de": "Weißwein aus Albillo Real aus Madrid, frisch und ausgewogen"
+      }
+    },
+    {
+      "id": 602,
+      "name_i18n": {
+        "common": "ponce_blanco",
+        "es": "Ponce, Blanco 2024",
+        "en": "Ponce, Blanco 2024",
+        "pt": "Ponce, Branco 2024",
+        "fr": "Ponce, Blanc 2024",
+        "de": "Ponce, Weiß 2024"
+      },
+      "price": 30.00,
+      "cover": "/ponce_blanco.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Albilla de Manchuela, elegante y aromático",
+        "en": "White wine from Albilla de Manchuela, elegant and aromatic",
+        "pt": "Vinho branco de Albilla de Manchuela, elegante e aromático",
+        "fr": "Vin blanc d'Albilla de Manchuela, élégant et aromatique",
+        "de": "Weißwein aus Albilla de Manchuela, elegant und aromatisch"
+      }
+    },
+    {
+      "id": 603,
+      "name_i18n": {
+        "common": "chateau_pegu",
+        "es": "Château Pégau, Cuvée Lôné 2022",
+        "en": "Château Pégau, Cuvée Lôné 2022",
+        "pt": "Château Pégau, Cuvée Lôné 2022",
+        "fr": "Château Pégau, Cuvée Lôné 2022",
+        "de": "Château Pégau, Cuvée Lôné 2022"
+      },
+      "price": 0.00,
+      "cover": "/chateau_pegu.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Côtes du Rhône con notas de Clairette, Burbulenc y Grenache Blanc",
+        "en": "White wine from Côtes du Rhône with notes of Clairette, Burbulenc, and Grenache Blanc",
+        "pt": "Vinho branco de Côtes du Rhône com notas de Clairette, Burbulenc e Grenache Blanc",
+        "fr": "Vin blanc de Côtes du Rhône avec des notes de Clairette, Burbulenc et Grenache Blanc",
+        "de": "Weißwein aus Côtes du Rhône mit Noten von Clairette, Burbulenc und Grenache Blanc"
+      }
+    },
+    {
+      "id": 604,
+      "name_i18n": {
+        "common": "castro_ventosa",
+        "es": "Castro Ventosa, El Castro de Valtuille 2023",
+        "en": "Castro Ventosa, El Castro de Valtuille 2023",
+        "pt": "Castro Ventosa, El Castro de Valtuille 2023",
+        "fr": "Castro Ventosa, El Castro de Valtuille 2023",
+        "de": "Castro Ventosa, El Castro de Valtuille 2023"
+      },
+      "price": 6.50,
+      "cover": "/castro_ventosa.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Godello de Bierzo, fresco y mineral",
+        "en": "White wine from Godello in Bierzo, fresh and mineral",
+        "pt": "Vinho branco de Godello de Bierzo, fresco e mineral",
+        "fr": "Vin blanc de Godello de Bierzo, frais et minéral",
+        "de": "Weißwein aus Godello aus Bierzo, frisch und mineralisch"
+      }
+    },
+    {
+      "id": 605,
+      "name_i18n": {
+        "common": "fattoria_san_lorenzo",
+        "es": "Fattoria San Lorenzo, Le Oche, 2022",
+        "en": "Fattoria San Lorenzo, Le Oche, 2022",
+        "pt": "Fattoria San Lorenzo, Le Oche, 2022",
+        "fr": "Fattoria San Lorenzo, Le Oche, 2022",
+        "de": "Fattoria San Lorenzo, Le Oche, 2022"
+      },
+      "price": 39.00,
+      "cover": "/fattoria_san_lorenzo.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Verdicchio de Marche, complejo y estructurado",
+        "en": "White wine from Verdicchio in Marche, complex and structured",
+        "pt": "Vinho branco de Verdicchio de Marche, complexo e estruturado",
+        "fr": "Vin blanc de Verdicchio de Marche, complexe et structuré",
+        "de": "Weißwein aus Verdicchio aus Marche, komplex und strukturiert"
+      }
+    },
+    {
+      "id": 606,
+      "name_i18n": {
+        "common": "primitivo_collantes",
+        "es": "Primitivo Collantes, Socaire 2021",
+        "en": "Primitivo Collantes, Socaire 2021",
+        "pt": "Primitivo Collantes, Socaire 2021",
+        "fr": "Primitivo Collantes, Socaire 2021",
+        "de": "Primitivo Collantes, Socaire 2021"
+      },
+      "price": 40.00,
+      "cover": "/primitivo_collantes.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Palomino de Cádiz, intenso y salino",
+        "en": "White wine from Palomino in Cádiz, intense and saline",
+        "pt": "Vinho branco de Palomino de Cádiz, intenso e salino",
+        "fr": "Vin blanc de Palomino de Cádiz, intense et salin",
+        "de": "Weißwein aus Palomino aus Cádiz, intensiv und salzig"
+      }
+    },
+    {
+      "id": 607,
+      "name_i18n": {
+        "common": "garnier_chablis",
+        "es": "Garnier, Chablis 2021",
+        "en": "Garnier, Chablis 2021",
+        "pt": "Garnier, Chablis 2021",
+        "fr": "Garnier, Chablis 2021",
+        "de": "Garnier, Chablis 2021"
+      },
+      "price": 47.00,
+      "cover": "/garnier_chablis.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Chardonnay de Chablis, fresco y cítrico",
+        "en": "White wine from Chardonnay in Chablis, fresh and citrusy",
+        "pt": "Vinho branco de Chardonnay de Chablis, fresco e cítrico",
+        "fr": "Vin blanc de Chardonnay de Chablis, frais et citronné",
+        "de": "Weißwein aus Chardonnay aus Chablis, frisch und zitronig"
+      }
+    },
+    {
+      "id": 608,
+      "name_i18n": {
+        "common": "bekka_obeideh",
+        "es": "Bekka, Obeideh 2021",
+        "en": "Bekka, Obeideh 2021",
+        "pt": "Bekka, Obeideh 2021",
+        "fr": "Bekka, Obeideh 2021",
+        "de": "Bekka, Obeideh 2021"
+      },
+      "price": 58.00,
+      "cover": "/bekka_obeideh.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Obeideh del Líbano, exótico y aromático",
+        "en": "White wine from Obeideh in Lebanon, exotic and aromatic",
+        "pt": "Vinho branco de Obeideh do Líbano, exótico e aromático",
+        "fr": "Vin blanc d'Obeideh du Liban, exotique et aromatique",
+        "de": "Weißwein aus Obeideh aus dem Libanon, exotisch und aromatisch"
+      }
+    },
+    {
+      "id": 609,
+      "name_i18n": {
+        "common": "karamolegos_cuvee",
+        "es": "Karamolegos, Cuvée 34 2021",
+        "en": "Karamolegos, Cuvée 34 2021",
+        "pt": "Karamolegos, Cuvée 34 2021",
+        "fr": "Karamolegos, Cuvée 34 2021",
+        "de": "Karamolegos, Cuvée 34 2021"
+      },
+      "price": 63.00,
+      "cover": "/karamolegos_cuvee.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Assyrtiko de Santorini, mineral y estructurado",
+        "en": "White wine from Assyrtiko in Santorini, mineral and structured",
+        "pt": "Vinho branco de Assyrtiko de Santorini, mineral e estruturado",
+        "fr": "Vin blanc d'Assyrtiko de Santorini, minéral et structuré",
+        "de": "Weißwein aus Assyrtiko aus Santorini, mineralisch und strukturiert"
+      }
+    },
+    {
+      "id": 610,
+      "name_i18n": {
+        "common": "belondrade_belondrade",
+        "es": "Belondrade, Belondrade y Lurton 2023",
+        "en": "Belondrade, Belondrade y Lurton 2023",
+        "pt": "Belondrade, Belondrade y Lurton 2023",
+        "fr": "Belondrade, Belondrade y Lurton 2023",
+        "de": "Belondrade, Belondrade y Lurton 2023"
+      },
+      "price": 80.00,
+      "cover": "/belondrade_belondrade.webp",
+      "category": {
+        "common": "wines"
+      },
+      "allergens": [
+        "sulfites"
+      ],
+      "description": {
+        "es": "Vino blanco de Verdejo de Rueda, complejo y elegante",
+        "en": "White wine from Verdejo in Rueda, complex and elegant",
+        "pt": "Vinho branco de Verdejo de Rueda, complexo e elegante",
+        "fr": "Vin blanc de Verdejo de Rueda, complexe et élégant",
+        "de": "Weißwein aus Verdejo aus Rueda, komplex und elegant"
       }
     }
   ]
