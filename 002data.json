@@ -870,6 +870,9 @@
       "category": {
         "common": "wines"
       },
+      "subcategory": {
+        "common": "red"
+      },
       "allergens": [
         "sulfites"
       ],
@@ -897,12 +900,7 @@
         "common": "wines"
       },
       "subcategory": {
-        "common": "white",
-        "es": "blanco",
-        "en": "white",
-        "pt": "branco",
-        "fr": "blanc",
-        "de": "weiß"
+        "common": "white"
       },
       "allergens": [
         "sulfites"
