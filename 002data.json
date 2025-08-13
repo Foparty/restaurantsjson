@@ -73,26 +73,6 @@
     },
     {
       "order": 6,
-      "slug": "vegs",
-      "es": "Verduras y Guarniciones",
-      "en": "Vegetables & Sides",
-      "pt": "Vegetais e Acompanhamentos",
-      "fr": "Légumes et Accompagnements",
-      "de": "Gemüse und Beilagen",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/vegs.webp"
-    },
-    {
-      "order": 7,
-      "slug": "desserts",
-      "es": "Postres",
-      "en": "Desserts",
-      "pt": "Sobremesas",
-      "fr": "Desserts",
-      "de": "Nachspeisen",
-      "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/img/dessert.webp"
-    },
-    {
-      "order": 8,
       "slug": "wines",
       "es": "Vinos",
       "en": "Wines",
