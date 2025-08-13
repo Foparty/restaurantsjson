@@ -67,7 +67,7 @@
       "order": 1,
       "slug": "quick",
       "name_i18n": {
-        "es": "caca de la vaca",
+        "es": "Algo Rápido",
         "en": "Something Quick",
         "pt": "Algo Rápido",
         "fr": "Quelque Chose de Rapide",
@@ -79,7 +79,6 @@
           "slug": "cecina-queso-grissini",
           "id": 100,
           "name_i18n": {
-            "common": "cecina_queso_grissini",
             "es": "Cecina, queso, grissini, alioli de pimentón",
             "en": "Cecina, cheese, grissini, smoked paprika aioli",
             "pt": "Cecina, queijo, grissini, aioli de pimentão",
@@ -102,7 +101,6 @@
           "slug": "sardina-ahumada",
           "id": 101,
           "name_i18n": {
-            "common": "sardina_ahumada",
             "es": "Sardina ahumada, tomate, pan brioche",
             "en": "Smoked sardine, tomato, brioche bread",
             "pt": "Sardinha defumada, tomate, pão brioche",
@@ -127,7 +125,6 @@
           "slug": "croquetas-patata-cebolla",
           "id": 102,
           "name_i18n": {
-            "common": "croquetas_patata_cebolla",
             "es": "Croquetas de patata y cebolla, salsa de pimentón asado (5ud)",
             "en": "Potato and onion croquettes, roasted paprika sauce (5 pcs)",
             "pt": "Croquetes de batata e cebola, molho de pimentão assado (5 unid)",
@@ -150,7 +147,6 @@
           "slug": "piparras-brasas",
           "id": 103,
           "name_i18n": {
-            "common": "piparras_brasas",
             "es": "Piparras a la brasa, limón, sal negra",
             "en": "Grilled piparras, lemon, black salt",
             "pt": "Piparras grelhadas, limão, sal negro",
@@ -187,10 +183,9 @@
           "slug": "lechuga-romana",
           "id": 200,
           "name_i18n": {
-            "common": "lechuga_romana",
             "es": "Lechuga romana, queso curado, vinagreta de balsámico blanco",
             "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
-            "pt": "Alface romana, queijo curado, vinagreta de balsámico branco",
+            "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
             "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
             "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette"
           },
@@ -203,7 +198,7 @@
           "description": {
             "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
             "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
-            "pt": "Alface romana fresca com queijo curado e vinagreta de balsámico branco",
+            "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
             "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
             "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette"
           }
@@ -212,7 +207,6 @@
           "slug": "tomate-vinagreta",
           "id": 201,
           "name_i18n": {
-            "common": "tomate_vinagreta",
             "es": "Tomate, vinagreta de alcaparras, crumble de aceituna negra",
             "en": "Tomato, caper vinaigrette, black olive crumble",
             "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
@@ -235,7 +229,6 @@
           "slug": "ensalada-uvas",
           "id": 202,
           "name_i18n": {
-            "common": "ensalada_uvas",
             "es": "Ensalada de uvas, pepino, pistacho, queso feta",
             "en": "Grape salad, cucumber, pistachio, feta cheese",
             "pt": "Salada de uvas, pepino, pistachio, queijo feta",
@@ -261,7 +254,6 @@
           "slug": "ensalada-cordero",
           "id": 203,
           "name_i18n": {
-            "common": "ensalada_cordero",
             "es": "Ensalada de cordero, tzatziki, hierbas aromáticas",
             "en": "Lamb salad, tzatziki, aromatic herbs",
             "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
@@ -286,7 +278,6 @@
           "slug": "carpaccio-gamba",
           "id": 204,
           "name_i18n": {
-            "common": "carpaccio_gamba",
             "es": "Carpaccio de gamba roja, chile tatema, aceite aromático",
             "en": "Red shrimp carpaccio, charred chili, aromatic oil",
             "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
@@ -311,7 +302,6 @@
           "slug": "tartar-pescado",
           "id": 205,
           "name_i18n": {
-            "common": "tartar_pescado",
             "es": "Tartar de pescado azul, pico de gallo mediterráneo, yogur griego",
             "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
             "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
@@ -337,7 +327,6 @@
           "slug": "steak-tartar",
           "id": 206,
           "name_i18n": {
-            "common": "steak_tartar",
             "es": "Steak tartar, pecorino, semillas de mostaza, crackers de aceite de oliva",
             "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
             "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
@@ -376,7 +365,6 @@
           "slug": "pasta-pici-casera",
           "id": 301,
           "name_i18n": {
-            "common": "pasta_pici_casera",
             "es": "Pasta pici casera, pecorino, pimienta negra",
             "en": "Homemade pici pasta, pecorino, black pepper",
             "pt": "Pasta pici caseira, pecorino, pimenta preta",
@@ -401,7 +389,6 @@
           "slug": "fettuccine-casero",
           "id": 302,
           "name_i18n": {
-            "common": "fettuccine_casero",
             "es": "Fettuccine casero, calamar, aglio e olio, tomate picante",
             "en": "Homemade fettuccine, squid, aglio e olio, spicy tomato",
             "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
@@ -426,7 +413,6 @@
           "slug": "almejas-alubias",
           "id": 303,
           "name_i18n": {
-            "common": "almejas_alubias",
             "es": "Almejas, alubias, vino blanco, pan de masa madre",
             "en": "Clams, beans, white wine, sourdough bread",
             "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
@@ -451,7 +437,6 @@
           "slug": "lomo-corvina",
           "id": 304,
           "name_i18n": {
-            "common": "lomo_corvina",
             "es": "Lomo de corvina, bisque de gamba, broccolini",
             "en": "Corvina loin, shrimp bisque, broccolini",
             "pt": "Lombo de corvina, bisque de camarão, broccolini",
@@ -477,7 +462,6 @@
           "slug": "pulpo-brasas",
           "id": 305,
           "name_i18n": {
-            "common": "pulpo_brasas",
             "es": "Pulpo a la brasa, patata crujiente, vinagreta de tomate",
             "en": "Grilled octopus, crispy potato, tomato vinaigrette",
             "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
@@ -500,7 +484,6 @@
           "slug": "lomo-alto-brasas",
           "id": 306,
           "name_i18n": {
-            "common": "lomo_alto_brasas",
             "es": "Lomo alto a la brasa, puré de apionabo",
             "en": "Grilled high loin, celery root puree",
             "pt": "Lombo alto grelhado, purê de aipo",
@@ -537,7 +520,6 @@
           "slug": "tarta-limon",
           "id": 401,
           "name_i18n": {
-            "common": "tarta_limon",
             "es": "Tarta de limón, crème fraîche, ralladura de limón",
             "en": "Lemon tart, crème fraîche, lemon zest",
             "pt": "Torta de limão, crème fraîche, raspas de limão",
@@ -562,7 +544,6 @@
           "slug": "flan-naranja",
           "id": 402,
           "name_i18n": {
-            "common": "flan_naranja",
             "es": "Flan de naranja, naranja confitada",
             "en": "Orange flan, candied orange",
             "pt": "Flan de laranja, laranja confitada",
@@ -587,7 +568,6 @@
           "slug": "torrijas-chocolate",
           "id": 403,
           "name_i18n": {
-            "common": "torrijas_chocolate",
             "es": "Torrijas, chocolate cremoso",
             "en": "Torrijas, creamy chocolate",
             "pt": "Torrijas, chocolate cremoso",
@@ -627,7 +607,6 @@
           "slug": "focaccia-grill",
           "id": 501,
           "name_i18n": {
-            "common": "focaccia_grill",
             "es": "Focaccia al grill, garbanzos y tomate",
             "en": "Grilled focaccia, chickpeas and tomato",
             "pt": "Focaccia grelhada, grão-de-bico e tomate",
@@ -676,7 +655,6 @@
               "slug": "belondrade-belondrade-2023",
               "id": 610,
               "name_i18n": {
-                "common": "belondrade_belondrade",
                 "es": "Belondrade, Belondrade y Lurton 2023",
                 "en": "Belondrade, Belondrade y Lurton 2023",
                 "pt": "Belondrade, Belondrade y Lurton 2023",
@@ -726,7 +704,6 @@
           "slug": "bernabeleva-navahereos-2023",
           "id": 601,
           "name_i18n": {
-            "common": "bernabeleva_navahereos",
             "es": "Bernabeleva, Navahereos 2023",
             "en": "Bernabeleva, Navahereos 2023",
             "pt": "Bernabeleva, Navahereos 2023",
@@ -751,7 +728,6 @@
           "slug": "ponce-blanco-2024",
           "id": 602,
           "name_i18n": {
-            "common": "ponce_blanco",
             "es": "Ponce, Blanco 2024",
             "en": "Ponce, Blanco 2024",
             "pt": "Ponce, Branco 2024",
@@ -776,7 +752,6 @@
           "slug": "chateau-pegau-cuvee-lone-2022",
           "id": 603,
           "name_i18n": {
-            "common": "chateau_pegu",
             "es": "Château Pégau, Cuvée Lôné 2022",
             "en": "Château Pégau, Cuvée Lôné 2022",
             "pt": "Château Pégau, Cuvée Lôné 2022",
@@ -801,7 +776,6 @@
           "slug": "castro-ventosa-2023",
           "id": 604,
           "name_i18n": {
-            "common": "castro_ventosa",
             "es": "Castro Ventosa, El Castro de Valtuille 2023",
             "en": "Castro Ventosa, El Castro de Valtuille 2023",
             "pt": "Castro Ventosa, El Castro de Valtuille 2023",
@@ -826,7 +800,6 @@
           "slug": "fattoria-san-lorenzo-le-oche-2022",
           "id": 605,
           "name_i18n": {
-            "common": "fattoria_san_lorenzo",
             "es": "Fattoria San Lorenzo, Le Oche, 2022",
             "en": "Fattoria San Lorenzo, Le Oche, 2022",
             "pt": "Fattoria San Lorenzo, Le Oche, 2022",
@@ -851,7 +824,6 @@
           "slug": "primitivo-collantes-socaire-2021",
           "id": 606,
           "name_i18n": {
-            "common": "primitivo_collantes",
             "es": "Primitivo Collantes, Socaire 2021",
             "en": "Primitivo Collantes, Socaire 2021",
             "pt": "Primitivo Collantes, Socaire 2021",
@@ -876,7 +848,6 @@
           "slug": "garnier-chablis-2021",
           "id": 607,
           "name_i18n": {
-            "common": "garnier_chablis",
             "es": "Garnier, Chablis 2021",
             "en": "Garnier, Chablis 2021",
             "pt": "Garnier, Chablis 2021",
@@ -901,7 +872,6 @@
           "slug": "bekka-obeideh-2021",
           "id": 608,
           "name_i18n": {
-            "common": "bekka_obeideh",
             "es": "Bekka, Obeideh 2021",
             "en": "Bekka, Obeideh 2021",
             "pt": "Bekka, Obeideh 2021",
@@ -926,7 +896,6 @@
           "slug": "karamolegos-cuvee-34-2021",
           "id": 609,
           "name_i18n": {
-            "common": "karamolegos_cuvee",
             "es": "Karamolegos, Cuvée 34 2021",
             "en": "Karamolegos, Cuvée 34 2021",
             "pt": "Karamolegos, Cuvée 34 2021",
@@ -955,7 +924,6 @@
       "slug": "cecina-queso-grissini",
       "id": 100,
       "name_i18n": {
-        "common": "cecina_queso_grissini",
         "es": "Cecina, queso, grissini, alioli de pimentón",
         "en": "Cecina, cheese, grissini, smoked paprika aioli",
         "pt": "Cecina, queijo, grissini, aioli de pimentão",
@@ -986,7 +954,6 @@
       "slug": "sardina-ahumada",
       "id": 101,
       "name_i18n": {
-        "common": "sardina_ahumada",
         "es": "Sardina ahumada, tomate, pan brioche",
         "en": "Smoked sardine, tomato, brioche bread",
         "pt": "Sardinha defumada, tomate, pão brioche",
@@ -1015,7 +982,6 @@
       "slug": "croquetas-patata-cebolla",
       "id": 102,
       "name_i18n": {
-        "common": "croquetas_patata_cebolla",
         "es": "Croquetas de patata y cebolla, salsa de pimentón asado (5ud)",
         "en": "Potato and onion croquettes, roasted paprika sauce (5 pcs)",
         "pt": "Croquetes de batata e cebola, molho de pimentão assado (5 unid)",
@@ -1042,7 +1008,6 @@
       "slug": "piparras-brasas",
       "id": 103,
       "name_i18n": {
-        "common": "piparras_brasas",
         "es": "Piparras a la brasa, limón, sal negra",
         "en": "Grilled piparras, lemon, black salt",
         "pt": "Piparras grelhadas, limão, sal negro",
@@ -1069,7 +1034,6 @@
       "slug": "lechuga-romana",
       "id": 200,
       "name_i18n": {
-        "common": "lechuga_romana",
         "es": "Lechuga romana, queso curado, vinagreta de balsámico blanco",
         "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
         "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
@@ -1098,7 +1062,6 @@
       "slug": "tomate-vinagreta",
       "id": 201,
       "name_i18n": {
-        "common": "tomate_vinagreta",
         "es": "Tomate, vinagreta de alcaparras, crumble de aceituna negra",
         "en": "Tomato, caper vinaigrette, black olive crumble",
         "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
@@ -1125,7 +1088,6 @@
       "slug": "ensalada-uvas",
       "id": 202,
       "name_i18n": {
-        "common": "ensalada_uvas",
         "es": "Ensalada de uvas, pepino, pistacho, queso feta",
         "en": "Grape salad, cucumber, pistachio, feta cheese",
         "pt": "Salada de uvas, pepino, pistachio, queijo feta",
@@ -1155,7 +1117,6 @@
       "slug": "ensalada-cordero",
       "id": 203,
       "name_i18n": {
-        "common": "ensalada_cordero",
         "es": "Ensalada de cordero, tzatziki, hierbas aromáticas",
         "en": "Lamb salad, tzatziki, aromatic herbs",
         "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
@@ -1184,7 +1145,6 @@
       "slug": "carpaccio-gamba",
       "id": 204,
       "name_i18n": {
-        "common": "carpaccio_gamba",
         "es": "Carpaccio de gamba roja, chile tatema, aceite aromático",
         "en": "Red shrimp carpaccio, charred chili, aromatic oil",
         "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
@@ -1213,7 +1173,6 @@
       "slug": "tartar-pescado",
       "id": 205,
       "name_i18n": {
-        "common": "tartar_pescado",
         "es": "Tartar de pescado azul, pico de gallo mediterráneo, yogur griego",
         "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
         "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
@@ -1243,7 +1202,6 @@
       "slug": "steak-tartar",
       "id": 206,
       "name_i18n": {
-        "common": "steak_tartar",
         "es": "Steak tartar, pecorino, semillas de mostaza, crackers de aceite de oliva",
         "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
         "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
@@ -1272,7 +1230,6 @@
       "slug": "pasta-pici-casera",
       "id": 301,
       "name_i18n": {
-        "common": "pasta_pici_casera",
         "es": "Pasta pici casera, pecorino, pimienta negra",
         "en": "Homemade pici pasta, pecorino, black pepper",
         "pt": "Pasta pici caseira, pecorino, pimenta preta",
@@ -1301,7 +1258,6 @@
       "slug": "fettuccine-casero",
       "id": 302,
       "name_i18n": {
-        "common": "fettuccine_casero",
         "es": "Fettuccine casero, calamar, aglio e olio, tomate picante",
         "en": "Homemade fettuccine, squid, aglio e olio, spicy tomato",
         "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
@@ -1330,7 +1286,6 @@
       "slug": "almejas-alubias",
       "id": 303,
       "name_i18n": {
-        "common": "almejas_alubias",
         "es": "Almejas, alubias, vino blanco, pan de masa madre",
         "en": "Clams, beans, white wine, sourdough bread",
         "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
@@ -1359,7 +1314,6 @@
       "slug": "lomo-corvina",
       "id": 304,
       "name_i18n": {
-        "common": "lomo_corvina",
         "es": "Lomo de corvina, bisque de gamba, broccolini",
         "en": "Corvina loin, shrimp bisque, broccolini",
         "pt": "Lombo de corvina, bisque de camarão, broccolini",
@@ -1389,7 +1343,6 @@
       "slug": "pulpo-brasas",
       "id": 305,
       "name_i18n": {
-        "common": "pulpo_brasas",
         "es": "Pulpo a la brasa, patata crujiente, vinagreta de tomate",
         "en": "Grilled octopus, crispy potato, tomato vinaigrette",
         "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
@@ -1416,7 +1369,6 @@
       "slug": "lomo-alto-brasas",
       "id": 306,
       "name_i18n": {
-        "common": "lomo_alto_brasas",
         "es": "Lomo alto a la brasa, puré de apionabo",
         "en": "Grilled high loin, celery root puree",
         "pt": "Lombo alto grelhado, purê de aipo",
@@ -1443,7 +1395,6 @@
       "slug": "tarta-limon",
       "id": 401,
       "name_i18n": {
-        "common": "tarta_limon",
         "es": "Tarta de limón, crème fraîche, ralladura de limón",
         "en": "Lemon tart, crème fraîche, lemon zest",
         "pt": "Torta de limão, crème fraîche, raspas de limão",
@@ -1472,7 +1423,6 @@
       "slug": "flan-naranja",
       "id": 402,
       "name_i18n": {
-        "common": "flan_naranja",
         "es": "Flan de naranja, naranja confitada",
         "en": "Orange flan, candied orange",
         "pt": "Flan de laranja, laranja confitada",
@@ -1501,7 +1451,6 @@
       "slug": "torrijas-chocolate",
       "id": 403,
       "name_i18n": {
-        "common": "torrijas_chocolate",
         "es": "Torrijas, chocolate cremoso",
         "en": "Torrijas, creamy chocolate",
         "pt": "Torrijas, chocolate cremoso",
@@ -1531,7 +1480,6 @@
       "slug": "focaccia-grill",
       "id": 501,
       "name_i18n": {
-        "common": "focaccia_grill",
         "es": "Focaccia al grill, garbanzos y tomate",
         "en": "Grilled focaccia, chickpeas and tomato",
         "pt": "Focaccia grelhada, grão-de-bico e tomate",
@@ -1560,7 +1508,6 @@
       "slug": "bernabeleva-navahereos-2023",
       "id": 601,
       "name_i18n": {
-        "common": "bernabeleva_navahereos",
         "es": "Bernabeleva, Navahereos 2023",
         "en": "Bernabeleva, Navahereos 2023",
         "pt": "Bernabeleva, Navahereos 2023",
@@ -1589,7 +1536,6 @@
       "slug": "ponce-blanco-2024",
       "id": 602,
       "name_i18n": {
-        "common": "ponce_blanco",
         "es": "Ponce, Blanco 2024",
         "en": "Ponce, Blanco 2024",
         "pt": "Ponce, Branco 2024",
@@ -1618,7 +1564,6 @@
       "slug": "chateau-pegau-cuvee-lone-2022",
       "id": 603,
       "name_i18n": {
-        "common": "chateau_pegu",
         "es": "Château Pégau, Cuvée Lôné 2022",
         "en": "Château Pégau, Cuvée Lôné 2022",
         "pt": "Château Pégau, Cuvée Lôné 2022",
@@ -1647,7 +1592,6 @@
       "slug": "castro-ventosa-2023",
       "id": 604,
       "name_i18n": {
-        "common": "castro_ventosa",
         "es": "Castro Ventosa, El Castro de Valtuille 2023",
         "en": "Castro Ventosa, El Castro de Valtuille 2023",
         "pt": "Castro Ventosa, El Castro de Valtuille 2023",
@@ -1657,10 +1601,6 @@
       "price": 6.5,
       "priceCents": 650,
       "cover": "/castro_ventosa.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1676,7 +1616,6 @@
       "slug": "fattoria-san-lorenzo-le-oche-2022",
       "id": 605,
       "name_i18n": {
-        "common": "fattoria_san_lorenzo",
         "es": "Fattoria San Lorenzo, Le Oche, 2022",
         "en": "Fattoria San Lorenzo, Le Oche, 2022",
         "pt": "Fattoria San Lorenzo, Le Oche, 2022",
@@ -1686,10 +1625,6 @@
       "price": 39.0,
       "priceCents": 3900,
       "cover": "/fattoria_san_lorenzo.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1705,7 +1640,6 @@
       "slug": "primitivo-collantes-socaire-2021",
       "id": 606,
       "name_i18n": {
-        "common": "primitivo_collantes",
         "es": "Primitivo Collantes, Socaire 2021",
         "en": "Primitivo Collantes, Socaire 2021",
         "pt": "Primitivo Collantes, Socaire 2021",
@@ -1715,10 +1649,6 @@
       "price": 40.0,
       "priceCents": 4000,
       "cover": "/primitivo_collantes.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1734,7 +1664,6 @@
       "slug": "garnier-chablis-2021",
       "id": 607,
       "name_i18n": {
-        "common": "garnier_chablis",
         "es": "Garnier, Chablis 2021",
         "en": "Garnier, Chablis 2021",
         "pt": "Garnier, Chablis 2021",
@@ -1744,10 +1673,6 @@
       "price": 47.0,
       "priceCents": 4700,
       "cover": "/garnier_chablis.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1763,7 +1688,6 @@
       "slug": "bekka-obeideh-2021",
       "id": 608,
       "name_i18n": {
-        "common": "bekka_obeideh",
         "es": "Bekka, Obeideh 2021",
         "en": "Bekka, Obeideh 2021",
         "pt": "Bekka, Obeideh 2021",
@@ -1773,10 +1697,6 @@
       "price": 58.0,
       "priceCents": 5800,
       "cover": "/bekka_obeideh.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1792,7 +1712,6 @@
       "slug": "karamolegos-cuvee-34-2021",
       "id": 609,
       "name_i18n": {
-        "common": "karamolegos_cuvee",
         "es": "Karamolegos, Cuvée 34 2021",
         "en": "Karamolegos, Cuvée 34 2021",
         "pt": "Karamolegos, Cuvée 34 2021",
@@ -1802,10 +1721,6 @@
       "price": 63.0,
       "priceCents": 6300,
       "cover": "/karamolegos_cuvee.webp",
-      "category": {
-        "common": "wines"
-      },
-      "categorySlug": "wines",
       "allergens": [
         "sulfites"
       ],
@@ -1821,7 +1736,6 @@
       "slug": "belondrade-belondrade-2023",
       "id": 610,
       "name_i18n": {
-        "common": "belondrade_belondrade",
         "es": "Belondrade, Belondrade y Lurton 2023",
         "en": "Belondrade, Belondrade y Lurton 2023",
         "pt": "Belondrade, Belondrade y Lurton 2023",
