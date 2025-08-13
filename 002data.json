@@ -594,6 +594,32 @@
         "fr": "Torrijas traditionnelles avec une sauce au chocolat crémeux",
         "de": "Traditionelle Torrijas mit einer cremigen Schokoladensauce"
       }
+    },
+    {
+      "id": 501,
+      "name_i18n": {
+        "common": "focaccia_grill",
+        "es": "Focaccia al grill, garbanzos y tomate",
+        "en": "Grilled focaccia, chickpeas and tomato",
+        "pt": "Focaccia grelhada, grão-de-bico e tomate",
+        "fr": "Focaccia grillée, pois chiches et tomate",
+        "de": "Gegrillte Focaccia, Kichererbsen und Tomate"
+      },
+      "price": 3.00,
+      "cover": "/focaccia_grill.webp",
+      "category": {
+        "common": "bread"
+      },
+      "allergens": [
+        "gluten"
+      ],
+      "description": {
+        "es": "Focaccia al grill acompañada de garbanzos y tomate fresco",
+        "en": "Grilled focaccia served with chickpeas and fresh tomato",
+        "pt": "Focaccia grelhada acompanhada de grão-de-bico e tomate fresco",
+        "fr": "Focaccia grillée servie avec pois chiches et tomate frais",
+        "de": "Gegrillte Focaccia serviert mit Kichererbsen und frischer Tomate"
+      }
     }
   ]
 }
