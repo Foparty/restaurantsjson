@@ -184,97 +184,183 @@
     {
       "id": 200,
       "name_i18n": {
-        "common": "cesarsalad",
-        "es": "Ensalada César",
-        "en": "Caesar Salad",
-        "pt": "Salada César",
-        "fr": "Salade César",
-        "de": "Caesar-Salat"
+        "common": "lechuga_romana",
+        "es": "Lechuga romana, queso curado, vinagreta de balsámico blanco",
+        "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
+        "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
+        "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
+        "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette"
       },
-      "price": 34.95,
-      "cover": "",
+      "price": 12.00,
+      "cover": "/lechuga_romana.webp",
       "category": {
-        "common": "salads"
+        "common": "coldfresh"
       },
-      "allergens": [],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
-        "es": "Lechuga Romana, Queso Parmesano, Picatostes, Aderezo César",
-        "en": "Romaine Lettuce, Parmesan Cheese, Croutons, Caesar Dressing",
-        "pt": "Alface Romana, Queijo Parmesão, Croutons, Molho Caesar",
-        "fr": "Laitue Romaine, Fromage Parmesan, Croûtons, Sauce César",
-        "de": "Römersalat, Parmesan, Croutons, Caesar-Dressing"
+        "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
+        "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
+        "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
+        "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
+        "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette"
       }
     },
     {
       "id": 201,
       "name_i18n": {
-        "common": "capresesalad",
-        "es": "Ensalada Caprese",
-        "en": "Caprese Salad",
-        "pt": "Salada Caprese",
-        "fr": "Salade Caprese",
-        "de": "Caprese-Salat"
+        "common": "tomate_vinagreta",
+        "es": "Tomate, vinagreta de alcaparras, crumble de aceituna negra",
+        "en": "Tomato, caper vinaigrette, black olive crumble",
+        "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
+        "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
+        "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel"
       },
-      "price": 34.95,
-      "cover": "",
+      "price": 12.00,
+      "cover": "/tomate_vinagreta.webp",
       "category": {
-        "common": "salads"
+        "common": "coldfresh"
       },
       "allergens": [],
       "description": {
-        "es": "Tomates Maduras con Bocconcini, Cebollas Rojas, Aceitunas Cerignola y Kalamata, Pimientos Asados, Albahaca Fresca, Aceite de Oliva y Vinagre de Vino Tinto Añejo Sal, Pimienta y Orégano",
-        "en": "Ripened Tomatoes with Bocconcini, Red Onions, Cerignola & Kalamata Olives, Roasted Red Peppers, Fresh Basil, Olive Oil & Aged Red Wine Vinegar Salt, Pepper and Oregano",
-        "pt": "Tomates Madurados com Bocconcini, Cebolas Roxas, Azeitonas Cerignola e Kalamata, Pimentos Assados, Manjericão Fresco, Azeite de Oliva e Vinagre de Vinho Tinto Envelhecido Sal, Pimenta e Orégano",
-        "fr": "Tomates Mûres avec Bocconcini, Oignons Rouges, Olives Cerignola & Kalamata, Poivrons Rouges Rôtis, Basilic Frais, Huile d'Olive & Vinaigre de Vin Rouge Vieilli Sel, Poivre et Origan",
-        "de": "Reife Tomaten mit Bocconcini, roten Zwiebeln, Cerignola- und Kalamata-Oliven, gerösteten roten Paprika, frischem Basilikum, Olivenöl und gereiftem Rotweinessig Salz, Pfeffer und Oregano"
+        "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
+        "en": "Fresh tomato with caper vinaigrette and black olive crumble",
+        "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
+        "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
+        "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel"
       }
     },
     {
       "id": 202,
       "name_i18n": {
-        "common": "mixedgreensalad",
-        "es": "Ensalada Mixta",
-        "en": "Mixed Green Salad",
-        "pt": "Salada Verde Mista",
-        "fr": "Salade Verte Mélangée",
-        "de": "Gemischter Blattsalat"
+        "common": "ensalada_uvas",
+        "es": "Ensalada de uvas, pepino, pistacho, queso feta",
+        "en": "Grape salad, cucumber, pistachio, feta cheese",
+        "pt": "Salada de uvas, pepino, pistachio, queijo feta",
+        "fr": "Salade de raisins, concombre, pistache, fromage feta",
+        "de": "Traubensalat, Gurke, Pistazie, Feta-Käse"
       },
-      "price": 31.95,
-      "cover": "",
+      "price": 13.00,
+      "cover": "/ensalada_uvas.webp",
       "category": {
-        "common": "salads"
+        "common": "coldfresh"
       },
-      "allergens": [],
+      "allergens": [
+        "dairy",
+        "nuts"
+      ],
       "description": {
-        "es": "Lechugas Mixtas, Tomate, Cebolla, Pimiento, Apio, Rábano, Aderezo de Vinagreta Casera",
-        "en": "Mixed Greens, Tomato, Onions, Pepperoncini, Celery, Radish, Housemade Vinaigrette Dressing",
-        "pt": "Verduras Mistas, Tomate, Cebolas, Pimentões, Aipo, Rabanete, Molho Vinagrete Caseiro",
-        "fr": "Salade Verte Mélangée, Tomate, Oignons, Poivrons, Céleri, Radis, Vinaigrette Maison",
-        "de": "Gemischter Blattsalat, Tomate, Zwiebeln, Pepperoncini, Sellerie, Radieschen, Hausgemachtes Vinaigrette-Dressing"
+        "es": "Ensalada fresca de uvas, pepino, pistachos y queso feta",
+        "en": "Fresh grape salad with cucumber, pistachios, and feta cheese",
+        "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
+        "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
+        "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse"
       }
     },
     {
       "id": 203,
       "name_i18n": {
-        "common": "carminessalad",
-        "es": "Ensalada Carmine",
-        "en": "Carmine's Salad",
-        "pt": "Salada Carmine",
-        "fr": "Salade Carmine",
-        "de": "Carmine-Salat"
+        "common": "ensalada_cordero",
+        "es": "Ensalada de cordero, tzatziki, hierbas aromáticas",
+        "en": "Lamb salad, tzatziki, aromatic herbs",
+        "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
+        "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
+        "de": "Lamm-Salat, Tzatziki, aromatische Kräuter"
       },
-      "price": 34.95,
-      "cover": "",
+      "price": 18.00,
+      "cover": "/ensalada_cordero.webp",
       "category": {
-        "common": "salads"
+        "common": "coldfresh"
       },
-      "allergens": [],
+      "allergens": [
+        "dairy"
+      ],
       "description": {
-        "es": "Verduras Mixtas, Tomate, Cebolla, Rábano, Pimiento, Apio, Aceitunas, Salami Picado, Mortadela, Provolone Extra Fuerte, Aderezo de Vinagreta Casera",
-        "en": "Mixed Greens, Tomato, Onions, Radish, Pepperoncini, Celery, Olives, Diced Salami, Mortadella, Extra Sharp Provolone, Housemade Vinaigrette Dressing",
-        "pt": "Verduras Mistas, Tomate, Cebolas, Rabanete, Pimentões, Aipo, Azeitonas, Salame Picado, Mortadela, Provolone Extra Forte, Molho Vinagrete Caseiro",
-        "fr": "Salade Verte Mélangée, Tomate, Oignons, Radis, Poivrons, Céleri, Olives, Salami Haché, Mortadelle, Provolone Extra Fort, Vinaigrette Maison",
-        "de": "Gemischter Blattsalat, Tomate, Zwiebeln, Radieschen, Pepperoncini, Sellerie, Oliven, gewürfelte Salami, Mortadella, extra scharfer Provolone, hausgemachtes Vinaigrette-Dressing"
+        "es": "Ensalada de cordero tierno con tzatziki y hierbas aromáticas",
+        "en": "Tender lamb salad with tzatziki and aromatic herbs",
+        "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
+        "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
+        "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern"
+      }
+    },
+    {
+      "id": 204,
+      "name_i18n": {
+        "common": "carpaccio_gamba",
+        "es": "Carpaccio de gamba roja, chile tatema, aceite aromático",
+        "en": "Red shrimp carpaccio, charred chili, aromatic oil",
+        "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
+        "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
+        "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl"
+      },
+      "price": 24.00,
+      "cover": "/carpaccio_gamba.webp",
+      "category": {
+        "common": "coldfresh"
+      },
+      "allergens": [
+        "shellfish"
+      ],
+      "description": {
+        "es": "Carpaccio de gamba roja con chile tatema y aceite aromático",
+        "en": "Red shrimp carpaccio with charred chili and aromatic oil",
+        "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
+        "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
+        "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl"
+      }
+    },
+    {
+      "id": 205,
+      "name_i18n": {
+        "common": "tartar_pescado",
+        "es": "Tartar de pescado azul, pico de gallo mediterráneo, yogur griego",
+        "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
+        "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
+        "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
+        "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt"
+      },
+      "price": 19.00,
+      "cover": "/tartar_pescado.webp",
+      "category": {
+        "common": "coldfresh"
+      },
+      "allergens": [
+        "fish",
+        "dairy"
+      ],
+      "description": {
+        "es": "Tartar de pescado azul con pico de gallo mediterráneo y yogur griego",
+        "en": "Blue fish tartare with Mediterranean pico de gallo and Greek yogurt",
+        "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
+        "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
+        "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt"
+      }
+    },
+    {
+      "id": 206,
+      "name_i18n": {
+        "common": "steak_tartar",
+        "es": "Steak tartar, pecorino, semillas de mostaza, crackers de aceite de oliva",
+        "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
+        "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
+        "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
+        "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker"
+      },
+      "price": 19.50,
+      "cover": "/steak_tartar.webp",
+      "category": {
+        "common": "coldfresh"
+      },
+      "allergens": [
+        "dairy"
+      ],
+      "description": {
+        "es": "Steak tartar con pecorino, semillas de mostaza y crackers de aceite de oliva",
+        "en": "Steak tartare with pecorino, mustard seeds, and olive oil crackers",
+        "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
+        "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
+        "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker"
       }
     },
     {
