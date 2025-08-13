@@ -897,7 +897,12 @@
         "common": "wines"
       },
       "subcategory": {
-        "common": "white"
+        "common": "white",
+        "es": "blanco",
+        "en": "white",
+        "pt": "branco",
+        "fr": "blanc",
+        "de": "weiß"
       },
       "allergens": [
         "sulfites"
