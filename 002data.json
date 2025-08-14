@@ -37,7 +37,8 @@
     "pt": "Restaurante italiano com uma ampla variedade de pratos tradicionais e modernos, desde entradas até sobremesas, todos preparados com ingredientes frescos e de alta qualidade.",
     "fr": "Restaurant italien avec une large variété de plats traditionnels et modernes, des entrées aux desserts, tous préparés avec des ingrédients frais et de haute qualité.",
     "de": "Italienisches Restaurant mit einer großen Auswahl an traditionellen und modernen Gerichten, von Vorspeisen bis zu Desserts, die alle mit frischen, hochwertigen Zutaten zubereitet werden.",
-    "th": "ร้านอาหารอิตาเลียนที่มีเมนูหลากหลายตั้งแต่อาหารเรียกน้ำย่อยไปจนถึงของหวาน ทุกจานทำจากวัตถุดิบสดใหม่และมีคุณภาพสูง"
+    "th": "ร้านอาหารอิตาเลียนที่มีเมนูหลากหลายตั้งแต่อาหารเรียกน้ำย่อยไปจนถึงของหวาน ทุกจานทำจากวัตถุดิบสดใหม่และมีคุณภาพสูง",
+    "ru": "Итальянский ресторан с широким выбором традиционных и современных блюд, от закусок до десертов, все приготовлено из свежих, высококачественных ингредиентов."
   },
   "aboutContactNums": [
     "+34 123 456 789",
@@ -75,7 +76,8 @@
         "pt": "Algo Rápido",
         "fr": "Quelque Chose de Rapide",
         "de": "Etwas Schnelles",
-        "th": "อะไรที่รวดเร็ว"
+        "th": "อะไรที่รวดเร็ว",
+        "ru": "Что-то Быстрое"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/appetiers.webp",
       "items": [
@@ -188,7 +190,8 @@
         "pt": "Saladas Frias e Cruas",
         "fr": "Salades Froides Fraîches et Crues",
         "de": "Kaltes Frisches und Rohes",
-        "th": "สลัดเย็นสดและดิบ"
+        "th": "สลัดเย็นสดและดิบ",
+        "ru": "Холодные Свежие и Сырые Салаты"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp",
       "items": [
@@ -384,7 +387,9 @@
         "en": "Hot and a bit bigger",
         "pt": "Quente e um pouco maior",
         "fr": "Chaud et un peu plus grand",
-        "de": "Heiß und ein bisschen größer"
+        "de": "Heiß und ein bisschen größer",
+        "th": "ร้อนและใหญ่ขึ้นเล็กน้อย",
+        "ru": "Горячее и немного больше"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/main.webp",
       "items": [
@@ -552,7 +557,8 @@
         "pt": "Algo Doce",
         "fr": "Quelque Chose de Sucré",
         "de": "Etwas Süßes",
-        "th": "ของหวาน"
+        "th": "ของหวาน",
+        "ru": "Что-то Сладкое"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/dessert.webp",
       "items": [
@@ -646,7 +652,8 @@
         "pt": "Serviço de Pão",
         "fr": "Service de Pain",
         "de": "Brotservice",
-        "th": "บริการขนมปัง"
+        "th": "บริการขนมปัง",
+        "ru": "Хлебное Обслуживание"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/bread.webp",
       "items": [
@@ -687,7 +694,8 @@
         "pt": "Vinhos",
         "fr": "Vins",
         "de": "Weine",
-        "th": "ไวน์"
+        "th": "ไวน์",
+        "ru": "Вина"
       },
       "cover": "",
       "subcategories": [
