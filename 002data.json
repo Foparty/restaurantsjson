@@ -95,7 +95,7 @@
           },
           "price": 11.0,
           "priceCents": 1100,
-          "cover": "/cecina_queso_grissini.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
@@ -121,7 +121,7 @@
           },
           "price": 5.0,
           "priceCents": 500,
-          "cover": "/sardina_ahumada.webp",
+          "cover": "",
           "allergens": [
             "fish"
           ],
@@ -149,7 +149,7 @@
           },
           "price": 10.0,
           "priceCents": 1000,
-          "cover": "/croquetas_patata_cebolla.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Croquetas cremosas de patata y cebolla con salsa de pimentón asado",
@@ -175,7 +175,7 @@
           },
           "price": 8.5,
           "priceCents": 850,
-          "cover": "/piparras_brasas.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Piparras frescas a la brasa con un toque de limón y sal negra",
@@ -217,7 +217,7 @@
           },
           "price": 12.0,
           "priceCents": 1200,
-          "cover": "/lechuga_romana.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -245,7 +245,7 @@
           },
           "price": 12.0,
           "priceCents": 1200,
-          "cover": "/tomate_vinagreta.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
@@ -271,7 +271,7 @@
           },
           "price": 13.0,
           "priceCents": 1300,
-          "cover": "/ensalada_uvas.webp",
+          "cover": "",
           "allergens": [
             "dairy",
             "nuts"
@@ -300,7 +300,7 @@
           },
           "price": 18.0,
           "priceCents": 1800,
-          "cover": "/ensalada_cordero.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -328,7 +328,7 @@
           },
           "price": 24.0,
           "priceCents": 2400,
-          "cover": "/carpaccio_gamba.webp",
+          "cover": "",
           "allergens": [
             "shellfish"
           ],
@@ -356,7 +356,7 @@
           },
           "price": 19.0,
           "priceCents": 1900,
-          "cover": "/tartar_pescado.webp",
+          "cover": "",
           "allergens": [
             "fish",
             "dairy"
@@ -385,7 +385,7 @@
           },
           "price": 19.5,
           "priceCents": 1950,
-          "cover": "/steak_tartar.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -429,7 +429,7 @@
           },
           "price": 16.0,
           "priceCents": 1600,
-          "cover": "/pasta_pici_casera.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -457,7 +457,7 @@
           },
           "price": 17.5,
           "priceCents": 1750,
-          "cover": "/fettuccine_casero.webp",
+          "cover": "",
           "allergens": [
             "shellfish"
           ],
@@ -485,7 +485,7 @@
           },
           "price": 22.5,
           "priceCents": 2250,
-          "cover": "/almejas_alubias.webp",
+          "cover": "",
           "allergens": [
             "shellfish"
           ],
@@ -513,7 +513,7 @@
           },
           "price": 24.0,
           "priceCents": 2400,
-          "cover": "/lomo_corvina.webp",
+          "cover": "",
           "allergens": [
             "fish",
             "shellfish"
@@ -542,7 +542,7 @@
           },
           "price": 22.0,
           "priceCents": 2200,
-          "cover": "/pulpo_brasas.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Pulpo a la brasa con patata crujiente y vinagreta de tomate",
@@ -568,7 +568,7 @@
           },
           "price": 30.0,
           "priceCents": 3000,
-          "cover": "/lomo_alto_brasas.webp",
+          "cover": "",
           "allergens": [],
           "description": {
             "es": "Lomo alto a la brasa servido con puré de apionabo",
@@ -610,7 +610,7 @@
           },
           "price": 7.0,
           "priceCents": 700,
-          "cover": "/tarta_limon.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -638,7 +638,7 @@
           },
           "price": 7.0,
           "priceCents": 700,
-          "cover": "/flan_naranja.webp",
+          "cover": "",
           "allergens": [
             "dairy"
           ],
@@ -666,7 +666,7 @@
           },
           "price": 8.5,
           "priceCents": 850,
-          "cover": "/torrijas_chocolate.webp",
+          "cover": "",
           "allergens": [
             "dairy",
             "gluten"
@@ -711,7 +711,7 @@
           },
           "price": 3.0,
           "priceCents": 300,
-          "cover": "/focaccia_grill.webp",
+          "cover": "",
           "allergens": [
             "gluten"
           ],
@@ -767,7 +767,7 @@
               },
               "price": 80.0,
               "priceCents": 8000,
-              "cover": "/belondrade_belondrade.webp",
+              "cover": "",
               "subcategorySlug": "white",
               "allergens": [
                 "sulfites"
@@ -796,7 +796,7 @@
               },
               "price": 5.5,
               "priceCents": 550,
-              "cover": "/bernabeleva_navahereos.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -824,7 +824,7 @@
               },
               "price": 30.0,
               "priceCents": 3000,
-              "cover": "/ponce_blanco.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -852,7 +852,7 @@
               },
               "price": 0.0,
               "priceCents": 0,
-              "cover": "/chateau_pegu.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -880,7 +880,7 @@
               },
               "price": 6.5,
               "priceCents": 650,
-              "cover": "/castro_ventosa.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -908,7 +908,7 @@
               },
               "price": 39.0,
               "priceCents": 3900,
-              "cover": "/fattoria_san_lorenzo.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -936,7 +936,7 @@
               },
               "price": 40.0,
               "priceCents": 4000,
-              "cover": "/primitivo_collantes.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -964,7 +964,7 @@
               },
               "price": 47.0,
               "priceCents": 4700,
-              "cover": "/garnier_chablis.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -992,7 +992,7 @@
               },
               "price": 58.0,
               "priceCents": 5800,
-              "cover": "/bekka_obeideh.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
@@ -1020,7 +1020,7 @@
               },
               "price": 63.0,
               "priceCents": 6300,
-              "cover": "/karamolegos_cuvee.webp",
+              "cover": "",
               "allergens": [
                 "sulfites"
               ],
