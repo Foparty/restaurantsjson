@@ -1,7 +1,7 @@
 {
 	"apiVersion": "1.1",
 	"defaultLanguage": "en",
-	"availableLanguages": ["en", "es", "pt", "fr", "de", "th", "ru"],
+	"availableLanguages": ["en", "es", "pt", "fr", "de", "th"],
 	"assetsBaseUrl": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/",
 	"logo": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/logo.webp",
 	"categoryImg": true,
