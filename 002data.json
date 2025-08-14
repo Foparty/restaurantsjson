@@ -90,7 +90,8 @@
             "pt": "Cecina, queijo, grissini, aioli de pimentão",
             "fr": "Cecina, fromage, grissini, aioli au piment fumé",
             "de": "Cecina, Käse, Grissini, geräucherter Paprika-Aioli",
-            "th": "เซซิน่า ชีส กริสซินี่ และไอโอลี่พริกปาปริก้ารมควัน"
+            "th": "เซซิน่า ชีส กริสซินี่ และไอโอลี่พริกปาปริก้ารมควัน",
+            "ru": "Сесина, сыр, гриссини, айоли с копченым паприкой"
           },
           "price": 11.0,
           "priceCents": 1100,
@@ -102,7 +103,8 @@
             "pt": "Cecina curada, queijo macio, grissini crocantes e aioli de pimentão",
             "fr": "Cecina affinée, fromage doux, grissini croustillants et aioli au piment fumé",
             "de": "Gereifter Cecina-Schinken, milder Käse, knusprige Grissini und geräucherter Paprika-Aioli",
-            "th": "เนื้อเซซิน่าหมัก ชีสนุ่ม กริสซินี่กรอบ และไอโอลี่พริกปาปริก้ารมควัน"
+            "th": "เนื้อเซซิน่าหมัก ชีสนุ่ม กริสซินี่กรอบ และไอโอลี่พริกปาปริก้ารมควัน",
+            "ru": "Вяленая сесина, мягкий сыр, хрустящие гриссини и айоли с копченым паприкой"
           }
         },
         {
@@ -114,7 +116,8 @@
             "pt": "Sardinha defumada, tomate, pão brioche",
             "fr": "Sardine fumée, tomate, pain brioche",
             "de": "Geräucherte Sardine, Tomate, Briochebrot",
-            "th": "ปลาซาร์ดีนรมควัน มะเขือเทศ และขนมปังบริโอช"
+            "th": "ปลาซาร์ดีนรมควัน มะเขือเทศ และขนมปังบริโอช",
+            "ru": "Копченая сардина, помидор, хлеб бриошь"
           },
           "price": 5.0,
           "priceCents": 500,
@@ -128,7 +131,8 @@
             "pt": "Sardinha defumada com tomate fresco e pão brioche torrado",
             "fr": "Sardine fumée avec tomate fraîche et pain brioche grillé",
             "de": "Geräucherte Sardine mit frischer Tomate und geröstetem Briochebrot",
-            "th": "ปลาซาร์ดีนรมควันกับมะเขือเทศสดและขนมปังบริโอชกรอบ"
+            "th": "ปลาซาร์ดีนรมควันกับมะเขือเทศสดและขนมปังบริโอชกรอบ",
+            "ru": "Копченая сардина с свежим помидором и поджаренным хлебом бриошь"
           }
         },
         {
@@ -140,7 +144,8 @@
             "pt": "Croquetes de batata e cebola, molho de pimentão assado (5 unid)",
             "fr": "Croquettes de pomme de terre et oignon, sauce au paprika rôti (5 pièces)",
             "de": "Kartoffel- und Zwiebel-Croquettes, geröstete Paprika-Sauce (5 Stück)",
-            "th": "โครเกต์มันฝรั่งและหัวหอม ซอสปาปริก้าย่าง (5 ชิ้น)"
+            "th": "โครเกต์มันฝรั่งและหัวหอม ซอสปาปริก้าย่าง (5 ชิ้น)",
+            "ru": "Крокеты из картофеля и лука, соус из жареного паприки (5 шт)"
           },
           "price": 10.0,
           "priceCents": 1000,
@@ -152,7 +157,8 @@
             "pt": "Croquetes cremosos de batata e cebola com molho de pimentão assado",
             "fr": "Croquettes crémeuses de pomme de terre et oignon avec sauce au paprika rôti",
             "de": "Cremige Kartoffel- und Zwiebel-Croquettes mit gerösteter Paprika-Sauce",
-            "th": "โครเกต์มันฝรั่งและหัวหอมนุ่ม กับซอสปาปริก้าย่าง"
+            "th": "โครเกต์มันฝรั่งและหัวหอมนุ่ม กับซอสปาปริก้าย่าง",
+            "ru": "Кремовые крокеты из картофеля и лука с соусом из жареного паприки"
           }
         },
         {
@@ -164,7 +170,8 @@
             "pt": "Piparras grelhadas, limão, sal negro",
             "fr": "Piparras grillées, citron, sel noir",
             "de": "Gegrillte Piparras, Zitrone, schwarzes Salz",
-            "th": "พริกปิปาร์ร้าย่าง มะนาว และเกลือดำ"
+            "th": "พริกปิปาร์ร้าย่าง มะนาว และเกลือดำ",
+            "ru": "Жареные пипарра, лимон, черная соль"
           },
           "price": 8.5,
           "priceCents": 850,
@@ -176,7 +183,8 @@
             "pt": "Piparras frescas grelhadas com um toque de limão e sal negro",
             "fr": "Piparras fraîches grillées avec une touche de citron et sel noir",
             "de": "Frische gegrillte Piparras mit einem Hauch Zitrone und schwarzem Salz",
-            "th": "พริกปิปาร์ร้าสดย่าง พร้อมกลิ่นมะนาวและเกลือดำ"
+            "th": "พริกปิปาร์ร้าสดย่าง พร้อมกลิ่นมะนาวและเกลือดำ",
+            "ru": "Свежие жареные пипарра с легким привкусом лимона и черной соли"
           }
         }
       ]
@@ -204,7 +212,8 @@
             "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
             "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
             "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette",
-            "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว"
+            "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว",
+            "ru": "Ромен, выдержанный сыр, белый бальзамический соус"
           },
           "price": 12.0,
           "priceCents": 1200,
@@ -218,7 +227,8 @@
             "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
             "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
             "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette",
-            "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว"
+            "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว",
+            "ru": "Свежий ромен с выдержанным сыром и белым бальзамическим соусом"
           }
         },
         {
@@ -230,7 +240,8 @@
             "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
             "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
             "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel",
-            "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ"
+            "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ",
+            "ru": "Помидор, каперсовая заправка, крошка черной оливки"
           },
           "price": 12.0,
           "priceCents": 1200,
@@ -242,7 +253,8 @@
             "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
             "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
             "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel",
-            "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ"
+            "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ",
+            "ru": "Свежий помидор с каперсовой заправкой и крошкой черной оливки"
           }
         },
         {
@@ -254,7 +266,8 @@
             "pt": "Salada de uvas, pepino, pistachio, queijo feta",
             "fr": "Salade de raisins, concombre, pistache, fromage feta",
             "de": "Traubensalat, Gurke, Pistazie, Feta-Käse",
-            "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า"
+            "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า",
+            "ru": "Салат из винограда, огурца, фисташек и сыра фета"
           },
           "price": 13.0,
           "priceCents": 1300,
@@ -269,7 +282,8 @@
             "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
             "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
             "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse",
-            "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า"
+            "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า",
+            "ru": "Свежий салат из винограда с огурцом, фисташками и сыром фета"
           }
         },
         {
@@ -281,7 +295,8 @@
             "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
             "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
             "de": "Lamm-Salat, Tzatziki, aromatische Kräuter",
-            "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม"
+            "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม",
+            "ru": "Салат из ягненка, цацики, ароматные травы"
           },
           "price": 18.0,
           "priceCents": 1800,
@@ -295,7 +310,8 @@
             "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
             "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
             "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern",
-            "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม"
+            "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม",
+            "ru": "Салат из нежного ягненка с цацики и ароматными травами"
           }
         },
         {
@@ -307,7 +323,8 @@
             "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
             "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
             "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl",
-            "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม"
+            "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม",
+            "ru": "Карпаччо из красной креветки, обожженный перец, ароматическое масло"
           },
           "price": 24.0,
           "priceCents": 2400,
@@ -321,7 +338,8 @@
             "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
             "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
             "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl",
-            "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม"
+            "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม",
+            "ru": "Карпаччо из красной креветки с обожженным перцем и ароматическим маслом"
           }
         },
         {
@@ -333,7 +351,8 @@
             "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
             "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
             "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt",
-            "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก"
+            "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก",
+            "ru": "Тартар из синей рыбы, средиземноморский пико де гальо, греческий йогурт"
           },
           "price": 19.0,
           "priceCents": 1900,
@@ -348,7 +367,8 @@
             "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
             "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
             "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt",
-            "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก"
+            "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก",
+            "ru": "Тартар из синей рыбы со средиземноморским пико де гальо и греческим йогуртом"
           }
         },
         {
@@ -360,7 +380,8 @@
             "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
             "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
             "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker",
-            "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก"
+            "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก",
+            "ru": "Стейк тартар, пекорино, семена горчицы, крекеры с оливковым маслом"
           },
           "price": 19.5,
           "priceCents": 1950,
@@ -374,7 +395,8 @@
             "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
             "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
             "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker",
-            "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก"
+            "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก",
+            "ru": "Стейк тартар с пекорино, семенами горчицы и крекерами с оливковым маслом"
           }
         }
       ]
@@ -402,7 +424,8 @@
             "pt": "Pasta pici caseira, pecorino, pimenta preta",
             "fr": "Pâtes pici maison, pecorino, poivre noir",
             "de": "Hausgemachte Pici-Pasta, Pecorino, schwarzer Pfeffer",
-            "th": "พาสต้า พิชีโฮมเมด เปโครีโน พริกไทยดำ"
+            "th": "พาสต้า พิชีโฮมเมด เปโครีโน พริกไทยดำ",
+            "ru": "Домашняя паста пичи, пекорино, черный перец"
           },
           "price": 16.0,
           "priceCents": 1600,
@@ -416,7 +439,8 @@
             "pt": "Pasta pici caseira servida com pecorino e pimenta preta",
             "fr": "Pâtes pici maison servies avec pecorino et poivre noir",
             "de": "Hausgemachte Pici-Pasta serviert mit Pecorino und schwarzem Pfeffer",
-            "th": "พาสต้าเส้นพิชีทำเอง เสิร์ฟกับชีสเปโครีโนและพริกไทยดำ"
+            "th": "พาสต้าเส้นพิชีทำเอง เสิร์ฟกับชีสเปโครีโนและพริกไทยดำ",
+            "ru": "Домашняя паста пичи, подается с пекорино и черным перцем"
           }
         },
         {
@@ -428,7 +452,8 @@
             "pt": "Fettuccine caseiro, lula, aglio e olio, tomate picante",
             "fr": "Fettuccine maison, calmar, aglio e olio, tomate épicé",
             "de": "Hausgemachte Fettuccine, Tintenfisch, aglio e olio, scharfe Tomate",
-            "th": "เฟตตูชินี่โฮมเมด หมึก อากลิโอเอโอลิโอ ซอสมะเขือเทศเผ็ด"
+            "th": "เฟตตูชินี่โฮมเมด หมึก อากลิโอเอโอลิโอ ซอสมะเขือเทศเผ็ด",
+            "ru": "Домашняя феттучини, кальмар, аглио э олио, острый помидор"
           },
           "price": 17.5,
           "priceCents": 1750,
@@ -442,7 +467,8 @@
             "pt": "Fettuccine caseiro com lula, aglio e olio e tomate picante",
             "fr": "Fettuccine maison avec calmar, aglio e olio et tomate épicé",
             "de": "Hausgemachte Fettuccine mit Tintenfisch, aglio e olio und scharfer Tomate",
-            "th": "เฟตตูชินี่โฮมเมดกับหมึก อากลิโอเอโอลิโอ และซอสมะเขือเทศเผ็ด"
+            "th": "เฟตตูชินี่โฮมเมดกับหมึก อากลิโอเอโอลิโอ และซอสมะเขือเทศเผ็ด",
+            "ru": "Домашняя феттучини с кальмаром, аглио э олио и острым помидором"
           }
         },
         {
@@ -454,7 +480,8 @@
             "pt": "Ameijoas, feijão, vinho branco, pão de massa madre",
             "fr": "Palourdes, haricots, vin blanc, pain au levain",
             "de": "Muscheln, Bohnen, Weißwein, Sauerteigbrot",
-            "th": "หอยลาย ถั่ว ไวน์ขาว ขนมปังซาวโดว์"
+            "th": "หอยลาย ถั่ว ไวน์ขาว ขนมปังซาวโดว์",
+            "ru": "Моллюски, фасоль, белое вино, хлеб на закваске"
           },
           "price": 22.5,
           "priceCents": 2250,
@@ -468,7 +495,8 @@
             "pt": "Ameijoas frescas com feijão, vinho branco e pão de massa madre",
             "fr": "Palourdes fraîches avec haricots, vin blanc et pain au levain",
             "de": "Frische Muscheln mit Bohnen, Weißwein und Sauerteigbrot",
-            "th": "หอยลายสดกับถั่วและไวน์ขาว เสิร์ฟพร้อมขนมปังซาวโดว์"
+            "th": "หอยลายสดกับถั่วและไวน์ขาว เสิร์ฟพร้อมขนมปังซาวโดว์",
+            "ru": "Свежие моллюски с фасолью, белым вином и хлебом на закваске"
           }
         },
         {
@@ -480,7 +508,8 @@
             "pt": "Lombo de corvina, bisque de camarão, broccolini",
             "fr": "Filet de corvina, bisque de crevette, broccolini",
             "de": "Corvina-Lende, Garnelenbisque, Broccolini",
-            "th": "เนื้อปลากอร์วินา น้ำซุปกุ้ง บรอกโคลินี"
+            "th": "เนื้อปลากอร์วินา น้ำซุปกุ้ง บรอกโคลินี",
+            "ru": "Филе корвины, биск из креветок, брокколи"
           },
           "price": 24.0,
           "priceCents": 2400,
@@ -495,7 +524,8 @@
             "pt": "Lombo de corvina com bisque de camarão e broccolini",
             "fr": "Filet de corvina avec bisque de crevette et broccolini",
             "de": "Corvina-Lende mit Garnelenbisque und Broccolini",
-            "th": "เนื้อปลากอร์วินาเสิร์ฟกับน้ำซุปกุ้งและบรอกโคลินี"
+            "th": "เนื้อปลากอร์วินาเสิร์ฟกับน้ำซุปกุ้งและบรอกโคลินี",
+            "ru": "Филе корвины с биск из креветок и брокколи"
           }
         },
         {
@@ -507,7 +537,8 @@
             "pt": "Polvo grelhado, batata crocante, vinagreta de tomate",
             "fr": "Poulpe grillé, pomme de terre croustillante, vinaigrette de tomate",
             "de": "Gegrillter Oktopus, knusprige Kartoffel, Tomatenvinaigrette",
-            "th": "ปลาหมึกย่าง มันฝรั่งกรอบ น้ำสลัดมะเขือเทศ"
+            "th": "ปลาหมึกย่าง มันฝรั่งกรอบ น้ำสลัดมะเขือเทศ",
+            "ru": "Грильованный осьминог, хрустящий картофель, томатная винегрет"
           },
           "price": 22.0,
           "priceCents": 2200,
@@ -519,7 +550,8 @@
             "pt": "Polvo grelhado com batata crocante e vinagreta de tomate",
             "fr": "Poulpe grillé avec pomme de terre croustillante et vinaigrette de tomate",
             "de": "Gegrillter Oktopus mit knuspriger Kartoffel und Tomatenvinaigrette",
-            "th": "ปลาหมึกย่างกับมันฝรั่งกรอบและน้ำสลัดมะเขือเทศ"
+            "th": "ปลาหมึกย่างกับมันฝรั่งกรอบและน้ำสลัดมะเขือเทศ",
+            "ru": "Грильованный осьминог с хрустящим картофелем и томатной винегрет"
           }
         },
         {
@@ -531,7 +563,8 @@
             "pt": "Lombo alto grelhado, purê de aipo",
             "fr": "Haut-longe grillé, purée de céleri-rave",
             "de": "Gegrilltes Hochrippenstück, Selleriepüree",
-            "th": "เนื้อสันย่าง พูเร่รากขึ้นฉ่าย"
+            "th": "เนื้อสันย่าง พูเร่รากขึ้นฉ่าย",
+            "ru": "Грильованная верхняя часть вырезки, пюре из сельдерея"
           },
           "price": 30.0,
           "priceCents": 3000,
@@ -543,7 +576,8 @@
             "pt": "Lombo alto grelhado servido com purê de aipo",
             "fr": "Haut-longe grillé servi avec purée de céleri-rave",
             "de": "Gegrilltes Hochrippenstück serviert mit Selleriepüree",
-            "th": "เนื้อสันย่างเสิร์ฟกับพูเร่รากขึ้นฉ่าย"
+            "th": "เนื้อสันย่างเสิร์ฟกับพูเร่รากขึ้นฉ่าย",
+            "ru": "Грильованная верхняя часть вырезки, подается с пюре из сельдерея"
           }
         }
       ]
@@ -571,7 +605,8 @@
             "pt": "Torta de limão, crème fraîche, raspas de limão",
             "fr": "Tarte au citron, crème fraîche, zeste de citron",
             "de": "Zitronentarte, crème fraîche, Zitronenschale",
-            "th": "ทาร์ตเลมอน ครีมเฟรช ผิวเลมอนขูด"
+            "th": "ทาร์ตเลมอน ครีมเฟรช ผิวเลมอนขูด",
+            "ru": "Лимонный тарт, крем-фреш, цедра лимона"
           },
           "price": 7.0,
           "priceCents": 700,
@@ -585,7 +620,8 @@
             "pt": "Torta de limão com crème fraîche e raspas de limão",
             "fr": "Tarte au citron avec crème fraîche et zeste de citron",
             "de": "Zitronentarte mit crème fraîche und Zitronenschale",
-            "th": "ทาร์ตเลมอนกับครีมเฟรชและผิวเลมอนขูด"
+            "th": "ทาร์ตเลมอนกับครีมเฟรชและผิวเลมอนขูด",
+            "ru": "Лимонный тарт с крем-фреш и цедрой лимона"
           }
         },
         {
@@ -597,7 +633,8 @@
             "pt": "Flan de laranja, laranja confitada",
             "fr": "Flan à l'orange, orange confite",
             "de": "Orangenflan, kandierte Orange",
-            "th": "ฟลันส้ม ส้มเชื่อม"
+            "th": "ฟลันส้ม ส้มเชื่อม",
+            "ru": "Апельсиновый флан, апельсин в сахаре"
           },
           "price": 7.0,
           "priceCents": 700,
@@ -611,7 +648,8 @@
             "pt": "Flan de laranja com pedaços de laranja confitada",
             "fr": "Flan à l'orange avec morceaux d'orange confite",
             "de": "Orangenflan mit kandierten Orangenstücken",
-            "th": "ฟลันส้มกับชิ้นส้มเชื่อม"
+            "th": "ฟลันส้มกับชิ้นส้มเชื่อม",
+            "ru": "Апельсиновый флан с кусочками апельсина в сахаре"
           }
         },
         {
@@ -623,7 +661,8 @@
             "pt": "Torrijas, chocolate cremoso",
             "fr": "Torrijas, chocolat crémeux",
             "de": "Torrijas, cremige Schokolade",
-            "th": "โทริฆาส ช็อกโกแลตครีมมี่"
+            "th": "โทริฆาส ช็อกโกแลตครีมมี่",
+            "ru": "Торрихас, кремовый шоколад"
           },
           "price": 8.5,
           "priceCents": 850,
@@ -638,7 +677,8 @@
             "pt": "Torrijas tradicionais com um molho de chocolate cremoso",
             "fr": "Torrijas traditionnelles avec une sauce au chocolat crémeux",
             "de": "Traditionelle Torrijas mit einer cremigen Schokoladensauce",
-            "th": "โทริฆาสแบบดั้งเดิมกับซอสช็อกโกแลตครีมมี่"
+            "th": "โทริฆาสแบบดั้งเดิมกับซอสช็อกโกแลตครีมมี่",
+            "ru": "Традиционные торрихас с кремовым шоколадным соусом"
           }
         }
       ]
@@ -666,7 +706,8 @@
             "pt": "Focaccia grelhada, grão-de-bico e tomate",
             "fr": "Focaccia grillée, pois chiches et tomate",
             "de": "Gegrillte Focaccia, Kichererbsen und Tomate",
-            "th": "โฟคาเซียย่าง ถั่วชิกพี และมะเขือเทศ"
+            "th": "โฟคาเซียย่าง ถั่วชิกพี และมะเขือเทศ",
+            "ru": "Фокачча на гриле, нут и помидор"
           },
           "price": 3.0,
           "priceCents": 300,
@@ -680,7 +721,8 @@
             "pt": "Focaccia grelhada acompanhada de grão-de-bico e tomate fresco",
             "fr": "Focaccia grillée servie avec pois chiches et tomate frais",
             "de": "Gegrillte Focaccia serviert mit Kichererbsen und frischer Tomate",
-            "th": "โฟคาเซียย่างเสิร์ฟพร้อมถั่วชิกพีและมะเขือเทศสด"
+            "th": "โฟคาเซียย่างเสิร์ฟพร้อมถั่วชิกพีและมะเขือเทศสด",
+            "ru": "Фокачча на гриле, подается с нутом и свежим помидором"
           }
         }
       ]
@@ -707,7 +749,8 @@
             "pt": "Branco",
             "fr": "Blanc",
             "de": "Weiß",
-            "th": "ขาว"
+            "th": "ขาว",
+            "ru": "Белое"
           },
           "items": [
             {
@@ -719,7 +762,8 @@
                 "pt": "Belondrade, Belondrade y Lurton 2023",
                 "fr": "Belondrade, Belondrade y Lurton 2023",
                 "de": "Belondrade, Belondrade y Lurton 2023",
-                "th": "Belondrade, Belondrade y Lurton 2023"
+                "th": "Belondrade, Belondrade y Lurton 2023",
+                "ru": "Belondrade, Belondrade y Lurton 2023"
               },
               "price": 80.0,
               "priceCents": 8000,
@@ -734,7 +778,8 @@
                 "pt": "Vinho branco de Verdejo de Rueda, complexo e elegante",
                 "fr": "Vin blanc de Verdejo de Rueda, complexe et élégant",
                 "de": "Weißwein aus Verdejo aus Rueda, komplex und elegant",
-                "th": "ไวน์ขาวจาก Verdejo ใน Rueda, ซับซ้อนและหรูหรา"
+                "th": "ไวน์ขาวจาก Verdejo ใน Rueda, ซับซ้อนและหรูหรา",
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
               }
             },
             {
@@ -746,7 +791,8 @@
                 "pt": "Bernabeleva, Navahereos 2023",
                 "fr": "Bernabeleva, Navahereos 2023",
                 "de": "Bernabeleva, Navahereos 2023",
-                "th": "Bernabeleva, Navahereos 2023"
+                "th": "Bernabeleva, Navahereos 2023",
+                "ru": "Bernabeleva, Navahereos 2023"
               },
               "price": 5.5,
               "priceCents": 550,
@@ -760,7 +806,8 @@
                 "pt": "Vinho branco de Albillo Real de Madrid, fresco e equilibrado",
                 "fr": "Vin blanc d'Albillo Real de Madrid, frais et équilibré",
                 "de": "Weißwein aus Albillo Real aus Madrid, frisch und ausgewogen",
-                "th": "ไวน์ขาวจาก Albillo Real ในมาดริด, สดชื่นและสมดุล"
+                "th": "ไวน์ขาวจาก Albillo Real ในมาดริด, สดชื่นและสมดุล",
+                "ru": "Белое вино из Albillo Real в Мадриде, свежее и сбалансированное"
               }
             },
             {
@@ -772,7 +819,8 @@
                 "pt": "Ponce, Branco 2024",
                 "fr": "Ponce, Blanc 2024",
                 "de": "Ponce, Weiß 2024",
-                "th": "Ponce, Blanco 2024"
+                "th": "Ponce, Blanco 2024",
+                "ru": "Ponce, Blanco 2024"
               },
               "price": 30.0,
               "priceCents": 3000,
@@ -786,7 +834,8 @@
                 "pt": "Vinho branco de Albilla de Manchuela, elegante e aromático",
                 "fr": "Vin blanc d'Albilla de Manchuela, élégant et aromatique",
                 "de": "Weißwein aus Albilla de Manchuela, elegant und aromatisch",
-                "th": "ไวน์ขาวจาก Albilla de Manchuela, หรูหราและมีกลิ่นหอม"
+                "th": "ไวน์ขาวจาก Albilla de Manchuela, หรูหราและมีกลิ่นหอม",
+                "ru": "Белое вино из Albilla de Manchuela, элегантное и ароматное"
               }
             },
             {
@@ -798,7 +847,8 @@
                 "pt": "Château Pégau, Cuvée Lôné 2022",
                 "fr": "Château Pégau, Cuvée Lôné 2022",
                 "de": "Château Pégau, Cuvée Lôné 2022",
-                "th": "Château Pégau, Cuvée Lôné 2022"
+                "th": "Château Pégau, Cuvée Lôné 2022",
+                "ru": "Château Pégau, Cuvée Lôné 2022"
               },
               "price": 0.0,
               "priceCents": 0,
@@ -812,7 +862,8 @@
                 "pt": "Vinho branco de Côtes du Rhône com notas de Clairette, Burbulenc e Grenache Blanc",
                 "fr": "Vin blanc de Côtes du Rhône avec des notes de Clairette, Burbulenc et Grenache Blanc",
                 "de": "Weißwein aus Côtes du Rhône mit Noten von Clairette, Burbulenc und Grenache Blanc",
-                "th": "ไวน์ขาวจาก Côtes du Rhône ที่มีกลิ่นของ Clairette, Burbulenc และ Grenache Blanc"
+                "th": "ไวน์ขาวจาก Côtes du Rhône ที่มีกลิ่นของ Clairette, Burbulenc และ Grenache Blanc",
+                "ru": "Белое вино из Côtes du Rhône с нотами Clairette, Burbulenc и Grenache Blanc"
               }
             },
             {
@@ -824,7 +875,8 @@
                 "pt": "Castro Ventosa, El Castro de Valtuille 2023",
                 "fr": "Castro Ventosa, El Castro de Valtuille 2023",
                 "de": "Castro Ventosa, El Castro de Valtuille 2023",
-                "th": "Castro Ventosa, El Castro de Valtuille 2023"
+                "th": "Castro Ventosa, El Castro de Valtuille 2023",
+                "ru": "Castro Ventosa, El Castro de Valtuille 2023"
               },
               "price": 6.5,
               "priceCents": 650,
@@ -838,7 +890,8 @@
                 "pt": "Vinho branco de Godello de Bierzo, fresco e mineral",
                 "fr": "Vin blanc de Godello de Bierzo, frais et minéral",
                 "de": "Weißwein aus Godello aus Bierzo, frisch und mineralisch",
-                "th": "ไวน์ขาวจาก Godello ใน Bierzo, สดชื่นและมีแร่ธาตุ"
+                "th": "ไวน์ขาวจาก Godello ใน Bierzo, สดชื่นและมีแร่ธาตุ",
+                "ru": "Белое вино из Godello в Bierzo, свежее и минеральное"
               }
             },
             {
@@ -850,7 +903,8 @@
                 "pt": "Fattoria San Lorenzo, Le Oche, 2022",
                 "fr": "Fattoria San Lorenzo, Le Oche, 2022",
                 "de": "Fattoria San Lorenzo, Le Oche, 2022",
-                "th": "Fattoria San Lorenzo, Le Oche, 2022"
+                "th": "Fattoria San Lorenzo, Le Oche, 2022",
+                "ru": "Fattoria San Lorenzo, Le Oche, 2022"
               },
               "price": 39.0,
               "priceCents": 3900,
@@ -864,7 +918,8 @@
                 "pt": "Vinho branco de Verdicchio de Marche, complexo e estruturado",
                 "fr": "Vin blanc de Verdicchio de Marche, complexe et structuré",
                 "de": "Weißwein aus Verdicchio aus Marche, komplex und strukturiert",
-                "th": "ไวน์ขาวจาก Verdicchio ใน Marche, ซับซ้อนและมีโครงสร้าง"
+                "th": "ไวน์ขาวจาก Verdicchio ใน Marche, ซับซ้อนและมีโครงสร้าง",
+                "ru": "Белое вино из Вердехо из Руэда, сложное и элегантное"
               }
             },
             {
@@ -876,7 +931,8 @@
                 "pt": "Primitivo Collantes, Socaire 2021",
                 "fr": "Primitivo Collantes, Socaire 2021",
                 "de": "Primitivo Collantes, Socaire 2021",
-                "th": "Primitivo Collantes, Socaire 2021"
+                "th": "Primitivo Collantes, Socaire 2021",
+                "ru": "Primitivo Collantes, Socaire 2021"
               },
               "price": 40.0,
               "priceCents": 4000,
@@ -890,7 +946,8 @@
                 "pt": "Vinho branco de Palomino de Cádiz, intenso e salino",
                 "fr": "Vin blanc de Palomino de Cádiz, intense et salin",
                 "de": "Weißwein aus Palomino aus Cádiz, intensiv und salzig",
-                "th": "ไวน์ขาวจาก Palomino ใน Cádiz, เข้มข้นและเค็ม"
+                "th": "ไวน์ขาวจาก Palomino ใน Cádiz, เข้มข้นและเค็ม",
+                "ru": "Белое вино из Palomino в Кадисе, интенсивное и соленое"
               }
             },
             {
@@ -902,7 +959,8 @@
                 "pt": "Garnier, Chablis 2021",
                 "fr": "Garnier, Chablis 2021",
                 "de": "Garnier, Chablis 2021",
-                "th": "Garnier, Chablis 2021"
+                "th": "Garnier, Chablis 2021",
+                "ru": "Garnier, Chablis 2021"
               },
               "price": 47.0,
               "priceCents": 4700,
@@ -916,7 +974,8 @@
                 "pt": "Vinho branco de Chardonnay de Chablis, fresco e cítrico",
                 "fr": "Vin blanc de Chardonnay de Chablis, frais et citronné",
                 "de": "Weißwein aus Chardonnay aus Chablis, frisch und zitronig",
-                "th": "ไวน์ขาวจาก Chardonnay ใน Chablis, สดชื่นและมีกลิ่นมะนาว"
+                "th": "ไวน์ขาวจาก Chardonnay ใน Chablis, สดชื่นและมีกลิ่นมะนาว",
+                "ru": "Белое вино из Шардоне в Шабли, свежее и цитрусовое"
               }
             },
             {
@@ -928,7 +987,8 @@
                 "pt": "Bekka, Obeideh 2021",
                 "fr": "Bekka, Obeideh 2021",
                 "de": "Bekka, Obeideh 2021",
-                "th": "Bekka, Obeideh 2021"
+                "th": "Bekka, Obeideh 2021",
+                "ru": "Bekka, Obeideh 2021"
               },
               "price": 58.0,
               "priceCents": 5800,
@@ -942,7 +1002,8 @@
                 "pt": "Vinho branco de Obeideh do Líbano, exótico e aromático",
                 "fr": "Vin blanc d'Obeideh du Liban, exotique et aromatique",
                 "de": "Weißwein aus Obeideh aus dem Libanon, exotisch und aromatisch",
-                "th": "ไวน์ขาวจาก Obeideh ในเลบานอน, แปลกใหม่และมีกลิ่นหอม"
+                "th": "ไวน์ขาวจาก Obeideh ในเลบานอน, แปลกใหม่และมีกลิ่นหอม",
+                "ru": "Белое вино из Obeideh в Ливане, экзотическое и ароматное"
               }
             },
             {
@@ -954,7 +1015,8 @@
                 "pt": "Karamolegos, Cuvée 34 2021",
                 "fr": "Karamolegos, Cuvée 34 2021",
                 "de": "Karamolegos Cuvée 34 2021",
-                "th": "Karamolegos, Cuvée 34 2021"
+                "th": "Karamolegos, Cuvée 34 2021",
+                "ru": "Karamolegos, Cuvée 34 2021"
               },
               "price": 63.0,
               "priceCents": 6300,
@@ -968,7 +1030,8 @@
                 "pt": "Vinho branco de Assyrtiko de Santorini, mineral e estruturado",
                 "fr": "Vin blanc d'Assyrtiko de Santorini, minéral et structuré",
                 "de": "Weißwein aus Assyrtiko aus Santorini, mineralisch und strukturiert",
-                "th": "ไวน์ขาวจาก Assyrtiko ใน Santorini, แร่ธาตุและมีโครงสร้าง"
+                "th": "ไวน์ขาวจาก Assyrtiko ใน Santorini, แร่ธาตุและมีโครงสร้าง",
+                "ru": "Белое вино из Assyrtiko в Санторини, минеральное и структурированное"
               }
             }
           ]
@@ -981,7 +1044,8 @@
             "pt": "Tinto",
             "fr": "Rouge",
             "de": "Rot",
-            "th": "แดง"
+            "th": "แดง",
+            "ru": "Красное"
           },
           "items": []
         },
@@ -993,7 +1057,8 @@
             "pt": "Espumante",
             "fr": "Mousseux",
             "de": "Sekt",
-            "th": "ฟอง"
+            "th": "ฟอง",
+            "ru": "Игристое"
           },
           "items": []
         }
