@@ -187,7 +187,8 @@
         "en": "Cold Fresh and Raw",
         "pt": "Saladas Frias e Cruas",
         "fr": "Salades Froides Fraîches et Crues",
-        "de": "Kaltes Frisches und Rohes"
+        "de": "Kaltes Frisches und Rohes",
+        "th": "สลัดเย็นสดและดิบ"
       },
       "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/coldfresh.webp",
       "items": [
@@ -199,22 +200,22 @@
             "en": "Romaine lettuce, cured cheese, white balsamic vinaigrette",
             "pt": "Alface romana, queijo curado, vinagreta de balsâmico branco",
             "fr": "Laitue romaine, fromage affiné, vinaigrette au balsamique blanc",
-                      "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette",
-                      "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว"
-                    },
-                    "price": 12.0,
-                    "priceCents": 1200,
-                    "cover": "/lechuga_romana.webp",
-                    "allergens": [
-                      "dairy"
-                    ],
-                    "description": {
-                      "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
-                      "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
-                      "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
-                      "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
-                      "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette",
-                      "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว"
+            "de": "Römersalat, gereifter Käse, Weiße-Balsamico-Vinaigrette",
+            "th": "ผักกาดโรเมน ชีสหมัก น้ำสลัดบัลซามิกขาว"
+          },
+          "price": 12.0,
+          "priceCents": 1200,
+          "cover": "/lechuga_romana.webp",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Lechuga romana fresca con queso curado y vinagreta de balsámico blanco",
+            "en": "Fresh romaine lettuce with cured cheese and white balsamic vinaigrette",
+            "pt": "Alface romana fresca com queijo curado e vinagreta de balsâmico branco",
+            "fr": "Laitue romaine fraîche avec fromage affiné et vinaigrette au balsamique blanc",
+            "de": "Frischer Römersalat mit gereiftem Käse und Weiße-Balsamico-Vinaigrette",
+            "th": "ผักกาดโรเมนสดกับชีสหมักและน้ำสลัดบัลซามิกขาว"
           }
         },
         {
@@ -225,20 +226,20 @@
             "en": "Tomato, caper vinaigrette, black olive crumble",
             "pt": "Tomate, vinagreta de alcaparras, crumble de azeitona preta",
             "fr": "Tomate, vinaigrette aux câpres, crumble d'olive noire",
-                      "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel",
-                      "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ"
-                    },
-                    "price": 12.0,
-                    "priceCents": 1200,
-                    "cover": "/tomate_vinagreta.webp",
-                    "allergens": [],
-                    "description": {
-                      "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
-                      "en": "Fresh tomato with caper vinaigrette and black olive crumble",
-                      "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
-                      "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
-                      "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel",
-                      "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ"
+            "de": "Tomate, Kapernvinaigrette, schwarze Olivenkrümel",
+            "th": "มะเขือเทศ น้ำสลัดเคเปอร์ ครัมเบิลมะกอกดำ"
+          },
+          "price": 12.0,
+          "priceCents": 1200,
+          "cover": "/tomate_vinagreta.webp",
+          "allergens": [],
+          "description": {
+            "es": "Tomate fresco con vinagreta de alcaparras y crumble de aceituna negra",
+            "en": "Fresh tomato with caper vinaigrette and black olive crumble",
+            "pt": "Tomate fresco com vinagreta de alcaparras e crumble de azeitona preta",
+            "fr": "Tomate frais avec vinaigrette aux câpres et crumble d'olive noire",
+            "de": "Frischer Tomate mit Kapernvinaigrette und schwarze Olivenkrümel",
+            "th": "มะเขือเทศสดกับน้ำสลัดเคเปอร์และครัมเบิลมะกอกดำ"
           }
         },
         {
@@ -249,23 +250,23 @@
             "en": "Grape salad, cucumber, pistachio, feta cheese",
             "pt": "Salada de uvas, pepino, pistachio, queijo feta",
             "fr": "Salade de raisins, concombre, pistache, fromage feta",
-                      "de": "Traubensalat, Gurke, Pistazie, Feta-Käse",
-                      "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า"
-                    },
-                    "price": 13.0,
-                    "priceCents": 1300,
-                    "cover": "/ensalada_uvas.webp",
-                    "allergens": [
-                      "dairy",
-                      "nuts"
-                    ],
-                    "description": {
-                      "es": "Ensalada fresca de uvas, pepino, pistachos y queso feta",
-                      "en": "Fresh grape salad with cucumber, pistachios, and feta cheese",
-                      "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
-                      "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
-                      "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse",
-                      "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า"
+            "de": "Traubensalat, Gurke, Pistazie, Feta-Käse",
+            "th": "สลัดองุ่น แตงกวา พิสตาชิโอ ชีสเฟต้า"
+          },
+          "price": 13.0,
+          "priceCents": 1300,
+          "cover": "/ensalada_uvas.webp",
+          "allergens": [
+            "dairy",
+            "nuts"
+          ],
+          "description": {
+            "es": "Ensalada fresca de uvas, pepino, pistachos y queso feta",
+            "en": "Fresh grape salad with cucumber, pistachios, and feta cheese",
+            "pt": "Salada fresca de uvas, pepino, pistachios e queijo feta",
+            "fr": "Salade fraîche de raisins, concombre, pistaches et fromage feta",
+            "de": "Frischer Traubensalat mit Gurke, Pistazien und Feta-Käse",
+            "th": "สลัดองุ่นสดกับแตงกวา พิสตาชิโอ และชีสเฟต้า"
           }
         },
         {
@@ -276,22 +277,22 @@
             "en": "Lamb salad, tzatziki, aromatic herbs",
             "pt": "Salada de cordeiro, tzatziki, ervas aromáticas",
             "fr": "Salade d'agneau, tzatziki, herbes aromatiques",
-                      "de": "Lamm-Salat, Tzatziki, aromatische Kräuter",
-                      "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม"
-                    },
-                    "price": 18.0,
-                    "priceCents": 1800,
-                    "cover": "/ensalada_cordero.webp",
-                    "allergens": [
-                      "dairy"
-                    ],
-                    "description": {
-                      "es": "Ensalada de cordero tierno con tzatziki y hierbas aromáticas",
-                      "en": "Tender lamb salad with tzatziki and aromatic herbs",
-                      "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
-                      "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
-                      "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern",
-                      "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม"
+            "de": "Lamm-Salat, Tzatziki, aromatische Kräuter",
+            "th": "สลัดแกะ ซาซิกิ สมุนไพรหอม"
+          },
+          "price": 18.0,
+          "priceCents": 1800,
+          "cover": "/ensalada_cordero.webp",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Ensalada de cordero tierno con tzatziki y hierbas aromáticas",
+            "en": "Tender lamb salad with tzatziki and aromatic herbs",
+            "pt": "Salada de cordeiro tenro com tzatziki e ervas aromáticas",
+            "fr": "Salade d'agneau tendre avec tzatziki et herbes aromatiques",
+            "de": "Zarter Lamm-Salat mit Tzatziki und aromatischen Kräutern",
+            "th": "สลัดแกะเนื้อนุ่มกับซาซิกิและสมุนไพรหอม"
           }
         },
         {
@@ -302,22 +303,22 @@
             "en": "Red shrimp carpaccio, charred chili, aromatic oil",
             "pt": "Carpaccio de camarão vermelho, pimenta queimada, óleo aromático",
             "fr": "Carpaccio de crevette rouge, piment grillé, huile aromatique",
-                      "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl",
-                      "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม"
-                    },
-                    "price": 24.0,
-                    "priceCents": 2400,
-                    "cover": "/carpaccio_gamba.webp",
-                    "allergens": [
-                      "shellfish"
-                    ],
-                    "description": {
-                      "es": "Carpaccio de gamba roja con chile tatema y aceite aromático",
-                      "en": "Red shrimp carpaccio with charred chili and aromatic oil",
-                      "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
-                      "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
-                      "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl",
-                      "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม"
+            "de": "Roter Garnelen-Carpaccio, gegrillter Chili, aromatisches Öl",
+            "th": "คาร์ปาชโชกุ้งแดง พริกย่าง น้ำมันหอม"
+          },
+          "price": 24.0,
+          "priceCents": 2400,
+          "cover": "/carpaccio_gamba.webp",
+          "allergens": [
+            "shellfish"
+          ],
+          "description": {
+            "es": "Carpaccio de gamba roja con chile tatema y aceite aromático",
+            "en": "Red shrimp carpaccio with charred chili and aromatic oil",
+            "pt": "Carpaccio de camarão vermelho com pimenta queimada e óleo aromático",
+            "fr": "Carpaccio de crevette rouge avec piment grillé et huile aromatique",
+            "de": "Roter Garnelen-Carpaccio mit gegrilltem Chili und aromatisches Öl",
+            "th": "คาร์ปาชโชกุ้งแดงกับพริกย่างและน้ำมันหอม"
           }
         },
         {
@@ -328,23 +329,23 @@
             "en": "Blue fish tartare, Mediterranean pico de gallo, Greek yogurt",
             "pt": "Tártaro de peixe azul, pico de gallo mediterrâneo, iogurte grego",
             "fr": "Tartare de poisson bleu, pico de gallo méditerranéen, yaourt grec",
-                      "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt",
-                      "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก"
-                    },
-                    "price": 19.0,
-                    "priceCents": 1900,
-                    "cover": "/tartar_pescado.webp",
-                    "allergens": [
-                      "fish",
-                      "dairy"
-                    ],
-                    "description": {
-                      "es": "Tartar de pescado azul con pico de gallo mediterráneo y yogur griego",
-                      "en": "Blue fish tartare with Mediterranean pico de gallo and Greek yogurt",
-                      "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
-                      "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
-                      "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt",
-                      "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก"
+            "de": "Blaufisch-Tartar, mediterranes Pico de Gallo, griechischer Joghurt",
+            "th": "ทาร์ทาร์ปลาน้ำเงิน พิโกเดอกัลโล เมดิเตอร์เรเนียน โยเกิร์ตกรีก"
+          },
+          "price": 19.0,
+          "priceCents": 1900,
+          "cover": "/tartar_pescado.webp",
+          "allergens": [
+            "fish",
+            "dairy"
+          ],
+          "description": {
+            "es": "Tartar de pescado azul con pico de gallo mediterráneo y yogur griego",
+            "en": "Blue fish tartare with Mediterranean pico de gallo and Greek yogurt",
+            "pt": "Tártaro de peixe azul com pico de gallo mediterrâneo e iogurte grego",
+            "fr": "Tartare de poisson bleu avec pico de gallo méditerranéen et yaourt grec",
+            "de": "Blaufisch-Tartar mit mediterranem Pico de Gallo und griechischem Joghurt",
+            "th": "ทาร์ทาร์ปลาน้ำเงินกับพิโกเดอกัลโลเมดิเตอร์เรเนียนและโยเกิร์ตกรีก"
           }
         },
         {
@@ -355,22 +356,22 @@
             "en": "Steak tartare, pecorino, mustard seeds, olive oil crackers",
             "pt": "Steak tartare, pecorino, sementes de mostarda, crackers de azeite",
             "fr": "Steak tartare, pecorino, graines de moutarde, crackers à l'huile d'olive",
-                      "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker",
-                      "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก"
-                    },
-                    "price": 19.5,
-                    "priceCents": 1950,
-                    "cover": "/steak_tartar.webp",
-                    "allergens": [
-                      "dairy"
-                    ],
-                    "description": {
-                      "es": "Steak tartar con pecorino, semillas de mostaza y crackers de aceite de oliva",
-                      "en": "Steak tartare with pecorino, mustard seeds, and olive oil crackers",
-                      "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
-                      "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
-                      "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker",
-                      "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก"
+            "de": "Steak-Tartar, Pecorino, Senfkörner, Olivenöl-Cracker",
+            "th": "สเต็กทาร์ทาร์ เปโครีโน เมล็ดมัสตาร์ด แครกเกอร์น้ำมันมะกอก"
+          },
+          "price": 19.5,
+          "priceCents": 1950,
+          "cover": "/steak_tartar.webp",
+          "allergens": [
+            "dairy"
+          ],
+          "description": {
+            "es": "Steak tartar con pecorino, semillas de mostaza y crackers de aceite de oliva",
+            "en": "Steak tartare with pecorino, mustard seeds, and olive oil crackers",
+            "pt": "Steak tartare com pecorino, sementes de mostarda e crackers de azeite",
+            "fr": "Steak tartare avec pecorino, graines de moutarde et crackers à l'huile d'olive",
+            "de": "Steak-Tartar mit Pecorino, Senfkörnern und Olivenöl-Cracker",
+            "th": "สเต็กทาร์ทาร์กับเปโครีโน เมล็ดมัสตาร์ด และแครกเกอร์น้ำมันมะกอก"
           }
         }
       ]
