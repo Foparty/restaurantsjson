@@ -1037,19 +1037,6 @@
           ]
         },
         {
-          "slug": "red",
-          "name_i18n": {
-            "es": "Tinto",
-            "en": "Red",
-            "pt": "Tinto",
-            "fr": "Rouge",
-            "de": "Rot",
-            "th": "แดง",
-            "ru": "Красное"
-          },
-          "items": []
-        },
-        {
           "slug": "sparkling",
           "name_i18n": {
             "es": "Espumoso",
@@ -1179,6 +1166,738 @@
                 "de": "Champagner Brut mit Meunier, Pinot Noir und Chardonnay, frisch und ausgewogen",
                 "th": "แชมเปญ Brut กับ Meunier, Pinot Noir และ Chardonnay, สดชื่นและสมดุล",
                 "ru": "Шампанское Brut с Meunier, Pinot Noir и Chardonnay, свежее и сбалансированное"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "orange",
+          "name_i18n": {
+            "es": "Naranja",
+            "en": "Orange",
+            "pt": "Laranja",
+            "fr": "Orange",
+            "de": "Orange",
+            "th": "ส้ม",
+            "ru": "Оранжевое"
+          },
+          "items": [
+            {
+              "id": 221,
+              "name_i18n": {
+                "common": "celler_frisach_la_forada",
+                "es": "Celler Frisach, La Forada 2022",
+                "en": "Celler Frisach, La Forada 2022",
+                "pt": "Celler Frisach, La Forada 2022",
+                "fr": "Celler Frisach, La Forada 2022",
+                "de": "Celler Frisach, La Forada 2022",
+                "th": "Celler Frisach, La Forada 2022",
+                "ru": "Celler Frisach, La Forada 2022"
+              },
+              "price": 34.00,
+              "cover": "/celler_frisach_la_forada.webp",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Grenache Blanc de Terra Alta, complejo y estructurado",
+                "en": "Orange wine from Grenache Blanc in Terra Alta, complex and structured",
+                "pt": "Vinho laranja de Grenache Blanc de Terra Alta, complexo e estruturado",
+                "fr": "Vin orange de Grenache Blanc de Terra Alta, complexe et structuré",
+                "de": "Orangwein aus Grenache Blanc aus Terra Alta, komplex und strukturiert",
+                "th": "ไวน์ส้มจาก Grenache Blanc ใน Terra Alta, ซับซ้อนและมีโครงสร้าง",
+                "ru": "Оранжевое вино из Grenache Blanc в Terra Alta, сложное и структурированное"
+              }
+            },
+            {
+              "id": 222,
+              "name_i18n": {
+                "common": "fabio_coulet_orange_peels",
+                "es": "Fabio Coulet, Orange Peels 2023",
+                "en": "Fabio Coulet, Orange Peels 2023",
+                "pt": "Fabio Coulet, Orange Peels 2023",
+                "fr": "Fabio Coulet, Orange Peels 2023",
+                "de": "Fabio Coulet, Orange Peels 2023",
+                "th": "Fabio Coulet, Orange Peels 2023",
+                "ru": "Fabio Coulet, Orange Peels 2023"
+              },
+              "price": 46.00,
+              "cover": "/fabio_coulet_orange_peels.webp",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Muscat of Alexandria de Málaga, aromático y único",
+                "en": "Orange wine from Muscat of Alexandria in Málaga, aromatic and unique",
+                "pt": "Vinho laranja de Muscat of Alexandria de Málaga, aromático e único",
+                "fr": "Vin orange de Muscat of Alexandria de Málaga, aromatique et unique",
+                "de": "Orangwein aus Muscat of Alexandria aus Málaga, aromatisch und einzigartig",
+                "th": "ไวน์ส้มจาก Muscat of Alexandria ในมาลากา, มีกลิ่นหอมและไม่เหมือนใคร",
+                "ru": "Оранжевое вино из Muscat of Alexandria в Малаге, ароматное и уникальное"
+              }
+            },
+            {
+              "id": 223,
+              "name_i18n": {
+                "common": "i_cacciagalli_zgreo",
+                "es": "I Cacciagalli, Zgreo 2022",
+                "en": "I Cacciagalli, Zgreo 2022",
+                "pt": "I Cacciagalli, Zgreo 2022",
+                "fr": "I Cacciagalli, Zgreo 2022",
+                "de": "I Cacciagalli, Zgreo 2022",
+                "th": "I Cacciagalli, Zgreo 2022",
+                "ru": "I Cacciagalli, Zgreo 2022"
+              },
+              "price": 50.00,
+              "cover": "/i_cacciagalli_zgreo.webp",
+              "category": {
+                "common": "orange_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino naranja de Fiano de Roccamonfina, intenso y terroso",
+                "en": "Orange wine from Fiano in Roccamonfina, intense and earthy",
+                "pt": "Vinho laranja de Fiano de Roccamonfina, intenso e terroso",
+                "fr": "Vin orange de Fiano de Roccamonfina, intense et terreux",
+                "de": "Orangwein aus Fiano aus Roccamonfina, intensiv und erdig",
+                "th": "ไวน์ส้มจาก Fiano ใน Roccamonfina, เข้มข้นและมีดิน",
+                "ru": "Оранжевое вино из Fiano в Roccamonfina, интенсивное и землянистое"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "rose",
+          "name_i18n": {
+            "es": "Rosado",
+            "en": "Rosé",
+            "pt": "Rosé",
+            "fr": "Rosé",
+            "de": "Rosé",
+            "th": "กุหลาบ",
+            "ru": "Розовое"
+          },
+          "items": [
+            {
+              "id": 231,
+              "name_i18n": {
+                "common": "soto_manrique_naranjas_azules",
+                "es": "Soto Manrique, Naranjas Azules 2023",
+                "en": "Soto Manrique, Naranjas Azules 2023",
+                "pt": "Soto Manrique, Naranjas Azules 2023",
+                "fr": "Soto Manrique, Naranjas Azules 2023",
+                "de": "Soto Manrique, Naranjas Azules 2023",
+                "th": "Soto Manrique, Naranjas Azules 2023",
+                "ru": "Soto Manrique, Naranjas Azules 2023"
+              },
+              "price": 4.50,
+              "cover": "/soto_manrique_naranjas_azules.webp",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Grenache de Madrid, fresco y frutal",
+                "en": "Rosé wine from Grenache in Madrid, fresh and fruity",
+                "pt": "Vinho rosé de Grenache de Madrid, fresco e frutado",
+                "fr": "Vin rosé de Grenache de Madrid, frais et fruité",
+                "de": "Roséwein aus Grenache aus Madrid, frisch und fruchtig",
+                "th": "ไวน์โรเซ่จาก Grenache ในมาดริด, สดชื่นและผลไม้",
+                "ru": "Розовое вино из Grenache в Мадриде, свежее и фруктовое"
+              }
+            },
+            {
+              "id": 232,
+              "name_i18n": {
+                "common": "miraval_rose",
+                "es": "Miraval, Rosé 2024",
+                "en": "Miraval, Rosé 2024",
+                "pt": "Miraval, Rosé 2024",
+                "fr": "Miraval, Rosé 2024",
+                "de": "Miraval, Rosé 2024",
+                "th": "Miraval, Rosé 2024",
+                "ru": "Miraval, Rosé 2024"
+              },
+              "price": 44.00,
+              "cover": "/miraval_rose.webp",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Côtes de Provence con Cinsault, Grenache, Rolle y Syrah",
+                "en": "Rosé wine from Côtes de Provence with Cinsault, Grenache, Rolle, and Syrah",
+                "pt": "Vinho rosé de Côtes de Provence com Cinsault, Grenache, Rolle e Syrah",
+                "fr": "Vin rosé de Côtes de Provence avec Cinsault, Grenache, Rolle et Syrah",
+                "de": "Roséwein aus Côtes de Provence mit Cinsault, Grenache, Rolle und Syrah",
+                "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Cinsault, Grenache, Rolle และ Syrah",
+                "ru": "Розовое вино из Côtes de Provence с Cinsault, Grenache, Rolle и Syrah"
+              }
+            },
+            {
+              "id": 233,
+              "name_i18n": {
+                "common": "clos_cibonne_cuvee_vignettes",
+                "es": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "en": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "pt": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "fr": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "de": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "th": "Clos Cibonne, Cuvée des Vignettes 2022",
+                "ru": "Clos Cibonne, Cuvée des Vignettes 2022"
+              },
+              "price": 64.00,
+              "cover": "/clos_cibonne_cuvee_vignettes.webp",
+              "category": {
+                "common": "rose_wine"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino rosado de Côtes de Provence con Tibouren y Grenache",
+                "en": "Rosé wine from Côtes de Provence with Tibouren and Grenache",
+                "pt": "Vinho rosé de Côtes de Provence com Tibouren e Grenache",
+                "fr": "Vin rosé de Côtes de Provence avec Tibouren et Grenache",
+                "de": "Roséwein aus Côtes de Provence mit Tibouren und Grenache",
+                "th": "ไวน์โรเซ่จาก Côtes de Provence ที่มี Tibouren และ Grenache",
+                "ru": "Розовое вино из Côtes de Provence с Tibouren и Grenache"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "red",
+          "name_i18n": {
+            "es": "Tinto",
+            "en": "Red",
+            "pt": "Tinto",
+            "fr": "Rouge",
+            "de": "Rot",
+            "th": "แดง",
+            "ru": "Красное"
+          },
+          "items": [
+            {
+              "id": 241,
+              "name_i18n": {
+                "common": "montelaguna_tinto",
+                "es": "Montelaguna, Tinto 2023",
+                "en": "Montelaguna, Tinto 2023",
+                "pt": "Montelaguna, Tinto 2023",
+                "fr": "Montelaguna, Tinto 2023",
+                "de": "Montelaguna, Tinto 2023",
+                "th": "Montelaguna, Tinto 2023",
+                "ru": "Montelaguna, Tinto 2023"
+              },
+              "price": 5.25,
+              "cover": "/montelaguna_tinto.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo de Ribera del Duero, fresco y equilibrado",
+                "en": "Red wine from Tempranillo in Ribera del Duero, fresh and balanced",
+                "pt": "Vinho tinto de Tempranillo de Ribera del Duero, fresco e equilibrado",
+                "fr": "Vin rouge de Tempranillo de Ribera del Duero, frais et équilibré",
+                "de": "Rotwein aus Tempranillo aus Ribera del Duero, frisch und ausgewogen",
+                "th": "ไวน์แดงจาก Tempranillo ใน Ribera del Duero, สดชื่นและสมดุล",
+                "ru": "Красное вино из Tempranillo в Ribera del Duero, свежее и сбалансированное"
+              }
+            },
+            {
+              "id": 242,
+              "name_i18n": {
+                "common": "guimaro_tinto",
+                "es": "Guimaro, Tinto 2024",
+                "en": "Guimaro, Tinto 2024",
+                "pt": "Guimaro, Tinto 2024",
+                "fr": "Guimaro, Tinto 2024",
+                "de": "Guimaro, Tinto 2024",
+                "th": "Guimaro, Tinto 2024",
+                "ru": "Guimaro, Tinto 2024"
+              },
+              "price": 5.26,
+              "cover": "/guimaro_tinto.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mencía, Brancellao, Trousseau y otras variedades de Ribeira Sacra",
+                "en": "Red wine from Mencía, Brancellao, Trousseau, and other varieties in Ribeira Sacra",
+                "pt": "Vinho tinto de Mencía, Brancellao, Trousseau e outras variedades de Ribeira Sacra",
+                "fr": "Vin rouge de Mencía, Brancellao, Trousseau et autres variétés de Ribeira Sacra",
+                "de": "Rotwein aus Mencía, Brancellao, Trousseau und anderen Sorten aus Ribeira Sacra",
+                "th": "ไวน์แดงจาก Mencía, Brancellao, Trousseau และพันธุ์อื่น ๆ ใน Ribeira Sacra",
+                "ru": "Красное вино из Mencía, Brancellao, Trousseau и других сортов в Ribeira Sacra"
+              }
+            },
+            {
+              "id": 243,
+              "name_i18n": {
+                "common": "vina_del_lentisco",
+                "es": "Viña del Lentisco, Selvaveda 2022",
+                "en": "Viña del Lentisco, Selvaveda 2022",
+                "pt": "Viña del Lentisco, Selvaveda 2022",
+                "fr": "Viña del Lentisco, Selvaveda 2022",
+                "de": "Viña del Lentisco, Selvaveda 2022",
+                "th": "Viña del Lentisco, Selvaveda 2022",
+                "ru": "Viña del Lentisco, Selvaveda 2022"
+              },
+              "price": 26.00,
+              "cover": "/vina_del_lentisco.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo, Graciano, Grenache y Carignan de Rioja",
+                "en": "Red wine from Tempranillo, Graciano, Grenache, and Carignan in Rioja",
+                "pt": "Vinho tinto de Tempranillo, Graciano, Grenache e Carignan de Rioja",
+                "fr": "Vin rouge de Tempranillo, Graciano, Grenache et Carignan de Rioja",
+                "de": "Rotwein aus Tempranillo, Graciano, Grenache und Carignan aus Rioja",
+                "th": "ไวน์แดงจาก Tempranillo, Graciano, Grenache และ Carignan ใน Rioja",
+                "ru": "Красное вино из Tempranillo, Graciano, Grenache и Carignan в Риохе"
+              }
+            },
+            {
+              "id": 244,
+              "name_i18n": {
+                "common": "vinedos_de_remelluri",
+                "es": "Viñedos de Remelluri, Labastida 2021",
+                "en": "Viñedos de Remelluri, Labastida 2021",
+                "pt": "Viñedos de Remelluri, Labastida 2021",
+                "fr": "Viñedos de Remelluri, Labastida 2021",
+                "de": "Viñedos de Remelluri, Labastida 2021",
+                "th": "Viñedos de Remelluri, Labastida 2021",
+                "ru": "Viñedos de Remelluri, Labastida 2021"
+              },
+              "price": 39.00,
+              "cover": "/vinedos_de_remelluri.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Tempranillo, Grenache y Graciano de Rioja",
+                "en": "Red wine from Tempranillo, Grenache, and Graciano in Rioja",
+                "pt": "Vinho tinto de Tempranillo, Grenache e Graciano de Rioja",
+                "fr": "Vin rouge de Tempranillo, Grenache et Graciano de Rioja",
+                "de": "Rotwein aus Tempranillo, Grenache und Graciano aus Rioja",
+                "th": "ไวน์แดงจาก Tempranillo, Grenache และ Graciano ใน Rioja",
+                "ru": "Красное вино из Tempranillo, Grenache и Graciano в Риохе"
+              }
+            },
+            {
+              "id": 245,
+              "name_i18n": {
+                "common": "borgogno_rivata",
+                "es": "Borgogno Rivata, Nebbiolo 2022",
+                "en": "Borgogno Rivata, Nebbiolo 2022",
+                "pt": "Borgogno Rivata, Nebbiolo 2022",
+                "fr": "Borgogno Rivata, Nebbiolo 2022",
+                "de": "Borgogno Rivata, Nebbiolo 2022",
+                "th": "Borgogno Rivata, Nebbiolo 2022",
+                "ru": "Borgogno Rivata, Nebbiolo 2022"
+              },
+              "price": 39.00,
+              "cover": "/borgogno_rivata.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Nebbiolo de Langhe, elegante y tánico",
+                "en": "Red wine from Nebbiolo in Langhe, elegant and tannic",
+                "pt": "Vinho tinto de Nebbiolo de Langhe, elegante e tânico",
+                "fr": "Vin rouge de Nebbiolo de Langhe, élégant et tannique",
+                "de": "Rotwein aus Nebbiolo aus Langhe, elegant und tanninhaltig",
+                "th": "ไวน์แดงจาก Nebbiolo ใน Langhe, หรูหราและแทนนิค",
+                "ru": "Красное вино из Nebbiolo в Langhe, элегантное и танинное"
+              }
+            },
+            {
+              "id": 246,
+              "name_i18n": {
+                "common": "graillot_domaine_ouleb",
+                "es": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "en": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "pt": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "fr": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "de": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "th": "Graillot, Domaine des Ouleb, Thaleh 2022",
+                "ru": "Graillot, Domaine des Ouleb, Thaleh 2022"
+              },
+              "price": 39.00,
+              "cover": "/graillot_domaine_ouleb.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Syrah de Meknès, potente y especiado",
+                "en": "Red wine from Syrah in Meknès, powerful and spiced",
+                "pt": "Vinho tinto de Syrah de Meknès, potente e especiado",
+                "fr": "Vin rouge de Syrah de Meknès, puissant et épicé",
+                "de": "Rotwein aus Syrah aus Meknès, kräftig und gewürzt",
+                "th": "ไวน์แดงจาก Syrah ใน Meknès, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Syrah в Мекнесе, мощное и пряное"
+              }
+            },
+            {
+              "id": 247,
+              "name_i18n": {
+                "common": "4kilos_tanuki_bob",
+                "es": "4Kilos, Tanuki Bob 2022",
+                "en": "4Kilos, Tanuki Bob 2022",
+                "pt": "4Kilos, Tanuki Bob 2022",
+                "fr": "4Kilos, Tanuki Bob 2022",
+                "de": "4Kilos, Tanuki Bob 2022",
+                "th": "4Kilos, Tanuki Bob 2022",
+                "ru": "4Kilos, Tanuki Bob 2022"
+              },
+              "price": 39.00,
+              "cover": "/4kilos_tanuki_bob.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mantonegro y Syrah de Mallorca, frutal y vivaz",
+                "en": "Red wine from Mantonegro and Syrah in Mallorca, fruity and lively",
+                "pt": "Vinho tinto de Mantonegro e Syrah de Mallorca, frutado e vibrante",
+                "fr": "Vin rouge de Mantonegro et Syrah de Mallorca, fruité et vif",
+                "de": "Rotwein aus Mantonegro und Syrah aus Mallorca, fruchtig und lebendig",
+                "th": "ไวน์แดงจาก Mantonegro และ Syrah ในมอลตา, ผลไม้และมีชีวิตชีวา",
+                "ru": "Красное вино из Mantonegro и Syrah на Майорке, фруктовое и живое"
+              }
+            },
+            {
+              "id": 248,
+              "name_i18n": {
+                "common": "mittas_xinomavro",
+                "es": "Mittas, Xinomavro 2021",
+                "en": "Mittas, Xinomavro 2021",
+                "pt": "Mittas, Xinomavro 2021",
+                "fr": "Mittas, Xinomavro 2021",
+                "de": "Mittas, Xinomavro 2021",
+                "th": "Mittas, Xinomavro 2021",
+                "ru": "Mittas, Xinomavro 2021"
+              },
+              "price": 40.00,
+              "cover": "/mittas_xinomavro.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Xinomavro de Naoussa, robusto y terroso",
+                "en": "Red wine from Xinomavro in Naoussa, robust and earthy",
+                "pt": "Vinho tinto de Xinomavro de Naoussa, robusto e terroso",
+                "fr": "Vin rouge de Xinomavro de Naoussa, robuste et terreux",
+                "de": "Rotwein aus Xinomavro aus Naoussa, robust und erdig",
+                "th": "ไวน์แดงจาก Xinomavro ใน Naoussa, แข็งแกร่งและมีดิน",
+                "ru": "Красное вино из Xinomavro в Науссе, крепкое и землянистое"
+              }
+            },
+            {
+              "id": 249,
+              "name_i18n": {
+                "common": "vinas_mora_andreis",
+                "es": "Vinas Mora, Andreis, 2021",
+                "en": "Vinas Mora, Andreis, 2021",
+                "pt": "Vinas Mora, Andreis, 2021",
+                "fr": "Vinas Mora, Andreis, 2021",
+                "de": "Vinas Mora, Andreis, 2021",
+                "th": "Vinas Mora, Andreis, 2021",
+                "ru": "Vinas Mora, Andreis, 2021"
+              },
+              "price": 47.00,
+              "cover": "/vinas_mora_andreis.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Babic de Primošten, intenso y especiado",
+                "en": "Red wine from Babic in Primošten, intense and spiced",
+                "pt": "Vinho tinto de Babic de Primošten, intenso e especiado",
+                "fr": "Vin rouge de Babic de Primošten, intense et épicé",
+                "de": "Rotwein aus Babic aus Primošten, intensiv und gewürzt",
+                "th": "ไวน์แดงจาก Babic ใน Primošten, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Babic в Примоштене, интенсивное и пряное"
+              }
+            },
+            {
+              "id": 250,
+              "name_i18n": {
+                "common": "galleyty_rouge",
+                "es": "Gallety, Rouge 2021",
+                "en": "Gallety, Rouge 2021",
+                "pt": "Gallety, Rouge 2021",
+                "fr": "Gallety, Rouge 2021",
+                "de": "Gallety, Rouge 2021",
+                "th": "Gallety, Rouge 2021",
+                "ru": "Gallety, Rouge 2021"
+              },
+              "price": 48.00,
+              "cover": "/gallety_rouge.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Grenache y Syrah de Côtes de Vivarais, robusto y frutal",
+                "en": "Red wine from Grenache and Syrah in Côtes de Vivarais, robust and fruity",
+                "pt": "Vinho tinto de Grenache e Syrah de Côtes de Vivarais, robusto e frutado",
+                "fr": "Vin rouge de Grenache et Syrah de Côtes de Vivarais, robuste et fruité",
+                "de": "Rotwein aus Grenache und Syrah aus Côtes de Vivarais, robust und fruchtig",
+                "th": "ไวน์แดงจาก Grenache และ Syrah ใน Côtes de Vivarais, แข็งแกร่งและผลไม้",
+                "ru": "Красное вино из Grenache и Syrah в Côtes de Vivarais, крепкое и фруктовое"
+              }
+            },
+            {
+              "id": 251,
+              "name_i18n": {
+                "common": "parparoussis_epilegmenos",
+                "es": "Parparoussis, Epilegmenos Reserva 2016",
+                "en": "Parparoussis, Epilegmenos Reserva 2016",
+                "pt": "Parparoussis, Epilegmenos Reserva 2016",
+                "fr": "Parparoussis, Epilegmenos Reserva 2016",
+                "de": "Parparoussis, Epilegmenos Reserva 2016",
+                "th": "Parparoussis, Epilegmenos Reserva 2016",
+                "ru": "Parparoussis, Epilegmenos Reserva 2016"
+              },
+              "price": 58.00,
+              "cover": "/parparoussis_epilegmenos.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Agiorgitiko de Nemea, maduro y complejo",
+                "en": "Red wine from Agiorgitiko in Nemea, mature and complex",
+                "pt": "Vinho tinto de Agiorgitiko de Nemea, maduro e complexo",
+                "fr": "Vin rouge de Agiorgitiko de Nemea, mûr et complexe",
+                "de": "Rotwein aus Agiorgitiko aus Nemea, reif und komplex",
+                "th": "ไวน์แดงจาก Agiorgitiko ใน Nemea, สุกและซับซ้อน",
+                "ru": "Красное вино из Agiorgitiko в Немеа, зрелое и сложное"
+              }
+            },
+            {
+              "id": 252,
+              "name_i18n": {
+                "common": "le_chiuse_rosso",
+                "es": "Le Chiuse, Rosso 2019",
+                "en": "Le Chiuse, Rosso 2019",
+                "pt": "Le Chiuse, Rosso 2019",
+                "fr": "Le Chiuse, Rosso 2019",
+                "de": "Le Chiuse, Rosso 2019",
+                "th": "Le Chiuse, Rosso 2019",
+                "ru": "Le Chiuse, Rosso 2019"
+              },
+              "price": 58.00,
+              "cover": "/le_chiuse_rosso.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Sangiovese de Rosso di Montalcino, elegante y estructurado",
+                "en": "Red wine from Sangiovese in Rosso di Montalcino, elegant and structured",
+                "pt": "Vinho tinto de Sangiovese de Rosso di Montalcino, elegante e estruturado",
+                "fr": "Vin rouge de Sangiovese de Rosso di Montalcino, élégant et structuré",
+                "de": "Rotwein aus Sangiovese aus Rosso di Montalcino, elegant und strukturiert",
+                "th": "ไวน์แดงจาก Sangiovese ใน Rosso di Montalcino, หรูหราและมีโครงสร้าง",
+                "ru": "Красное вино из Sangiovese в Rosso di Montalcino, элегантное и структурированное"
+              }
+            },
+            {
+              "id": 253,
+              "name_i18n": {
+                "common": "jean_fery_sous_la_cabotte",
+                "es": "Jean Féry, Sous La Cabotte 2022",
+                "en": "Jean Féry, Sous La Cabotte 2022",
+                "pt": "Jean Féry, Sous La Cabotte 2022",
+                "fr": "Jean Féry, Sous La Cabotte 2022",
+                "de": "Jean Féry, Sous La Cabotte 2022",
+                "th": "Jean Féry, Sous La Cabotte 2022",
+                "ru": "Jean Féry, Sous La Cabotte 2022"
+              },
+              "price": 77.00,
+              "cover": "/jean_fery_sous_la_cabotte.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Pinot Noir de Savigny-les-Beaune, delicado y complejo",
+                "en": "Red wine from Pinot Noir in Savigny-les-Beaune, delicate and complex",
+                "pt": "Vinho tinto de Pinot Noir de Savigny-les-Beaune, delicado e complexo",
+                "fr": "Vin rouge de Pinot Noir de Savigny-les-Beaune, délicat et complexe",
+                "de": "Rotwein aus Pinot Noir aus Savigny-les-Beaune, zart und komplex",
+                "th": "ไวน์แดงจาก Pinot Noir ใน Savigny-les-Beaune, ละเอียดอ่อนและซับซ้อน",
+                "ru": "Красное вино из Pinot Noir в Савиньи-ле-Бอน, нежное и сложное"
+              }
+            },
+            {
+              "id": 254,
+              "name_i18n": {
+                "common": "chateau_de_pibarnon_rouge",
+                "es": "Château de Pibarnon, Rouge 2019",
+                "en": "Château de Pibarnon, Rouge 2019",
+                "pt": "Château de Pibarnon, Rouge 2019",
+                "fr": "Château de Pibarnon, Rouge 2019",
+                "de": "Château de Pibarnon, Rouge 2019",
+                "th": "Château de Pibarnon, Rouge 2019",
+                "ru": "Château de Pibarnon, Rouge 2019"
+              },
+              "price": 89.00,
+              "cover": "/chateau_de_pibarnon_rouge.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Mourvèdre y Grenache de Bandol, intenso y especiado",
+                "en": "Red wine from Mourvèdre and Grenache in Bandol, intense and spiced",
+                "pt": "Vinho tinto de Mourvèdre e Grenache de Bandol, intenso e especiado",
+                "fr": "Vin rouge de Mourvèdre et Grenache de Bandol, intense et épicé",
+                "de": "Rotwein aus Mourvèdre und Grenache aus Bandol, intensiv und gewürzt",
+                "th": "ไวน์แดงจาก Mourvèdre และ Grenache ใน Bandol, เข้มข้นและมีเครื่องเทศ",
+                "ru": "Красное вино из Mourvèdre и Grenache в Бандоле, интенсивное и пряное"
+              }
+            },
+            {
+              "id": 255,
+              "name_i18n": {
+                "common": "chateau_musar_rouge",
+                "es": "Château Musar, Rouge 2017",
+                "en": "Château Musar, Rouge 2017",
+                "pt": "Château Musar, Rouge 2017",
+                "fr": "Château Musar, Rouge 2017",
+                "de": "Château Musar, Rouge 2017",
+                "th": "Château Musar, Rouge 2017",
+                "ru": "Château Musar, Rouge 2017"
+              },
+              "price": 91.00,
+              "cover": "/chateau_musar_rouge.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Ghazir con Cabernet Sauvignon, Cinsault y Carignan, maduro y rico",
+                "en": "Red wine from Ghazir with Cabernet Sauvignon, Cinsault, and Carignan, mature and rich",
+                "pt": "Vinho tinto de Ghazir com Cabernet Sauvignon, Cinsault e Carignan, maduro e rico",
+                "fr": "Vin rouge de Ghazir avec Cabernet Sauvignon, Cinsault et Carignan, mûr et riche",
+                "de": "Rotwein aus Ghazir mit Cabernet Sauvignon, Cinsault und Carignan, reif und reich",
+                "th": "ไวน์แดงจาก Ghazir ที่มี Cabernet Sauvignon, Cinsault และ Carignan, สุกและอุดมสมบูรณ์",
+                "ru": "Красное вино из Ghazir с Cabernet Sauvignon, Cinsault и Carignan, зрелое и богатое"
+              }
+            },
+            {
+              "id": 256,
+              "name_i18n": {
+                "common": "domaine_santa_duc_le_pied",
+                "es": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "en": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "pt": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "fr": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "de": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "th": "Domaine Santa Duc, Le Pied de Baud 2020",
+                "ru": "Domaine Santa Duc, Le Pied de Baud 2020"
+              },
+              "price": 97.00,
+              "cover": "/domaine_santa_duc_le_pied.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Châteauneuf-du-Pape con Grenache y Mourvèdre, potente y elegante",
+                "en": "Red wine from Châteauneuf-du-Pape with Grenache and Mourvèdre, powerful and elegant",
+                "pt": "Vinho tinto de Châteauneuf-du-Pape com Grenache e Mourvèdre, potente e elegante",
+                "fr": "Vin rouge de Châteauneuf-du-Pape avec Grenache et Mourvèdre, puissant et élégant",
+                "de": "Rotwein aus Châteauneuf-du-Pape mit Grenache und Mourvèdre, kräftig und elegant",
+                "th": "ไวน์แดงจาก Châteauneuf-du-Pape ที่มี Grenache และ Mourvèdre, เข้มข้นและหรูหรา",
+                "ru": "Красное вино из Châteauneuf-du-Pape с Grenache и Mourvèdre, мощное и элегантное"
+              }
+            },
+            {
+              "id": 257,
+              "name_i18n": {
+                "common": "mastrobberardino_radici",
+                "es": "Mastrobberardino, Radici Riserva 2018",
+                "en": "Mastrobberardino, Radici Riserva 2018",
+                "pt": "Mastrobberardino, Radici Riserva 2018",
+                "fr": "Mastrobberardino, Radici Riserva 2018",
+                "de": "Mastrobberardino, Radici Riserva 2018",
+                "th": "Mastrobberardino, Radici Riserva 2018",
+                "ru": "Mastrobberardino, Radici Riserva 2018"
+              },
+              "price": 99.00,
+              "cover": "/mastrobberardino_radici.webp",
+              "category": {
+                "common": "red"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino tinto de Aglianico de Taurasi, profundo y estructurado",
+                "en": "Red wine from Aglianico in Taurasi, deep and structured",
+                "pt": "Vinho tinto de Aglianico de Taurasi, profundo e estruturado",
+                "fr": "Vin rouge de Aglianico de Taurasi, profond et structuré",
+                "de": "Rotwein aus Aglianico aus Taurasi, tief und strukturiert",
+                "th": "ไวน์แดงจาก Aglianico ใน Taurasi, ลึกและมีโครงสร้าง",
+                "ru": "Красное вино из Aglianico в Taurasi, глубокое и структурированное"
               }
             }
           ]
