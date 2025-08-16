@@ -95,7 +95,7 @@
           },
           "price": 11.0,
           "priceCents": 1100,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/cecina.webp",
           "allergens": [],
           "description": {
             "es": "Cecina curada, queso suave, grissini crujientes y alioli de pimentón",
