@@ -1061,7 +1061,7 @@
                 "ru": "Mallibran, Sottoriva 2023"
               },
               "price": 30.00,
-              "cover": "/mallibran_sottoriva.webp",
+              "cover": "",
               "category": {
                 "common": "sparkling_wine"
               },
@@ -1091,7 +1091,7 @@
                 "ru": "Oddero Cascia Fiori 2024 (сладкое)"
               },
               "price": 39.00,
-              "cover": "/oddero_cascia_fiori.webp",
+              "cover": "",
               "category": {
                 "common": "sparkling_wine"
               },
@@ -1121,7 +1121,7 @@
                 "ru": "Mestres, Visol 2017"
               },
               "price": 47.00,
-              "cover": "/mestres_visol.webp",
+              "cover": "",
               "category": {
                 "common": "sparkling_wine"
               },
@@ -1151,7 +1151,7 @@
                 "ru": "Thierry Fournier, Réserve Brut NV"
               },
               "price": 15.00,
-              "cover": "/thierry_fournier.webp",
+              "cover": "",
               "category": {
                 "common": "sparkling_wine"
               },
@@ -1195,7 +1195,7 @@
                 "ru": "Celler Frisach, La Forada 2022"
               },
               "price": 34.00,
-              "cover": "/celler_frisach_la_forada.webp",
+              "cover": "",
               "category": {
                 "common": "orange_wine"
               },
@@ -1225,7 +1225,7 @@
                 "ru": "Fabio Coulet, Orange Peels 2023"
               },
               "price": 46.00,
-              "cover": "/fabio_coulet_orange_peels.webp",
+              "cover": "",
               "category": {
                 "common": "orange_wine"
               },
@@ -1255,7 +1255,7 @@
                 "ru": "I Cacciagalli, Zgreo 2022"
               },
               "price": 50.00,
-              "cover": "/i_cacciagalli_zgreo.webp",
+              "cover": "",
               "category": {
                 "common": "orange_wine"
               },
@@ -1299,7 +1299,7 @@
                 "ru": "Soto Manrique, Naranjas Azules 2023"
               },
               "price": 4.50,
-              "cover": "/soto_manrique_naranjas_azules.webp",
+              "cover": "",
               "category": {
                 "common": "rose_wine"
               },
@@ -1329,7 +1329,7 @@
                 "ru": "Miraval, Rosé 2024"
               },
               "price": 44.00,
-              "cover": "/miraval_rose.webp",
+              "cover": "",
               "category": {
                 "common": "rose_wine"
               },
@@ -1359,7 +1359,7 @@
                 "ru": "Clos Cibonne, Cuvée des Vignettes 2022"
               },
               "price": 64.00,
-              "cover": "/clos_cibonne_cuvee_vignettes.webp",
+              "cover": "",
               "category": {
                 "common": "rose_wine"
               },
@@ -1403,7 +1403,7 @@
                 "ru": "Montelaguna, Tinto 2023"
               },
               "price": 5.25,
-              "cover": "/montelaguna_tinto.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1433,7 +1433,7 @@
                 "ru": "Guimaro, Tinto 2024"
               },
               "price": 5.26,
-              "cover": "/guimaro_tinto.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1463,7 +1463,7 @@
                 "ru": "Viña del Lentisco, Selvaveda 2022"
               },
               "price": 26.00,
-              "cover": "/vina_del_lentisco.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1493,7 +1493,7 @@
                 "ru": "Viñedos de Remelluri, Labastida 2021"
               },
               "price": 39.00,
-              "cover": "/vinedos_de_remelluri.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1523,7 +1523,7 @@
                 "ru": "Borgogno Rivata, Nebbiolo 2022"
               },
               "price": 39.00,
-              "cover": "/borgogno_rivata.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1553,7 +1553,7 @@
                 "ru": "Graillot, Domaine des Ouleb, Thaleh 2022"
               },
               "price": 39.00,
-              "cover": "/graillot_domaine_ouleb.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1583,7 +1583,7 @@
                 "ru": "4Kilos, Tanuki Bob 2022"
               },
               "price": 39.00,
-              "cover": "/4kilos_tanuki_bob.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1613,7 +1613,7 @@
                 "ru": "Mittas, Xinomavro 2021"
               },
               "price": 40.00,
-              "cover": "/mittas_xinomavro.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1643,7 +1643,7 @@
                 "ru": "Vinas Mora, Andreis, 2021"
               },
               "price": 47.00,
-              "cover": "/vinas_mora_andreis.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1673,7 +1673,7 @@
                 "ru": "Gallety, Rouge 2021"
               },
               "price": 48.00,
-              "cover": "/gallety_rouge.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1703,7 +1703,7 @@
                 "ru": "Parparoussis, Epilegmenos Reserva 2016"
               },
               "price": 58.00,
-              "cover": "/parparoussis_epilegmenos.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1733,7 +1733,7 @@
                 "ru": "Le Chiuse, Rosso 2019"
               },
               "price": 58.00,
-              "cover": "/le_chiuse_rosso.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1763,7 +1763,7 @@
                 "ru": "Jean Féry, Sous La Cabotte 2022"
               },
               "price": 77.00,
-              "cover": "/jean_fery_sous_la_cabotte.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1793,7 +1793,7 @@
                 "ru": "Château de Pibarnon, Rouge 2019"
               },
               "price": 89.00,
-              "cover": "/chateau_de_pibarnon_rouge.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1823,7 +1823,7 @@
                 "ru": "Château Musar, Rouge 2017"
               },
               "price": 91.00,
-              "cover": "/chateau_musar_rouge.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1853,7 +1853,7 @@
                 "ru": "Domaine Santa Duc, Le Pied de Baud 2020"
               },
               "price": 97.00,
-              "cover": "/domaine_santa_duc_le_pied.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1883,7 +1883,7 @@
                 "ru": "Mastrobberardino, Radici Riserva 2018"
               },
               "price": 99.00,
-              "cover": "/mastrobberardino_radici.webp",
+              "cover": "",
               "category": {
                 "common": "red"
               },
@@ -1927,7 +1927,7 @@
                 "ru": "Saint Martin, Icewine 2016"
               },
               "price": 70.00,
-              "cover": "/saint_martin_icewine.webp",
+              "cover": "",
               "category": {
                 "common": "special"
               },
@@ -1957,7 +1957,7 @@
                 "ru": "Château d'Yquem, Sauternes 2014"
               },
               "price": 250.00,
-              "cover": "/chateau_dyquem_sauternes.webp",
+              "cover": "",
               "category": {
                 "common": "special"
               },
@@ -1987,7 +1987,7 @@
                 "ru": "Krutzler, Ruster Ausbruch 2018"
               },
               "price": 95.00,
-              "cover": "/krutzler_ruster_auer.webp",
+              "cover": "",
               "category": {
                 "common": "special"
               },
