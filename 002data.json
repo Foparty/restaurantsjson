@@ -149,7 +149,7 @@
           },
           "price": 10.0,
           "priceCents": 1000,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/croquetas.webp",
           "allergens": [],
           "description": {
             "es": "Croquetas cremosas de patata y cebolla con salsa de pimentón asado",
