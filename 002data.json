@@ -1901,6 +1901,110 @@
               }
             }
           ]
+        },
+        {
+          "slug": "special",
+          "name_i18n": {
+            "es": "Especiales",
+            "en": "Specials",
+            "pt": "Especiais",
+            "fr": "Spéciales",
+            "de": "Spezialitäten",
+            "th": "พิเศษ",
+            "ru": "Специальные"
+          },
+          "items": [
+            {
+              "id": 261,
+              "name_i18n": {
+                "common": "saint_martin_icewine",
+                "es": "Saint Martin, Icewine 2016",
+                "en": "Saint Martin, Icewine 2016",
+                "pt": "Saint Martin, Icewine 2016",
+                "fr": "Saint Martin, Icewine 2016",
+                "de": "Saint Martin, Icewine 2016",
+                "th": "Saint Martin, Icewine 2016",
+                "ru": "Saint Martin, Icewine 2016"
+              },
+              "price": 70.00,
+              "cover": "/saint_martin_icewine.webp",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de hielo de Riesling de Okanagan Valley, intenso y dulce",
+                "en": "Icewine from Riesling in Okanagan Valley, intense and sweet",
+                "pt": "Vinho de gelo de Riesling de Okanagan Valley, intenso e doce",
+                "fr": "Vin de glace de Riesling de Okanagan Valley, intense et doux",
+                "de": "Eiswein aus Riesling aus Okanagan Valley, intensiv und süß",
+                "th": "ไวน์น้ำแข็งจาก Riesling ใน Okanagan Valley, เข้มข้นและหวาน",
+                "ru": "Ледяное вино из Riesling в Оканаган Валлей, интенсивное и сладкое"
+              }
+            },
+            {
+              "id": 262,
+              "name_i18n": {
+                "common": "chateau_dyquem_sauternes",
+                "es": "Château d'Yquem, Sauternes 2014",
+                "en": "Château d'Yquem, Sauternes 2014",
+                "pt": "Château d'Yquem, Sauternes 2014",
+                "fr": "Château d'Yquem, Sauternes 2014",
+                "de": "Château d'Yquem, Sauternes 2014",
+                "th": "Château d'Yquem, Sauternes 2014",
+                "ru": "Château d'Yquem, Sauternes 2014"
+              },
+              "price": 250.00,
+              "cover": "/chateau_dyquem_sauternes.webp",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de Sémillon y Sauvignon Blanc de Sauternes, complejo y lujoso",
+                "en": "Sweet wine from Sémillon and Sauvignon Blanc in Sauternes, complex and luxurious",
+                "pt": "Vinho doce de Sémillon e Sauvignon Blanc de Sauternes, complexo e luxuoso",
+                "fr": "Vin doux de Sémillon et Sauvignon Blanc de Sauternes, complexe et luxueux",
+                "de": "Süßer Wein aus Sémillon und Sauvignon Blanc aus Sauternes, komplex und luxuriös",
+                "th": "ไวน์หวานจาก Sémillon และ Sauvignon Blanc ใน Sauternes, ซับซ้อนและหรูหรา",
+                "ru": "Сладкое вино из Sémillon и Sauvignon Blanc в Sauternes, сложное и роскошное"
+              }
+            },
+            {
+              "id": 263,
+              "name_i18n": {
+                "common": "krutzler_ruster_auer",
+                "es": "Krutzler, Ruster Ausbruch 2018",
+                "en": "Krutzler, Ruster Ausbruch 2018",
+                "pt": "Krutzler, Ruster Ausbruch 2018",
+                "fr": "Krutzler, Ruster Ausbruch 2018",
+                "de": "Krutzler, Ruster Ausbruch 2018",
+                "th": "Krutzler, Ruster Ausbruch 2018",
+                "ru": "Krutzler, Ruster Ausbruch 2018"
+              },
+              "price": 95.00,
+              "cover": "/krutzler_ruster_auer.webp",
+              "category": {
+                "common": "special"
+              },
+              "allergens": [
+                "sulfites"
+              ],
+              "description": {
+                "es": "Vino dulce de Furmint y Welschriesling de Rust, rico y aromático",
+                "en": "Sweet wine from Furmint and Welschriesling in Rust, rich and aromatic",
+                "pt": "Vinho doce de Furmint e Welschriesling de Rust, rico e aromático",
+                "fr": "Vin doux de Furmint et Welschriesling de Rust, riche et aromatique",
+                "de": "Süßer Wein aus Furmint und Welschriesling aus Rust, reich und aromatisch",
+                "th": "ไวน์หวานจาก Furmint และ Welschriesling ใน Rust, อุดมสมบูรณ์และหอม",
+                "ru": "Сладкое вино из Furmint и Welschriesling в Русте, богатое и ароматное"
+              }
+            }
+          ]
         }
       ],
       "items": []
