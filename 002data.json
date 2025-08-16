@@ -175,7 +175,7 @@
           },
           "price": 8.5,
           "priceCents": 850,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/piparras.webp",
           "allergens": [],
           "description": {
             "es": "Piparras frescas a la brasa con un toque de limón y sal negra",
