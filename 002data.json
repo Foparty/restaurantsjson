@@ -121,7 +121,7 @@
           },
           "price": 5.0,
           "priceCents": 500,
-          "cover": "",
+          "cover": "https://raw.githubusercontent.com/Foparty/restaurantsjson/refs/heads/main/norah/cecina.webp",
           "allergens": [
             "fish"
           ],
